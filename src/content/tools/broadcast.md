@@ -4,6 +4,7 @@ tagline: "AI-powered per-app noise suppression for PipeWire on Linux"
 author: "Gareth Hubball"
 author_github: "londospark"
 github_url: "https://github.com/londospark/broadcast"
+thumbnail: "/thumbnails/broadcast.png"
 tags: ["linux", "audio", "noise-suppression", "pipewire", "cli"]
 language: "Rust"
 license: "GPL-3.0-or-later"

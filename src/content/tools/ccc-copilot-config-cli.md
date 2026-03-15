@@ -11,6 +11,8 @@ license: "(Updated) MIT"
 theme: "terminal"
 date_added: "2026-03-10"
 featured: false
+ai_summary: "Tired of wrestling with config files for your GitHub Copilot CLI? Dive into this sleek terminal UI that makes tweaking settings a breeze while keeping your secrets safe and sound."
+ai_features: ["🎨 Gorgeous terminal UI powered by the Charm stack", "🔍 Auto-detects Copilot CLI version and config keys", "🔒 Masks sensitive tokens for secure viewing", "⚡ Single static Go binary with zero dependencies"]
 ---
 
 ccc reads your ~/.copilot/config.json, auto-detects the installed Copilot CLI version and available config keys, and presents them in a beautiful terminal UI for editing. Sensitive fields (tokens, credentials) are masked and read-only, so you can safely browse your full config without worry.

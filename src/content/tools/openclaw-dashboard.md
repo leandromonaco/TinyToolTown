@@ -12,6 +12,8 @@ license: "MIT"
 theme: "terminal"
 date_added: "2026-03-10"
 featured: false
+ai_summary: "Keep tabs on your smart home and AI agent like a pro with a slick, no-fuss dashboard that updates live without any build headaches. It’s like your personal control center served up in a neat, lightweight package!"
+ai_features: ["🎨 Four stylish themes including dark bioluminescent glow", "🚀 Real-time streaming updates via Server-Sent Events", "🔧 Zero build step with vanilla JS and FastAPI backend", "🏠 Monitors everything from Spotify to Philips Hue lights and system health"]
 ---
 
 A tiny, self-hosted status dashboard that gives your AI agent (or just you) a live view of your home network - Spotify playback, Philips Hue lights, Ollama LLM servers, NAS media libraries, machine health, backups, and cron jobs. All streamed via Server-Sent Events.

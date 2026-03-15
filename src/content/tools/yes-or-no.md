@@ -11,7 +11,8 @@ language: "Vanilla JS"
 license: "MIT"
 date_added: "2026-03-04"
 featured: false
-ai_summary: "Stuck in decision limbo? This handy tool is here to nudge you toward a yes or no answer when you just can't decide! FEATURES: 🤔 Simple decision helper | 🎲 Random yes or no generator | 🚀 Super quick and easy to use"
+ai_summary: "Stuck in decision limbo? This tiny tool is your cheerful yes-or-no genie, ready to help you make those pesky choices with zero fuss!"
+ai_features: ["🎲 Simple yes or no answers", "🚀 Super quick decision helper", "🎉 Perfect for everyday dilemmas"]
 ---
 
 The website responds with "Yes" or "No", and rarely with "Maybe".

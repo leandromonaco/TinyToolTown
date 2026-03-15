@@ -11,6 +11,8 @@ license: "MIT"
 theme: "terminal"
 date_added: "2026-03-10"
 featured: false
+ai_summary: "Share what you're jamming on Apple Music instantly across your favorite channels without breaking a sweat — all powered by pure macOS magic and zero dependencies! It's like having a personal music hype squad broadcasting your tunes everywhere you want."
+ai_features: ["🎵 Broadcast now playing to Twitter, Telegram, Pumble, or custom channels", "⚡ Built entirely in JXA with zero external dependencies", "🛠️ Easily extendable via simple JavaScript plugins", "🔔 macOS native notifications with optional custom icons"]
 ---
 
 Musjxa watches Apple Music and automatically shares what you're listening to on any channel you want. It has a pluggable architecture — just drop a .js file in the channels/ folder to add support for any service. Built entirely with JXA (JavaScript for Automation), it runs natively on macOS with zero dependencies. I built it because I wanted a lightweight way to share my music without installing heavy apps or managing complex APIs. The name? It's "musica" with JXA baked in.

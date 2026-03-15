@@ -11,6 +11,8 @@ license: "GPL-3.0-or-later"
 theme: "terminal"
 date_added: "2026-03-10"
 featured: false
+ai_summary: "Say goodbye to background noise ruining your calls or streams with this slick AI-powered noise suppressor that lets you pick and choose which apps get the magic treatment—perfect for Linux users who want clean sound without the hassle. It’s like having your own NVIDIA Broadcast but open source and ready to rock on any machine!"
+ai_features: ["🤖 AI-driven noise suppression for mic and output audio", "🎛️ Per-app routing control to filter only what you want", "🖥️ Handy CLI and GTK4 GUI for easy toggling and setup", "🔄 Native PipeWire integration with customizable filter chains"]
 ---
 
 Broadcast routes individual application audio streams through DeepFilterNet AI noise suppression on Linux. Instead of filtering everything or nothing, you pick which apps get cleaned up — Discord and browser calls get noise-free audio while Spotify and games stay untouched.

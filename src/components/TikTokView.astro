@@ -143,6 +143,7 @@ const shortsToolsJson = JSON.stringify(shortsToolsData).replace(/</g, '\\u003c')
 
       const favBtn = sec.querySelector<HTMLElement>('.favorite-action')!;
       favBtn.dataset.tool = t.slug;
+      favBtn.dataset.toolTitle = t.name;
       favBtn.addEventListener('click', toggleFavorite);
 
       const shrBtn = sec.querySelector<HTMLElement>('.distribute-action')!;

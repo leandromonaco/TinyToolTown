@@ -16,7 +16,7 @@ function normalizeFavoriteRecords(parsed: unknown): FavoriteRecord[] {
       if (!entry) return;
       const existing = recordMap.get(entry);
       if (!existing) {
-        recordMap.set(entry, { slug: entry, favoritedAt: index + 1 });
+        recordMap.set(entry, { slug: entry, favoritedAt: Date.now() - (parsed.length - index) * 1000 });
       }
       return;
     }
@@ -141,6 +141,7 @@ export function confirmFavoriteRemoval(toolName: string): Promise<boolean> {
   if (activeFavoriteConfirm) return activeFavoriteConfirm;
 
   activeFavoriteConfirm = new Promise<boolean>((resolve) => {
+    const triggeringElement = document.activeElement as HTMLElement | null;
     const overlay = document.createElement('div');
     overlay.className = 'ttt-favorite-confirm-overlay';
 
@@ -243,8 +244,11 @@ export function confirmFavoriteRemoval(toolName: string): Promise<boolean> {
     const cleanup = () => {
       document.body.style.overflow = previousOverflow;
       overlay.remove();
-      window.removeEventListener('keydown', onEscape);
+      window.removeEventListener('keydown', onKeydown);
       activeFavoriteConfirm = null;
+      if (triggeringElement && typeof triggeringElement.focus === 'function') {
+        triggeringElement.focus();
+      }
     };
 
     const finish = (result: boolean) => {
@@ -252,8 +256,19 @@ export function confirmFavoriteRemoval(toolName: string): Promise<boolean> {
       resolve(result);
     };
 
-    const onEscape = (event: KeyboardEvent) => {
-      if (event.key === 'Escape') finish(false);
+    const focusableEls = [cancelBtn, removeBtn];
+    const onKeydown = (event: KeyboardEvent) => {
+      if (event.key === 'Escape') { finish(false); return; }
+      if (event.key === 'Tab') {
+        const current = document.activeElement;
+        const idx = focusableEls.indexOf(current as HTMLElement);
+        if (event.shiftKey) {
+          focusableEls[idx <= 0 ? focusableEls.length - 1 : idx - 1].focus();
+        } else {
+          focusableEls[(idx + 1) % focusableEls.length].focus();
+        }
+        event.preventDefault();
+      }
     };
 
     overlay.addEventListener('click', (event) => {
@@ -261,7 +276,7 @@ export function confirmFavoriteRemoval(toolName: string): Promise<boolean> {
     });
     cancelBtn.addEventListener('click', () => finish(false));
     removeBtn.addEventListener('click', () => finish(true));
-    window.addEventListener('keydown', onEscape);
+    window.addEventListener('keydown', onKeydown);
     cancelBtn.focus();
   });
 

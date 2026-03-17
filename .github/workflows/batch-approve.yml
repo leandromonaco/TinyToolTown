@@ -20,6 +20,7 @@ jobs:
     permissions:
       contents: write
       issues: write
+      actions: write
     steps:
       - uses: actions/checkout@v4
 
@@ -418,6 +419,15 @@ jobs:
             }
 
             if (processed.length > 0 && pushed) {
+              // Trigger deploy — GITHUB_TOKEN pushes don't trigger other workflows
+              await github.rest.actions.createWorkflowDispatch({
+                owner,
+                repo,
+                workflow_id: 'deploy.yml',
+                ref: 'main',
+              });
+              console.log('Triggered deploy workflow');
+
               for (const item of processed) {
                 await github.rest.issues.createComment({
                   owner,

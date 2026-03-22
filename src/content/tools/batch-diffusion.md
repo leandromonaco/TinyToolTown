@@ -10,6 +10,8 @@ language: "Python"
 license: "CC BY-NC 4.0"
 date_added: "2026-03-16"
 featured: false
+ai_summary: "Kick back and let this clever little script crank out batches of AI-generated art while keeping your laptop cool and happy—perfect for running unattended image marathons with style!"
+ai_features: ["🤖 Unattended batch image generation via Stable Diffusion API", "❄️ Randomized cooldown pauses to prevent GPU overheating", "🎨 Supports multiple checkpoints for easy model comparisons", "📝 Per-prompt parameter overrides for ultimate customization"]
 ---
 
 Unattended batch image generation for AUTOMATIC1111 Stable Diffusion WebUI. Feed it a prompts file, optionally cycle multiple checkpoints, and let it run — with cooldown pauses between images to prevent thermal throttling.

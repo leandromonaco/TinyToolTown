@@ -11,6 +11,8 @@ language: "JavaScript"
 license: "MIT"
 date_added: "2026-03-16"
 featured: false
+ai_summary: "Stuck on a Kubernetes CrashLoopBackOff? Just paste your pod logs and get instant, crystal-clear reasons why your container is misbehaving—debugging just got way less stressful!"
+ai_features: ["🔥 Deterministic rule engine spots common failure patterns instantly", "⚡ AI-assisted explanations generate tailored, runnable kubectl commands", "🎯 Supports multiple crash causes like OOMKilled and ImagePullBackOff", "🚀 Works offline with or without AI key for seamless debugging"]
 ---
 
 Crashloop Analyzer is a small tool that helps debug Kubernetes CrashLoopBackOff errors faster.

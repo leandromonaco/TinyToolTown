@@ -10,6 +10,8 @@ language: "Next.js 15, TypeScript"
 license: "CC BY-NC 4.0"
 date_added: "2026-03-16"
 featured: false
+ai_summary: "Effortlessly swipe, tag, and sort your AI-generated images like a pro with this sleek mobile-friendly web app that makes culling a total breeze. Say goodbye to clutter and hello to streamlined creativity right from your phone or desktop!"
+ai_features: ["📱 Mobile-optimized full-screen lightbox with swipe and pinch gestures", "🗂️ Batch tag images as Save, Redo, or Delete and apply all at once", "💾 Saves progress in actions.txt so you never lose your spot", "🖥️ Works cross-platform with easy local network access for phone or tablet reviews"]
 ---
 
 A mobile-friendly web app for batch-reviewing AI-generated images. Browse folders of images, tag each one as Save, Redo, or Delete, then apply all actions at once. The Saves are copied to a destination folder, the Redos in subfolder of the destination (so you can attempt it again), and the Deletes are moved to the OS trash (in case you want to retrieve them again). 

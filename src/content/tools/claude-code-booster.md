@@ -10,6 +10,8 @@ language: "C#"
 license: "MIT"
 date_added: "2026-03-16"
 featured: false
+ai_summary: "Juggling multiple Claude Code CLI sessions just got a whole lot easier with this desktop sidekick that corrals your terminals and IDEs into neat, one-click worktree squads. Say goodbye to window chaos and hello to instant context switching and session restoring magic!"
+ai_features: ["🃏 Manage multiple parallel Claude Code CLI sessions by git worktree", "🚀 One-click context switch to focus all windows for a session", "🔄 Restore all terminals and IDEs after restart seamlessly", "🌗 Supports dark and light themes respecting system settings"]
 ---
 
 A tiny Windows desktop app for developers who run multiple Claude Code CLI sessions in parallel across git worktrees.

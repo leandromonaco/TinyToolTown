@@ -12,6 +12,8 @@ license: "MIT"
 theme: "terminal"
 date_added: "2026-03-17"
 featured: false
+ai_summary: "Brighten up your console with syntax-highlighted code that pops using TextMate grammars, making your scripts and docs a joy to read right where you work! It’s like having a mini code editor inside your PowerShell terminal."
+ai_features: ["🔥 Syntax-aware highlighting for multiple languages like PowerShell C# Markdown and Python", "⚡ Returns Spectre.Console-compatible HighlightedText renderables for seamless integration", "🎯 Builtin pager for smooth scrolling of long outputs", "🚀 Handy cmdlets to discover and test installed grammars/extensions"]
 ---
 
 TextMate delivers syntax-aware highlighting for PowerShell on top of TextMate grammars. It exposes a focused set of cmdlets that emit tokenized, theme-styled HighlightedText renderables you can write directly or feed into any Spectre-based pipeline. Helper cmdlets make it easy to discover grammars and validate support for files, extensions, or language IDs before formatting.

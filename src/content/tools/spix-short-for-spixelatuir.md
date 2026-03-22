@@ -11,6 +11,8 @@ license: "GPL-3.0"
 theme: "synthwave"
 date_added: "2026-03-16"
 featured: false
+ai_summary: "Dive into a pixel playground that turns your terminal into a glitch art studio where every keystroke crafts mesmerizing digital distortions and animations in real-time. It’s retro vibes, wild effects, and speedy tweaks all wrapped in a snappy Rust-powered TUI!"
+ai_features: ["🚀 Blazing fast live preview with Sixel graphics", "🛠️ Stack and blend powerful multi-layered effects", "🎞️ Animate with automatic parameter sweeps and GIF/WebP exports", "🎨 Fully customizable UI themes for the ultimate Linux ricer setup"]
 ---
 
 SpixelaTUIr is a terminal-based image glitching and processing application designed for creative tinkering and fast visual experimentation. Built in Rust, it leverages the Sixel graphics protocol to render high-fidelity, live previews of image manipulations entirely inside your terminal emulator.

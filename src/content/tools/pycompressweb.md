@@ -4,6 +4,7 @@ tagline: "Bulk Compress you images for websites and blogs, and keep"
 author: "Anders Keis"
 author_github: "anderskeis"
 github_url: "https://github.com/anderskeis/pycompressweb"
+thumbnail: "/thumbnails/pycompressweb.png"
 website_url: "https://github.com/anderskeis/pycompressweb"
 tags: ["imagecompression", "blog", "pictures"]
 language: "Python"

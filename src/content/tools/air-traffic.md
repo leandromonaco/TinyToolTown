@@ -4,6 +4,7 @@ tagline: "Bridge local Copilot CLI sessions to a slack channel"
 author: "Daniel Gerlag"
 author_github: "danielgerlag"
 github_url: "https://github.com/danielgerlag/air-traffic"
+thumbnail: "/thumbnails/air-traffic.png"
 tags: ["copilot"]
 license: "MIT"
 theme: "ocean"

@@ -4,6 +4,7 @@ tagline: "Session manager for parallel Claude Code CLI sessions — groups termi
 author: "Francis Surroca"
 author_github: "fsuskate"
 github_url: "https://github.com/fsuskate/claude-code-booster"
+thumbnail: "/thumbnails/claude-code-booster.png"
 tags: ["claude code cli"]
 language: "C#"
 license: "MIT"

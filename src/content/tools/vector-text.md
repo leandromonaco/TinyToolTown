@@ -4,6 +4,7 @@ tagline: "Convert text to SVG paths for reliable rendering across all platforms 
 author: "Jon Corey"
 author_github: "Jon-Corey"
 github_url: "https://github.com/Jon-Corey/VectorText"
+thumbnail: "/thumbnails/vector-text.png"
 website_url: "https://vector-text.com/"
 tags: ["svg", "text", "font"]
 language: "JavaScript"

@@ -18,11 +18,11 @@ HTML, CSS ve JavaScript ile geliştirilmiştir.
 
 Repository: https://github.com/LynXMaSTeR/LSaat
 
-![Koyu Tema Önizleme](assets/preview-dark.gif)
-![Açık Tema Önizleme](assets/preview-light.gif)
+![Koyu Tema Önizleme](https://raw.githubusercontent.com/LynXMaSTeR/LSaat/main/assets/preview-dark.gif)
+![Açık Tema Önizleme](https://raw.githubusercontent.com/LynXMaSTeR/LSaat/main/assets/preview-light.gif)
 
-![Koyu Tema Ekran Görüntüsü](assets/dark.png)
-![Açık Tema Ekran Görüntüsü](assets/light.png)
+![Koyu Tema Ekran Görüntüsü](https://raw.githubusercontent.com/LynXMaSTeR/LSaat/main/assets/dark.png)
+![Açık Tema Ekran Görüntüsü](https://raw.githubusercontent.com/LynXMaSTeR/LSaat/main/assets/light.png)
 
 ## TR
 

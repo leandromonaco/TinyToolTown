@@ -9,6 +9,8 @@ tags: ["tiny", "clock"]
 language: "HTML"
 date_added: "2026-03-26"
 featured: false
+ai_summary: "Want a classy mechanical flip clock that takes over your screen with style? This slick web app brings vintage charm right to your browser with easy toggles and fullscreen fun!"
+ai_features: ["🌓 Toggle between light and dark themes", "🕛 Switch effortlessly between 12 and 24-hour formats", "🔲 Fullscreen mode for immersive clock vibes", "⏱ Show or hide seconds with a simple keystroke"]
 ---
 
 # LSaat

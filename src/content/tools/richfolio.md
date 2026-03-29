@@ -12,6 +12,8 @@ license: "ISC"
 theme: "newspaper"
 date_added: "2026-03-24"
 featured: false
+ai_summary: "Keep your investment game sharp and stress-free with a zero-maintenance portfolio monitor that sends you AI-powered buy signals and insights automatically, all running for free on GitHub Actions! It's like having a savvy financial sidekick that never sleeps or charges a dime."
+ai_features: ["🤖 AI buy recommendations with detailed analysis pages", "📈 Technical momentum signals including SMA, RSI, MACD, and Bollinger Bands", "🎯 Allocation gap detection with prioritized buy suggestions", "💸 Limit order prices based on smart support level calculations"]
 ---
 
 ![Feature Image](https://raw.githubusercontent.com/furic/richfolio/main/docs/feature-image.png)

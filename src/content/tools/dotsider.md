@@ -4,6 +4,7 @@ tagline: "A TUI for analyzing .NET assemblies"
 author: "Brandon Williams"
 author_github: "willibrandon"
 github_url: "https://github.com/willibrandon/dotsider"
+thumbnail: "/thumbnails/dotsider.png"
 website_url: "https://dotsider.dev/demo/"
 tags: ["dotnet", "nuget", "assembly", "tui", "il-disassembler"]
 language: "C#"

@@ -4,6 +4,7 @@ tagline: "Run SQL scripts across multiple databases with ease."
 author: "sholman"
 author_github: "sholman"
 github_url: "https://github.com/sholman/SQLScriptRunner"
+thumbnail: "/thumbnails/sql-script-runner.png"
 website_url: "https://simonholman.dev"
 tags: ["windows", "sql server", "database", "automation", "wpf"]
 language: "C#"

@@ -4,7 +4,7 @@ tagline: "Discover and Star GitHub Repos"
 author: "Çağrı Gökpunar"
 author_github: "mpospirit"
 github_url: "https://github.com/mpospirit-apps/Repomance-iOS"
-thumbnail: "/thumbnails/repomance.png"
+thumbnail: "/thumbnails/repomance.gif"
 website_url: "https://repomance.com"
 tags: ["mobile", "github", "repo", "tinder", "swipe"]
 language: "Swift"

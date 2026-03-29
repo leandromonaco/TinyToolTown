@@ -4,6 +4,7 @@ tagline: "Gather the most relevant information about an executed .NET assembly"
 author: "Thomas Roschinsky"
 author_github: "roschinsky"
 github_url: "https://github.com/roschinsky/dotnet-all-about"
+thumbnail: "/thumbnails/dotnet-all-about.png"
 tags: ["cli", "dotnet", "environment", "container", "devtool"]
 language: "C#"
 license: "MIT"

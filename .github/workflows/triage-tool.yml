@@ -199,6 +199,14 @@ jobs:
             if (hasReadme) labelsToAdd.push('has-readme');
             if (hasImage) labelsToAdd.push('has-image');
 
+            // Remove stale triage labels that no longer apply
+            const triageLabels = ['repo-verified', 'has-license', 'has-readme', 'has-image'];
+            for (const label of triageLabels) {
+              if (!labelsToAdd.includes(label)) {
+                await removeLabelIfExists(issueNum, label);
+              }
+            }
+
             if (!repoExists || !hasLicense) {
               needsAttention = true;
             }

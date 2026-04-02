@@ -275,6 +275,26 @@ jobs:
               }
             }
 
+            // Friendly nudge for tools without images (non-blocking)
+            if (repoExists && !hasImage && !needsAttention) {
+              const { data: existingComments } = await github.rest.issues.listComments({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNum,
+              });
+              const alreadyNudged = existingComments.some(c =>
+                c.user.login === 'github-actions[bot]' && c.body.includes('screenshot or demo image')
+              );
+              if (!alreadyNudged) {
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issueNum,
+                  body: `✅ **${name || 'Your tool'}** looks good and is ready for review!\n\n💡 **Tip:** Tools with a screenshot or demo image in their README tend to get more attention on the site. Even for CLI tools, a terminal screenshot, a colorful output example, or an architecture diagram can make your page really pop. Consider adding one if you haven't already!\n\nNo action needed — this is just a friendly suggestion. 🏘️`,
+                });
+              }
+            }
+
             // Log summary
             console.log('\n══════════════════════════════════');
             console.log(`  Tool: ${name || 'unknown'}`);

@@ -186,8 +186,12 @@ jobs:
               needsAttention = true;
             }
 
-            // Check 3: License in form OR repo
-            const hasLicense = (license && license.length > 1 && license !== '_No response_') || hasRepoLicense;
+            // Check 3: License in repo (form field alone is not enough — we need an actual LICENSE file)
+            const hasFormLicense = license && license.length > 1 && license !== '_No response_';
+            const hasLicense = hasRepoLicense;
+            if (hasFormLicense && !hasRepoLicense) {
+              console.log(`  ⚠️ License "${license}" claimed in form but no LICENSE file detected in repo`);
+            }
 
             // Build label list
             if (repoExists) labelsToAdd.push('repo-verified');
@@ -234,7 +238,10 @@ jobs:
                 commentProblems.push(`❌ **Repository not accessible** — we couldn't reach \`${github_url}\`. Please make sure it's public and the URL is correct.`);
               } else if (repoExists) {
                 if (!hasLicense) {
-                  commentProblems.push('📄 **No license detected** — without a license, the code is technically "all rights reserved" and we can\'t list it as open source. Please add a `LICENSE` file. [MIT License](https://choosealicense.com/licenses/mit/) is a great choice — GitHub makes it easy: go to your repo → **Add file** → **Create new file** → type `LICENSE` and GitHub will offer a template picker.');
+                  const licenseHint = hasFormLicense
+                    ? `You mentioned "${license}" in the submission form, but we couldn't detect a LICENSE file in the repo.`
+                    : 'Without a license, the code is technically "all rights reserved" and we can\'t list it as open source.';
+                  commentProblems.push(`📄 **No license detected** — ${licenseHint} Please add a \`LICENSE\` file. [MIT License](https://choosealicense.com/licenses/mit/) is a great choice — GitHub makes it easy: go to your repo → **Add file** → **Create new file** → type \`LICENSE\` and GitHub will offer a template picker.`);
                 }
                 if (!hasReadme) {
                   commentProblems.push('📖 **No README found** — please add a `README.md` so people know what your tool does.');

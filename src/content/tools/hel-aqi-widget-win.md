@@ -11,6 +11,8 @@ language: "Python (with Rainmeter UI)"
 license: "No license"
 date_added: "2026-04-02"
 featured: false
+ai_summary: "Keep your desktop fresh and informed with a sleek widget that serves up live air quality info for two spots, complete with colorful scales and handy 24-hour trend graphs—because breathing easy is the ultimate flex!"
+ai_features: ["🌈 Color-coded AQI scale with clear labels", "📈 Separate 24-hour AQI history graphs for two locations", "🔄 Live updates every 5 minutes via a hidden Python-powered daemon", "🖥️ Semi-transparent Rainmeter skin that snaps anywhere on your screen"]
 ---
 
 If you follow the news from Armenia, you probably know how bad the air quality in Yerevan gets during the winter heating season — and this year it broke all records.

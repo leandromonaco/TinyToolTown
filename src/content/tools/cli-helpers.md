@@ -10,6 +10,8 @@ language: "Batchfile, bush, Python, shell"
 license: "MIT"
 date_added: "2026-04-02"
 featured: false
+ai_summary: "Supercharge your local dev workflow with handy command-line scripts that manage PATH, Git configs, Markdown TOCs, Python venvs, and more — all from your favorite shell! These helpers make repetitive tasks feel like a breeze so you can focus on building cool stuff."
+ai_features: ["🔥 Manage your current directory in PATH with simple commands", "⚡ Effortlessly show or update global Git user info and stash details", "🎯 Auto-create or update Markdown TOCs from the command line", "🚀 Activate and manage Python virtual environments in a snap"]
 ---
 
 cli-helpers is a tiny toolkit of command-line helper scripts for common local development chores. It includes shortcuts for Git workflows, PATH checks, Python virtual environment setup, Jupyter startup, and Markdown TOC generation.

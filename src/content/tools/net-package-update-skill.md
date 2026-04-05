@@ -11,6 +11,8 @@ license: "MIT"
 theme: "neon"
 date_added: "2026-04-02"
 featured: false
+ai_summary: "Upgrade your .NET packages like a pro by magically generating step-by-step migration guides, code transformations, and docs straight from release notes—no more guesswork or manual digging! It’s like having an AI-powered upgrade assistant who never sleeps and always knows what changed."
+ai_features: ["🔍 Discovers GitHub source and release tags between versions", "🧠 Analyzes and extracts breaking changes plus deprecations from release notes", "📄 Generates detailed markdown docs and Roslyn migration scripts", "✅ Validates output against source to squash hallucinations"]
 ---
 
 ## Package Update Skill

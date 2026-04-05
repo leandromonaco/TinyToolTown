@@ -11,6 +11,8 @@ license: "MIT"
 theme: "terminal"
 date_added: "2026-03-31"
 featured: false
+ai_summary: "Dive into your Azure resources with this slick terminal UI that makes browsing subscriptions, resource groups, and resources as easy as pie — all without leaving your keyboard! It’s like having a magic portal to Azure that fits right in your terminal window."
+ai_features: ["🔥 Full resource hierarchy navigation from subscriptions to resources", "⚡ Multiple authentication methods including Azure CLI and managed identities", "🎯 Rich detail views with color-coded summaries and syntax-highlighted JSON", "🖱️ Keyboard and mouse support with real-time search and portal link integration"]
 ---
 
 Inspired by [lazydocker](https://github.com/jesseduffield/lazydocker) I made a TUI for quickly browsing through the Azure resource hierarchy from the terminal.

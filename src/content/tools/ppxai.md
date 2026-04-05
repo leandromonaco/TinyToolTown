@@ -4,6 +4,7 @@ tagline: "Democratic coding with any LLM"
 author: "rcconsult"
 author_github: "rcconsult"
 github_url: "https://github.com/rcconsult/ppxai"
+thumbnail: "/thumbnails/ppxai.png"
 tags: ["cli", "vscode", "terminal", "web"]
 language: "Python"
 license: "MIT"

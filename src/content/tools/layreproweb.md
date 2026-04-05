@@ -4,6 +4,7 @@ tagline: "Chroma Keying For Quilt Creation"
 author: "Michael Twohey"
 author_github: "twodawg"
 github_url: "https://github.com/twodawg/LayerProWeb"
+thumbnail: "/thumbnails/layreproweb.jpg"
 website_url: "https://twodawg.github.io/LayerProWeb/"
 tags: ["chroma", "video", "image", "quilt", "composing"]
 language: "Javascript"

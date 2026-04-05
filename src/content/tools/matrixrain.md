@@ -4,7 +4,7 @@ tagline: "A great looking Matrix Rain implementation that runs live or as a scre
 author: "Robert Elmer"
 author_github: "relmer"
 github_url: "https://github.com/relmer/MatrixRain"
-thumbnail: "/thumbnails/matrixrain.png"
+thumbnail: "/thumbnails/matrixrain.gif"
 tags: ["windows", "win32", "animation", "graphics", "directx"]
 language: "C++"
 license: "MIT"

@@ -4,6 +4,7 @@ tagline: "a casual version of preference"
 author: "Nikita"
 author_github: "sarron93"
 github_url: "https://github.com/sarron93/raspisnoy"
+thumbnail: "/thumbnails/painted-poker.png"
 website_url: "http://raspisnoy.tgn1.ru:3000/"
 tags: ["fun", "web"]
 language: "JavaScript"

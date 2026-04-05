@@ -4,7 +4,7 @@ tagline: "The lazy way of viewing your Azure resources. TUI for drilling down in
 author: "Mats Estensen"
 author_github: "matsest"
 github_url: "https://github.com/matsest/lazyazure"
-thumbnail: "/thumbnails/lazyazure.png"
+thumbnail: "/thumbnails/lazyazure.gif"
 tags: ["cli", "tui", "azure", "terminal", "golang"]
 language: "Go"
 license: "MIT"

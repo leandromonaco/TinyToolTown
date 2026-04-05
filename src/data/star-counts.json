@@ -1,1082 +1,1082 @@
 {
   "aaronpowell/discord-docker-updater": {
     "stars": 3,
-    "etag": "W/\"626c418842bd20071091d1f17901fbecbe90bfa7ae64f78867aa664b5f67301d\""
+    "etag": "W/\"d29ff081ddcd34477900392873545d3b4d581b37db5c6cb881d9aeb4dfc73f1a\""
   },
   "Aeon-Group/jwt-interpreter": {
     "stars": 2,
-    "etag": "W/\"248d61f77cfc78c75c5863e045043d4c2181b0b3b886c5a9971ca999017dbfba\""
+    "etag": "W/\"847ede7277d54670b9d300d9f994f9478dfc14486a40436b75442d5be8b6b804\""
   },
   "aherrick/AndyTV": {
     "stars": 9,
-    "etag": "W/\"98eae8233e55dc05debacf6cfa099e3a661280b2b0037600727bc427c775413e\""
+    "etag": "W/\"e3fe0dfe93a9d21cece70fdcc82be0ed84b5af2e376ee2de9ae6ca6ac3f5c6a9\""
   },
   "aherrick/GithubActionDashboard": {
     "stars": 2,
-    "etag": "W/\"917c0c26255300423d0a68330e9f47c1ae5bc707d3f8cf9bb5de4b9d521c1970\""
+    "etag": "W/\"745da7805c4beb2e82228d123b1d981af81e017192bc0624886f1748edf925a6\""
   },
   "aherrick/Shadr": {
     "stars": 1,
-    "etag": "W/\"88d0cf51dea19ddb0c300538d72d6b634ec475ab3a4c00743cd708c3aacb6dff\""
+    "etag": "W/\"9c94e5e80058006cd938e79bbf2b9a44a006faed22f94f98189facf8acfe2ba9\""
   },
   "alexknowshtml/kuato": {
     "stars": 166,
-    "etag": "W/\"75e3735faa35eeccbf8db2f9b90bf840972b215928c8014c99a369e3eadf6e96\""
+    "etag": "W/\"7502f5aa1d60a3e44003983992f48fa4084708499b5d6478e50230340f6f0d01\""
   },
   "alexknowshtml/smaug": {
     "stars": 789,
-    "etag": "W/\"24bdc7e03dfb07a2ed56e200443bba3b3b3a9ad3c6814fcb3fd5c33597d6a85f\""
+    "etag": "W/\"4691ec507b9e54936c71fa99f082a27ec9812a900aedcaf8e263fb9ac4b11704\""
   },
   "alexknowshtml/unmumble": {
     "stars": 2,
-    "etag": "W/\"0ed0b5923d1f45553fb84c2d8a6f50a1465de0fa208bd160e0a0352460c21cf1\""
+    "etag": "W/\"c8a4f7ad18739371572a1d0870b061c81b11fcfc630adf8cc6c6a13d37185df1\""
   },
   "anderskeis/pycompressweb": {
     "stars": 0,
-    "etag": "W/\"3ec3c7902045bb4ffbd6a04cd313b33ef7eb7ae2844d4466cbbbb615f8f11cd7\""
+    "etag": "W/\"db0d77710132026657606d673c663fa890eec59fb11950c32d0c44070765a565\""
   },
   "andrea-migliaccio/xq-ui": {
     "stars": 2,
-    "etag": "W/\"31a6d5656e971d32a4e8186f90f69ca09c9296296278190271361bceb68513ab\""
+    "etag": "W/\"6fcd5d015021b852fa45f372c1e4e875b949feb25fbe25057fbd00796586c78c\""
   },
   "andreagrandi/logbasset": {
     "stars": 5,
-    "etag": "W/\"57dbdd993be69c2b18ae2ac558212f599377235caaab311d5d11c88c8bc92ab8\""
+    "etag": "W/\"aeefaa7bfa1777c5728210977bbd373c5677d73aef31737bbe92e030978b47c3\""
   },
   "AndreaGriffiths11/annotation-overlay": {
     "stars": 11,
-    "etag": "W/\"8dd316d9e59008009c486c69eb6c07484ec98bdae0863907237d83060334bc50\""
+    "etag": "W/\"ffbf7194e5b18450bab0cd44bd65520f9ebaf4a51564786b040bf2a45a92b4cc\""
   },
   "AndreaGriffiths11/squeeze": {
     "stars": 0,
-    "etag": "W/\"1cde42bd4dceb772f8c1393cf2e1d6328cfd9381b85b1a51c74e774eac0e164b\""
+    "etag": "W/\"acc0d2f0febb01af901c1a6bff63516cb17390f8e0986a6f4dcc34c89b4af16f\""
   },
   "andrewmassart/prompt-book": {
     "stars": 4,
-    "etag": "W/\"bd796b7f8e7881ca4f874218f50ac6e166608924b81d0c8b8e655f4834c90199\""
+    "etag": "W/\"1454edb705e856d4b05539dfbd0af17209bec70edb5ad0a0c8a6087c70dade77\""
   },
   "andybochmann/blob-mounter": {
     "stars": 2,
-    "etag": "W/\"d131ff2b9fb0ebcf2f671549fd622d98ca2f538da02b4c53347ff141db33b7e2\""
+    "etag": "W/\"50157599cba15d2b3839e2433acf6d65815add24b58722ecbba1bf20a7c6ad42\""
   },
   "andybochmann/DevKill": {
     "stars": 1,
-    "etag": "W/\"120a34eac12c86e6bb7887d3dfb6e2a4494cd1d866cab934e9600be813c3acb7\""
+    "etag": "W/\"154e1ac2d8569578816e77d5da736b90d10c168a089b6f05c5bdb222813e198a\""
   },
   "antoinecellerier/picture-frame-preprocessor": {
     "stars": 1,
-    "etag": "W/\"f27e9e5f96874c7dfa999867b7406649ef25df0cf6848241c3449def556ce44a\""
+    "etag": "W/\"3fc4b1c3307cbb427d7aefef91b5061f402157c76c05d4e0722f0b829ff880f3\""
   },
   "arafato/cf-nuke": {
     "stars": 6,
-    "etag": "W/\"a3eef1e2cb54aeeba44d4f12a86d68468cadbc88bb43d961642d8e340b13ece3\""
+    "etag": "W/\"a62ed969d5bdacd74e199265cde0ab87438fb915af3ba81d38da4f67d0564459\""
   },
   "asdrubalchirinos/musjxa": {
     "stars": 0,
-    "etag": "W/\"d99765a7cf7578be8995f728c266be10bc53f039c2a940204addf6bd3883f7c1\""
+    "etag": "W/\"8e556a99850a04cb382a5607fbd66103e3efc5a7e5b86effb5d2491a189721f7\""
   },
   "ashleywolf/contributor-history": {
     "stars": 2,
-    "etag": "W/\"7310eb68fedaff0056392bc057f3e27a02fe179220a9beb5c023e7cfd6794e06\""
+    "etag": "W/\"e4ac247e9313b457a890fde1a959f7b702348ec4a68f0dd331059106f154e3ab\""
   },
   "ashleywolf/scream-invaders": {
     "stars": 1,
-    "etag": "W/\"550d54643993c745eb92b08a927e93971cb2598df77f85cb60c4c54c14833334\""
+    "etag": "W/\"251e7915be70b51148b159fbc1add3f1f9c3169d710898a13bb515393dc2904b\""
   },
   "asynkron/Asynkron.Profiler": {
     "stars": 20,
-    "etag": "W/\"dac9b16d4b735ce719db5365dd5d107cd552a064f7db18d4a74978524150c87f\""
+    "etag": "W/\"bd2b1c54946e39b2c1fbd61400291a3b435a462384e5a21dd94c5e39f6e18735\""
   },
   "avikeid2007/KaiROS-AI": {
     "stars": 8,
-    "etag": "W/\"3a759534b1537548e7165a71dc3e28216352e90ce23468f3d2eda1628760249c\""
+    "etag": "W/\"e3594b2fcf329f86611a405174619b7559359aa0a5df332d5f13f49b45e20bec\""
   },
   "avikeid2007/Ping-Legacy": {
     "stars": 21,
-    "etag": "W/\"36f95beba7572f3ae17f20631b3457fe5d9b7efccb3539783c6d4d5487d737e1\""
+    "etag": "W/\"6b40ffd1525707876b7164eefe7f8632052609406394dc26e7a9061c0e0111b3\""
   },
   "azs06/copilot-bar": {
     "stars": 4,
-    "etag": "W/\"9316b05f9f41d2f60f6953f9929a00c79f9df4c742a1ca8ef41746d241220142\""
+    "etag": "W/\"041f71d4446a39c6f6767e5a9520b62a39139e15a03e5e9ef1ab4bdafa4b6fd1\""
   },
   "BA-CalderonMorales/terminal-jarvis": {
     "stars": 125,
-    "etag": "W/\"b3590181f4ea7fb1c755a41d6804492ea99268f79aa8a026fa50d9a9c175cec7\""
+    "etag": "W/\"2a30349da90d3eaf794d7c87025f7e756f505f40c86fa4d4bb500f32f36c3c13\""
   },
   "BaryoDev/Baryo.CLI": {
     "stars": 0,
-    "etag": "W/\"51eefa911a18caef7e704d9817f1ed87c41312956f5415420b6193e6a3b3f4d5\""
+    "etag": "W/\"92e8fd59ef6c83462e3182957f8829ea2ccad0c282fc70a4de3151ae3799d535\""
   },
   "bcantoni/bookmarklets": {
     "stars": 0,
-    "etag": "W/\"47a5fb3c1494fe81a8556d956e10bb8e4641fb39496b56ed4e082e51994a9edc\""
+    "etag": "W/\"7cfdeec17b428057779c82b26f79d45087f948f8697f09ed28a9cbd9ed4b6308\""
   },
   "benmartens/copilot-chat-export": {
     "stars": 1,
-    "etag": "W/\"741076218ab0f8d3c939cd67c33143c182d9590a8e0aeab4691d5a4e66ae5200\""
+    "etag": "W/\"c18ae1a6f7af394ebac26dc40d784efabd36ee2836536c097c1ab6d0b4a67a20\""
   },
   "BethanyJep/writing-editor": {
     "stars": 0,
-    "etag": "W/\"1b8372dd33a4507ab46f25e24d2c649c6c81705d4f5a827847107cf920caaee2\""
+    "etag": "W/\"712dd4da4c4e98357f03dc29035a9fe926ff3bb100d57af34ec344f03d37dab4\""
   },
   "bexelbie/online-compact-calendar": {
     "stars": 3,
-    "etag": "W/\"281bc5c6cfb555e1e3360154c08d95a80032f636d3111d24e7d77657aa541838\""
+    "etag": "W/\"a37cc06f23be13ba9fa718532bfed1d845255c7a3c18504d937ced9a496e09ab\""
   },
   "BieleckiLtd/IosScreenCaptureTool": {
     "stars": 0,
-    "etag": "W/\"27b3ef1bf3db3096d7b85b2c2ee9c0a9204af1ab5442f5dcfa254a0c88ea8dcb\""
+    "etag": "W/\"7a23918179045ae810d39b3c2bb52e8cae419aab895b2a455b4757357613b087\""
   },
   "bilusteknoloji/pipg": {
     "stars": 11,
-    "etag": "W/\"e088167e97dfaaff5115d6e2b2693a62d8a9497fe8d9654402eeceff35cb4a74\""
+    "etag": "W/\"bf270f4026349f01ef5b3a5e261850bdd586b0a054e630c7679f7116a7479918\""
   },
   "Blubern/llm-logprob-demo": {
     "stars": 0,
-    "etag": "W/\"f25a9f8675be254040bba7c4ab11fef639d283633794561ce1eccb466b9c323e\""
+    "etag": "W/\"f98b4dfcb6f7557436e4bca39436d055db33266458515bdc966cefe58f3f18cc\""
   },
   "boysbytes/frame-art-manager": {
     "stars": 2,
-    "etag": "W/\"93a147e765247419f18d1cf9584843e923444eb0109622fbbf45de2f20555d93\""
+    "etag": "W/\"8eefc45b46555096e38d2e8ea44703aa3a1a20c298550f3178b65875adb887d6\""
   },
   "boysbytes/mattehaus-frame-studio": {
     "stars": 0,
-    "etag": "W/\"8302d68bd3dc9243bb7e0c19111c432ee9014fff3f7ab51b4d488fa37e31ca77\""
+    "etag": "W/\"655e90c669ebaa3bfab5760d0969f036642606f3ebcae337b7438bdb8af52654\""
   },
   "BramDo/qcapi": {
     "stars": 0,
-    "etag": "W/\"9d495dce6d9856031583ab47731f1cdb02c516a90ac0e23033106006bdae9b9a\""
+    "etag": "W/\"5fa8d40c9d9613c2a5f918d4ce1b95397898cce19f55f78a3ede0be537e295c6\""
   },
   "builder-magic/timebound-iam": {
     "stars": 10,
-    "etag": "W/\"13ac146fbad1dbe56784b0c088eeccc918b53ed87f28cd96ae62ea6c2b4b2f82\""
+    "etag": "W/\"9a6ba0b7472999309f51b2861048651b4a41472603b0bb5abeb7dcbf400a539f\""
   },
   "calca/moka-news": {
     "stars": 1,
-    "etag": "W/\"98f25b1b223cf2696415bc3c78f5fb8fa84a9e0d9edbc77418df4375f641e8d9\""
+    "etag": "W/\"a46ebe1327f9f16c8da193209196f06dfce78bf11d9ef0064b4c9bd54ef536e3\""
   },
   "calegeffre/InfiniteAds": {
     "stars": 1,
-    "etag": "W/\"d2a6c41804f2d6990516a52daf42c6c1738b25ceb601957cf1f27ca4cf509aab\""
+    "etag": "W/\"f346c6c610cdadf6d3dfad641912a76607beb5e078121b7cd7fe97f05c1fbd90\""
   },
   "cassidoo/fancygist": {
     "stars": 95,
-    "etag": "W/\"b835fe99155673fd1c8e3536784844a441f905ca2f381bff652b564fb6e38f8e\""
+    "etag": "W/\"c51c3f4d44e968604117769a19898781f67a1e5dd22dd305d45cf3856f5e1bb7\""
   },
   "cgsguy2/energy-calculator": {
     "stars": 0,
-    "etag": "W/\"71bd58960373a524ce367176f90d08b7631ce411c89f10966eb1664261bea190\""
+    "etag": "W/\"2a0c56c44c7bc57f00a386f2a210aada97df0c73b859a189be9a907d1f8f943d\""
   },
   "chrisreddington/timestamp": {
     "stars": 20,
-    "etag": "W/\"f706e58c1f77c735a4bc86fbdf9524205db01054d8d86c30c6645c3589397d2b\""
+    "etag": "W/\"52d884de2e0795110d72095297d477829cae258fe40f60de1152a43c89e6c150\""
   },
   "christothes/gh-notif-cleaner": {
     "stars": 0,
-    "etag": "W/\"6354f98cfadd122a4194dac272ddc711d3fe5db48758fd7f37aad8de8e4af2d7\""
+    "etag": "W/\"2cedd4715e2547b368c518a172697deeac50eaadda6d2566e9c34b10ee2ad060\""
   },
   "cknzraposo/openclaw-dashboard": {
     "stars": 0,
-    "etag": "W/\"a7706b4edc583e9ea7e5469fdd4556361334995dc9adb04672b1f214e357ada3\""
+    "etag": "W/\"330ccbeba6ad4124ab47ca0c1a8899a722ae30dd56448088f3747afaac0b34b5\""
   },
   "ckob/lazydotnet": {
     "stars": 117,
-    "etag": "W/\"0e915160da80081cf209764e1c850098591e4c89e3bf0c51c8ec8eef85201b23\""
+    "etag": "W/\"4a6c79d2a0d4d969059fbddb2a00079a25c15181560fcbfad81cd7e654ad7f28\""
   },
   "clatonhendricks/CrashDetectorwithAI": {
-    "stars": 2,
-    "etag": "W/\"9687b527a7da0356e7751517f90df73f555b06ba9815380881ce6dd6b1cb6e96\""
+    "stars": 4,
+    "etag": "W/\"564203cf4fe36d2395062d60e1b15ed993a97dcdd0b625af37e91979bb4412b7\""
   },
   "clubanderson/clubTivi": {
-    "stars": 16,
-    "etag": "W/\"a8c4bacc4efd0fa2d1ad4b140ad2afd5c1fa20cb742bd220ce8fd4067ebdd443\""
+    "stars": 17,
+    "etag": "W/\"8dc22c1db70f51d97d1d2af47c188c156167bc8e5ff0a63807581604b4caf67b\""
   },
   "CodingWithCalvin/VSToolbox": {
     "stars": 4,
-    "etag": "W/\"ad067537217555cb71030477cf357d66b181daafce39385dcf24db0b6869dea0\""
+    "etag": "W/\"2a85f0d7b2a4e66be358920925a28aa3cc075ad41e584719bee99dcec23d528d\""
   },
   "colindembovsky/zoomitmac": {
     "stars": 2,
-    "etag": "W/\"1eefb689c47fb214c510642ff52e6820eff978f45514973a6aba951bab8a9f54\""
+    "etag": "W/\"cf062f8a69736e87451cbf2aad820254a82a5e7dc0a641e41cb97bf9e2eca608\""
   },
   "computerguycj/SessionChecklist": {
     "stars": 0,
-    "etag": "W/\"9568ccc6c373041937f0c3bab842094e10031a40c26022636ecc3f7414fa32bc\""
+    "etag": "W/\"84aa3dbb1421081112a52b6af714d0ae07c215d9fbf41dbc17c507b985aade92\""
   },
   "d20Tek/cli-tools": {
     "stars": 0,
-    "etag": "W/\"b957717cabd865eaad50be3608171119be5b4d9562488e496cfda30ae02c9f22\""
+    "etag": "W/\"bee5265cb7ff3379299f07365513c17571fc98a1a4754b16ea25f1cac65cc24a\""
   },
   "dalevross/recommendations": {
     "stars": 2,
-    "etag": "W/\"a20f3da3d80d211d9e10e32ca51860103b014645345ae79c533f7a6890ee9697\""
+    "etag": "W/\"f062468780107f5e1765f0866f73c6fb94668b4b7c592ae4748ee5561be45258\""
   },
   "danielgerlag/air-traffic": {
     "stars": 3,
-    "etag": "W/\"0a311136b760ee684d0fe9158316a231427b90c0c5f6cca17f40df4b2da46dd9\""
+    "etag": "W/\"5c24099c09dceb7a61aa6440d253c670fdda9d1cf623c2de33ee8d8719ba032a\""
   },
   "davetashner/stringer": {
     "stars": 21,
-    "etag": "W/\"5fe4f9fb0260e392b2cc669e92b06aaba30a482a5519703432497da1daba7f84\""
+    "etag": "W/\"06ce599556318296b22842950d4557f7f51890f800609ae8dae215f27e224b20\""
   },
   "davidcorbin/DCMiniBrowser": {
     "stars": 0,
-    "etag": "W/\"5a2b47378a2e04a341d7cfc9af0f15767ac6efc1d5271631f52d5164f83f8498\""
+    "etag": "W/\"85a443519273e6a99329b7a25728c4631f097e2022877fdd6f345bff034d73e5\""
   },
   "davidfowl/tally": {
-    "stars": 1106,
-    "etag": "W/\"588e5069452bee8b723d43522fbefcaaa6025f53c3347ba933c3b0a932680e3d\""
+    "stars": 1107,
+    "etag": "W/\"3146f6739d223c5ffb70333a0a768ff43087b089128f6e5bffee081f0f4ef88c\""
   },
   "dbry23/batch-diffusion": {
     "stars": 0,
-    "etag": "W/\"0d847dcf4a958baec723f888ad0abec456f28eb4831de88fe6ff2aa3a3e3eaee\""
+    "etag": "W/\"914c8b8b7004b29848f894c906ec16303368ba56e9014069507af561f164e423\""
   },
   "dbry23/cull-diffusion": {
     "stars": 0,
-    "etag": "W/\"68ce6849a64612c5729659000556cbf080916b0d73bd1186b226594d84e927a3\""
+    "etag": "W/\"a702dc1c510d54b22ae2abfb5e934df0db162cdddbc7e444f03026aca59e693c\""
   },
   "debmis/TimeGuard": {
     "stars": 2,
-    "etag": "W/\"52ba32d770666d170554dd4ff2a7e7fb63b8b1b909a7a3573fa857da3aa8696b\""
+    "etag": "W/\"6f7ba5fb11e6ad1b0b3d5fe27d6d487b54123b2675dfd4c63cf36b00f05e5199\""
   },
   "derektupper/poke-me": {
     "stars": 1,
-    "etag": "W/\"6449476d1a8a5f68da82b6fc56df6374fc7c3774dd3a108a9e37933744c78cad\""
+    "etag": "W/\"1103363d82a35d37c2d3a363154ee55a7dbb7b12ed853bf1bfe2b4eb0ef73c2f\""
   },
   "dfosco/backlite": {
     "stars": 2,
-    "etag": "W/\"10c1b620bdfd6e453ba999e2ee91a54b3fbde22a2b1da8e08fddda213e9098cd\""
+    "etag": "W/\"0cc253140141614605aac5ebeed4ca44b3af2af4f94e921259946dd157767404\""
   },
   "DomainLang/DomainLang": {
     "stars": 10,
-    "etag": "W/\"4d4fed63cdda8c1cbed89a6fba178c79baef37d1924ca6ca895d0ca2d232a69d\""
+    "etag": "W/\"374d513f4c8e02ddae1953d857a8249db0849a39acd3c1b7cfef14738143f5ea\""
   },
   "dotnetemmanuel/StickyScroll": {
     "stars": 0,
-    "etag": "W/\"86132cbdc010bcec7f5f77bd44cf4620d239e1756dba2739ac3655180e6489b2\""
+    "etag": "W/\"585fc3f94dbf429f92e8981f76f1781fdccb0f8adfb244eab61d80da592550eb\""
   },
   "dubrie/Windchime": {
     "stars": 1,
-    "etag": "W/\"6baa3c759edf368563b755094d99b180daa9767de477d91adb82b10862ccaa9c\""
+    "etag": "W/\"6fa1ac3f8c5b639565e5d47055aee293541ae4e02bb38d595b873d28a20ae2f2\""
   },
   "emiliopalmerini/rabbithole": {
     "stars": 2,
-    "etag": "W/\"dd4fab6467cf04773adda4d018c4fd1fc6ffdcde9d57cbfd243ac46a9e6ed573\""
+    "etag": "W/\"9cbc23d3044d050eb459c403703312285e7da1afb15efff47d78d4c0b175cbd1\""
   },
   "enigmanet/learnwithnico": {
     "stars": 0,
-    "etag": "W/\"147de63b80440924ae8b967c2f42af1c3bb6e1da5039257fad50511dbd8eb133\""
+    "etag": "W/\"ed38415ce35b81be43407d4c350ff112b7e0317746f54cdc6ca889eb738d0b12\""
   },
   "ericchansen/PSCommandHelper": {
     "stars": 2,
-    "etag": "W/\"4e2c900cd42d2456968fe7fb8f163b4e0e5f8aee1e12a3b499bf1213c29afef0\""
+    "etag": "W/\"461cbc465faa6a666682fa7134ac8d34b9c5284f8f44aada8a9fe49f4caf0d9f\""
   },
   "estruyf/bingscape-tauri": {
     "stars": 0,
-    "etag": "W/\"64dd326d5c8c4dc21720454097908e802023149c11d80967ce5c219b604366eb\""
+    "etag": "W/\"a36e622ed1b4c614035c5f480349f2575701a237dcae5198e3c1b2d200c2c881\""
   },
   "estruyf/FrameFit": {
     "stars": 3,
-    "etag": "W/\"1f80687fb9821a82a0110b65e9491b6925fb5096cc0a7a1080bfc786b24a2e78\""
+    "etag": "W/\"4044e60391ba1901e0ac4f36307d548caeb89ea64280d88c8b480b95d477ae19\""
   },
   "estruyf/ghostwriter-app": {
     "stars": 14,
-    "etag": "W/\"85127d127249050acafb86a59d55715e2f46478b4cca3c049ed88d047d330ec9\""
+    "etag": "W/\"e6d667500278d83e9eee9aba97b421843e35ad5bcfc7f868c11fa55b28a61356\""
   },
   "estruyf/github-copilot-usage-tauri": {
     "stars": 13,
-    "etag": "W/\"38ea75589fa549bd6948dacb831585ccecf386505c98dbfcac171f313b6407e3\""
+    "etag": "W/\"28c1ea4816321dfe8a970b888c8d9fa4f0b07337e09d109274fbc871671bfec6\""
   },
   "estruyf/SpeedReadNotch": {
     "stars": 2,
-    "etag": "W/\"185c296ca86fb7c5498581962579a8f75479844ca52a7f387485911143379334\""
+    "etag": "W/\"52fc25889d6df2c5d459ee968d4d5b1c53d20ba4c5800e76edfa32a15105cc07\""
   },
   "estruyf/VoiceSnippets": {
     "stars": 9,
-    "etag": "W/\"c02b23bf78877b22e99a7f7af77632fa84dfd5e502323d5f9e4f073dbe2281e1\""
+    "etag": "W/\"e3e380be9cf448b6088d697f4fee1788ddebcf2c9f28ab48b8d4a37f2f6b63d8\""
   },
   "f/textream": {
-    "stars": 2369,
-    "etag": "W/\"3b5690bc8ccd15c775e5809b1ec3d262078bd571cd9058497a1723240fb473a2\""
+    "stars": 2375,
+    "etag": "W/\"a72d73c2b71b63f490affdde3bc71c26316b7f7de010f845ad4f26251763322c\""
   },
   "famda/semantics": {
     "stars": 1,
-    "etag": "W/\"f2d66a7bf99f024cdeba2c2952c5a2d5d087d3d44a84f9f2d881e3204ead71d3\""
+    "etag": "W/\"f1de7b4f45a5e085a42a30af208b0f8df0ade3ed52144dd7ac4bdafe59af865d\""
   },
   "fdsimoes-git/asset-management": {
     "stars": 2,
-    "etag": "W/\"d5157e25e9fcbdf13075dc3cce093bc7d929e370a6d5a2a2287df870a213c3d5\""
+    "etag": "W/\"145c927ba045e31a7c7ad2c9858593e5cc77c9725b1630a9f9db809f6993dfdb\""
   },
   "FlyingBlueMonkey/stumper": {
     "stars": 1,
-    "etag": "W/\"7c68e9b5e58336b739fee0ea5a5fc44983a0235f0fa946b9fec11dc29991aac0\""
+    "etag": "W/\"385800b9758c046cb47d08d4e566be994650aeb05e2c435c7fbd40443efb3a33\""
   },
   "fsuskate/claude-code-booster": {
     "stars": 0,
-    "etag": "W/\"824c1333456f04c1f79248fc4cd7b8c95e7236af484da3277a847b6957b12c4c\""
+    "etag": "W/\"ac12d9b5afd006de903f42430f887e5e189456ba7e3376891bd062c2d4b21601\""
   },
   "furic/board-game-slack-reminder": {
     "stars": 1,
-    "etag": "W/\"8004486c1e059f6e7de0af02fe0e3a23c990953081fc186c673075a1d15690b4\""
+    "etag": "W/\"a9091779eb390bc0c2abff42b87b0288340ccae8a848a53d3add7b35dde2f202\""
   },
   "furic/richfolio": {
     "stars": 3,
-    "etag": "W/\"b4a2130e33e828d192545f4648943e4b4a4fb89e3f2e9a0e6c43d427f5c87d3f\""
+    "etag": "W/\"c1cfc6bbd547f21c95a350fa9e3d7fc7eaa32abcae3b00162f7525298ceb306c\""
   },
   "gab1717/Diaroo": {
     "stars": 3,
-    "etag": "W/\"696a51ad90d67b342765760d9efc6d56c99d1e9dec9434d7344df8ddf2a8a4e4\""
+    "etag": "W/\"b4e98c9ed3689c8b26f9aa57d1f50b564bfeaceffb817d30ac4c5fd208b5a480\""
   },
   "gavc/clldp": {
     "stars": 4,
-    "etag": "W/\"3669456a47c9ebd355546569e67e21f7301a41be956743ad9caaa09930ad0447\""
+    "etag": "W/\"a2b2b832bd7b13d3da65aba441391fd1cf8499d4869e128910f0c2797b1790b1\""
   },
   "GennaroRiccio/my-todo": {
     "stars": 1,
-    "etag": "W/\"9ba510472723719237d3660f6ee98c1a283872fe1f649257e8b05d3e5084dad2\""
+    "etag": "W/\"c6156ae38793bc1e6e6f55a7779ffda3ae60fdc11903bd8b19aadd864acc0e3b\""
   },
   "GenR8ive/VizuLLM": {
     "stars": 9,
-    "etag": "W/\"628ef18634eba62434217390ed1b8701e46aee94f2ebf7521020d0f235d1608e\""
+    "etag": "W/\"71e5ea1b8ed567c1ccfff88b6bff319b39e32d8575a23b02511bcee2c7d6a800\""
   },
   "gioleppe/SpixelaTUIr": {
     "stars": 18,
-    "etag": "W/\"43d1e1cfaa04cb2a406e59a7e8b81fd3dcbd1aa97e7176892ad2939d78b2ffa1\""
+    "etag": "W/\"47c0b2b070601ecdb9328fc21405b7be7fbd145527aba63fc04df08f4a0097d7\""
   },
   "gkorobkov/cli-helpers": {
     "stars": 1,
-    "etag": "W/\"516f88fe57d97ebc41cddffc6c6dfe1d4f0647a6a40526144259f618c599acff\""
+    "etag": "W/\"17060fd2de74e5cf02460ffd47fe454276ae01b1a0e68821a320bb540ca5b70d\""
   },
   "goxia/TouchFuture": {
     "stars": 0,
-    "etag": "W/\"27589da4b203eb2084602c0faf197d5fd6599dbe34da648feddc2b54c6c09f57\""
+    "etag": "W/\"5e163ed749266a292409266648bc5b0f5f4fa9a1b8d225a55f629a97d4773b60\""
   },
   "GuckGuckHQ/GuckGuck_Windows": {
     "stars": 0,
-    "etag": "W/\"3b8b5823676c411ec464e71e1ae24cda9f74f3cd38b83dfcada34edb7427ab28\""
+    "etag": "W/\"ecf67fa1534636543b86dbd4561b93d14d1c0e3ff59e86e2aa5e7199941a6fcf\""
   },
   "harrykimpel/WhatTheHack-TriviaChallenge": {
     "stars": 0,
-    "etag": "W/\"27b879d8306228975e5198a0556364d108e0902d1016189e4e89afcbce9d773c\""
+    "etag": "W/\"006878f003a6a97ba13a2ed2c47ae02c9c8ac3c572d84a162aa4409070c608bf\""
   },
   "hel-3d/hel-aqi-widget-win": {
     "stars": 1,
-    "etag": "W/\"d106a3c7e8b84e8179a9731dc2d9764129d10266bcbd1dc1c683c758c8ced6f8\""
+    "etag": "W/\"ffc568556fd8aa81d5a548e53c0f645fc80dc9bc34f9a6598891799b73cfbe3c\""
   },
   "HelpViewer/HelpViewer": {
     "stars": 1,
-    "etag": "W/\"3096802ebbfc42872400833daa8dd3ce2a8df4a28b50fbcbdd790a25bd7d8531\""
+    "etag": "W/\"a2645f951ae7dee0642e28628e6922bbe1a22cd668ab3a9ca09e65886234eacf\""
   },
   "hminaya/devtools": {
     "stars": 5,
-    "etag": "W/\"cf692463ea7e13611be94ecde3dd7cb3d60e8772b1b898664d961e17243a09b8\""
+    "etag": "W/\"2129eb03c56ab50e2efceae0cc99fd2b3f066632de52f0611d83e8e587391fdb\""
   },
   "Huseyinnurbaki/mocktail": {
     "stars": 241,
-    "etag": "W/\"0309127244d0706bb71dfd4a566429145d2c74a6a972f779638e3cd86ecc6d3a\""
+    "etag": "W/\"2c369b661b39843ba8c0c2a417401fc2c1c5207b0546a5650429b81bd25d2739\""
   },
   "Hypercubed/dice": {
     "stars": 5,
-    "etag": "W/\"635757fbfbf74a5145a02dd968a6b697e4fa4f443e5dc77654b99c7931d2ffca\""
+    "etag": "W/\"97b236dfb497f5c18cbc2e8cf5cde1a2853a7f8326edc22a8878358a8eb422a4\""
   },
   "i-am-shodan/DosBoxModemEmulator": {
     "stars": 1,
-    "etag": "W/\"c18ba78d9b6003499e203e5686a851ce662130b93b85b0949076a9f4c1949692\""
+    "etag": "W/\"975497fdcb5f11dd7a5e5e2a99ddfd41a96e023c4abf575461d4ff408d458d82\""
   },
   "ilee38/hacker-news-reader": {
     "stars": 1,
-    "etag": "W/\"7353ba2b27ab35c5932def0f0a939138c9d0342e9c4c7d262e22f66f8bc4ff88\""
+    "etag": "W/\"e53bbc60f74479898733f6df53185b6aa85b61c9e55f151b103af3e8e833dbbf\""
   },
   "isaacrlevin/TranscriptGenerator": {
     "stars": 3,
-    "etag": "W/\"39cdda3a81ce9c0074ccad94d29237e0d2e5aa94ef756b7376f56a2c0124248b\""
+    "etag": "W/\"2e775867e578df8fe40391184b255b87c601f9f8d1e5f07d7ef8b7629338e000\""
   },
   "jakehildreth/Deck": {
     "stars": 11,
-    "etag": "W/\"11ce210d193beacc47fafaf5c1a8884a7dc4d843a7cc6f9b0133f80342269a5c\""
+    "etag": "W/\"16434a8afad1e72ea572321bae5ce1ac6e59f225f86669b3eef6371712cf462f\""
   },
   "jakehildreth/psqr": {
     "stars": 3,
-    "etag": "W/\"2c2c16b539dab13c2d6aef45f448149e8222d1b5c0088ec51a2acbb6b1e2fcad\""
+    "etag": "W/\"4f16a1823f0a423bb29c2dfee9bfe475a48cbdaa746602d0d14ea1ce82be5d22\""
   },
   "jakehildreth/px2ps": {
     "stars": 0,
-    "etag": "W/\"93a5be2f8f20d4e43022bdb5c2ef0b2a6efd6a6a0443149deea359b6699061d6\""
+    "etag": "W/\"7071dd57cc2c0a120001cddf8705c1570a4b4ad59af534ad6aed045e97e277f0\""
   },
   "jakehildreth/ttf2flf": {
     "stars": 2,
-    "etag": "W/\"507dc628ee9ecce8d4ca9bfd40aa2deea3eac1fff6e498e028f08bf9cf2e837f\""
+    "etag": "W/\"38e0be3da361f2d726a8229170cd97a28637d5f16422c85a6b40c3ee596570c6\""
   },
   "jamesmontemagno/mcp-badge-creator": {
     "stars": 18,
-    "etag": "W/\"83c1678afcae094db57ce1d9274c8e63693fd461395c35942fc0fb3c1f8aa0de\""
+    "etag": "W/\"33af244de450b92f66d0646c7237f9731aa5fcfccf247c0801831609dadc7c41\""
   },
   "jamesmontemagno/my-file-converter": {
     "stars": 3,
-    "etag": "W/\"eaf6a87c75eef5be4136f30583a094375e89b37a310e1a8914ff292f4937815c\""
+    "etag": "W/\"77037d754e6c7b942680b55dd8aba91ba17bb7f107678c857ea098f5f7c49e78\""
   },
   "jamesmontemagno/my-mermaid-visualizer": {
     "stars": 16,
-    "etag": "W/\"c0e3ff049f7302b6a263cae90ab16f60736f1154fe70529de8e34f8fac7065f6\""
+    "etag": "W/\"43289c323467cfde1f8d6079a073bffce23112acd736101036f35a682968dea4\""
   },
   "jamesmontemagno/ohmyposh-configurator": {
     "stars": 85,
-    "etag": "W/\"2c09393898d3e16ce471aec62381a7b24529e30405b154237ef1170a53a43adb\""
+    "etag": "W/\"78d9a1fb3e11c2fdf147419785c5f58ee007df46e3bfd798238005c0ac57f054\""
   },
   "jamesmontemagno/pdf-diff": {
     "stars": 55,
-    "etag": "W/\"04628769610c9b7bcf2afbc4ceac668441420a142a189ea575c721e0ea4726d6\""
+    "etag": "W/\"f029d60a96805d21f14d73a1e8fddec82761643beb4ec20d93cc15f9316ad369\""
   },
   "jamesmontemagno/podcast-metadata-generator": {
     "stars": 23,
-    "etag": "W/\"9263a6b4097a8b30f4987c39f0351d1a594b8fbe945258b5220129ac3671f143\""
+    "etag": "W/\"2319805c2e40d4dc56e1f89079f39df36d1f15a9806b490987e8d6afbbf3e7bb\""
   },
   "jamesmontemagno/post-helper-cli": {
     "stars": 2,
-    "etag": "W/\"a66769d9179dcad6554d32f7bc9219bb873e79e47ab6e25d6f097b5005c7aa7c\""
+    "etag": "W/\"0ddcdf97f830b72e4f350ca85038a3692214d07bb47c09d9ad43f282490c975c\""
   },
   "jamesmontemagno/switch-library": {
     "stars": 0,
-    "etag": "W/\"7d95c5676373b8c9abe2b92371854fbeffc1689d999756e46ea54921ea4edc12\""
+    "etag": "W/\"461e32ee437dd9e09e815a25187b49ec1a5f1a39dfce8decacfbbbcd0f6069ee\""
   },
   "jamesmontemagno/tiny-clips-mac": {
     "stars": 53,
-    "etag": "W/\"e37453f91b95e41caa05c7a1303347fbd5ba79f72bb732f63a8fd08e2c30f20b\""
+    "etag": "W/\"6e47d008ffb2ce361f5ca342b3f4aa9e4d8ba5c418f0a2cb604fcf83e96d303e\""
   },
   "jamesmontemagno/TinyToolSubmitter": {
     "stars": 1,
-    "etag": "W/\"dc747fee20c307bb078d0afbe42c720a0beabf1099ae37124e083fd98d0595eb\""
+    "etag": "W/\"d9e584669b3dbf416d00b2f9ee7dd1a1924eff9b43c299071665cd8530eaa164\""
   },
   "jamiegunn/pongish": {
     "stars": 0,
-    "etag": "W/\"17ad9f2aacce5cfc890c6017ccc8400703453b4a021d79202ff07f00645fc584\""
+    "etag": "W/\"6b448b86320ece31a57d4989240f2b77b1d561109c83f750a1fa449cceb4804c\""
   },
   "jamiegunn/tinytoyboxgames": {
     "stars": 0,
-    "etag": "W/\"be423eebed30c32a6999b182d0db73a1b9dab4ccf9270bab2120853cd7c14d53\""
+    "etag": "W/\"000c5eb98fb4218e3c90219855025767ba234aa622f8c319761927d1c11972fd\""
   },
   "jayt87/reasoning-websearch": {
     "stars": 0,
-    "etag": "W/\"33717d80d40bf5d0e53296f02a6606b59a8ffa600bcd78f80df614872e79418c\""
+    "etag": "W/\"69a60b1a394bb6c3cc3ec828c1e08a517be749313b88ad5a6cf087e48f577c3e\""
   },
   "jcleigh/mac-mic-mute": {
-    "stars": 4,
-    "etag": "W/\"6a63f47b902aa8d7d41b6c25ab3258d215fe9ffacb08f42bc4dc38d0633bdf09\""
+    "stars": 5,
+    "etag": "W/\"b1f17098ed2e90ab190cdaec82081b7b2c558acbfd17bf8c2ddda919411fecdc\""
   },
   "jenius-apps/ambie": {
     "stars": 2173,
-    "etag": "W/\"fc32a78aa1d8853007c62730e462195dfd8062fb4921e0c982f2028f98ff300d\""
+    "etag": "W/\"94cc7093b247ded80cf2c76a7ad1940ae561d4e7651311042902e5a9842194b8\""
   },
   "jinghan23/TransPub": {
     "stars": 3,
-    "etag": "W/\"0b874d40176a7e98c9c07430eef42ecb549ca77e9f01a494106a93c4166ed49a\""
+    "etag": "W/\"59cc154144a73977f9f7bde7a9505a45e97125fbb61836e87b4c3a4ff9e65b5d\""
   },
   "jinghan23/xhs-likes-manager": {
     "stars": 1,
-    "etag": "W/\"aa52040415e5a5bc42c6ebd243b6b447a15cd28c98545a9e498b166e6f95fed3\""
+    "etag": "W/\"2007db513858fb716c75e1baa6976a537870f4eed63c95c438c0662a66163114\""
   },
   "JohnMThompson/tableau-complexity": {
     "stars": 0,
-    "etag": "W/\"13efc26e911e4c337396277ee35e182b420e954ffda19d6c3b9025961c2e17d1\""
+    "etag": "W/\"737f1d32826aa6a635d3152d14c2b33639f66bd38cc207e734fbbcb1a293d82e\""
   },
   "Jon-Corey/EasyConvert": {
     "stars": 0,
-    "etag": "W/\"35733b3e55690f49cf235d5d46655ccbac8f4f69f70781d21a02fbdea6ce8baf\""
+    "etag": "W/\"a19e0acab5273030b4f0495ac9a35e59fcce3887843440fa0e6ae5b4c34f1e4e\""
   },
   "Jon-Corey/VectorText": {
     "stars": 1,
-    "etag": "W/\"3612e7c9b6e87329fa983cb96cb4654915ea4c133454b43969d8cb37d410ea93\""
+    "etag": "W/\"6e9f69c1c26dfccc4fc70bd04a9c84657c98376aab7d2b26ddd8a306a9c40820\""
   },
   "joshooaj/blobexplorer": {
     "stars": 1,
-    "etag": "W/\"51a6e83c2238b4020881f07a87d9e46a01e5685ed65f867c525fa4a944eb669b\""
+    "etag": "W/\"aed2ad864bc58c2301deaf0e3e9a7a48981b2c940014503f417369ff2ebe5578\""
   },
   "joshuacolvin/SnapAgent": {
     "stars": 0,
-    "etag": "W/\"830bde1c5a2296bd3cc639c384b533dca926f756a5736a8d25eb074252f0a252\""
+    "etag": "W/\"d687ea6c89677a1c68b29df4e945081a5e5ba40b388cc8684d590b4b32825aca\""
   },
   "jsburckhardt/co-config": {
     "stars": 0,
-    "etag": "W/\"20553a0b1fa41d1a86d296e10dfbceb1621d56eb4ad27b8a9badc649d6aa8e8c\""
+    "etag": "W/\"21baf35045296ec11278e839938450d64841442f79dc544d2febd6644c1a5b80\""
   },
   "jschell/heic-convert": {
     "stars": 4,
-    "etag": "W/\"aae84120deb5131954f427afaccf6b356f80ab7b45efd8b07ed38691c79d5e16\""
+    "etag": "W/\"1ce7f236c4058bb8ad703acead7643ba1c17786f8e30774028b4fe6319f65ad3\""
   },
   "jtracey93/UrlClipboardLanguageCleaner": {
     "stars": 1,
-    "etag": "W/\"18a456ecc0c4a1af1ccc66b32b749b502fa2962318a93ad18b2026810689382c\""
+    "etag": "W/\"69c68bb1dac4474eab31152801ad98a9d8f4b9b68dc2ea28dfcc5226630aace5\""
   },
   "JuanjoFuchs/ccburn": {
     "stars": 31,
-    "etag": "W/\"305146d0c58569afac4a2f19aec65c9c5db870f47ff3e58f4462cf2292a40aba\""
+    "etag": "W/\"bbdfd5689e101b48d9dc95717f89351b0bcb2cce3f4f54ce32a59ed39c872e1f\""
   },
   "JuanjoFuchs/hwinfo-tui": {
     "stars": 52,
-    "etag": "W/\"cc4b17ca60eee016d27441c6003167988dc20466464cf608650f80bae42b3b4d\""
+    "etag": "W/\"a6d16a44c7c010b7fcc243ac3400b150a885216269c0498b276a19ebca6abddc\""
   },
   "kclemson/gridwiggle": {
     "stars": 0,
-    "etag": "W/\"6ad13df4133984166fc6c5800bf1eddc5083b4102d187782d850e01024fa95b9\""
+    "etag": "W/\"b806e96fcc5d7b9bf3e097396077da37219e13b401217fda1dc9d3f5fe263189\""
   },
   "kclemson/logactually": {
     "stars": 4,
-    "etag": "W/\"475247d7bf4aee4e95c5262ec70e0c60856e4f41aaeb5269aaaa25fc35171537\""
+    "etag": "W/\"b58160c6900235e25185128b4302b2178862a8e75ad98542257b46cc1d247814\""
   },
   "kclemson/smolmoji": {
     "stars": 4,
-    "etag": "W/\"b7bd592f6bbb0cf2dd2d697f11796d781a8e6c00b97a026f1a41a523394fbca1\""
+    "etag": "W/\"15e17ccae44ad0b69c0499bf2623dea365039c196041c76d2cd6caa49a438904\""
   },
   "kitecat/plaintext-web": {
     "stars": 1,
-    "etag": "W/\"0c95767a61d93a94a8ffb06d61104912297a1f4d337b3718f9987eee02c7d66e\""
+    "etag": "W/\"7798aa67cefe3a580802d403a0bd6f8b996b4b9b1a30ef188008ac1d61042073\""
   },
   "kkamegawa/lastexecrecord": {
     "stars": 0,
-    "etag": "W/\"0a2d2f2663d759090e615633f51ae2cfcb90216d4200e74ea5c6a21903adf0a6\""
+    "etag": "W/\"1c462c735c604829386ec263fa89d0cb70d7ac7536a25665a6313d3357ec067d\""
   },
   "krishjag/tealeaf": {
     "stars": 6,
-    "etag": "W/\"463611b981748112faf432a9e401a41ab7171d23aa9692dfaa3e1aab9651a748\""
+    "etag": "W/\"f3e0e5518ceac4774916f3d8cd9c05ea3d67599cab0a04e9d9c572ea68f3e369\""
   },
   "kristiandupont/balls-in-the-air": {
     "stars": 3,
-    "etag": "W/\"c842f48b0bc30b3a5b76066a174d1c666f380126cd08a85689243b57bd9916f5\""
+    "etag": "W/\"e9cbbc1aa97b2a35ceb6151ef9b1b4b27a6aa079a4ae09340de348bceb078b36\""
   },
   "LadyNaggaga/parley": {
     "stars": 3,
-    "etag": "W/\"09668f6c534f835407288338547825c0c9e256a057466135354c2cee812d6a10\""
+    "etag": "W/\"840e24fcb6f0ea8bc20cad5070a07919d8a5fe30ca5e27c7f4a615750a054baa\""
   },
   "LadyNaggaga/Stillness": {
     "stars": 6,
-    "etag": "W/\"16e5608fdecac8243dd8d2f0708ccc10f2e092d0024d4b8a1357827454d512c4\""
+    "etag": "W/\"1737a6bd34a555d4ef115d367f55a665bd6b709c55df8e5cb3ba911166afd06f\""
   },
   "lawrencedcodes/vibes": {
     "stars": 2,
-    "etag": "W/\"2b52f75ef2d3e87614efdc78fcdd2b2576fcc77d4dca456750faa6d312b0c9de\""
+    "etag": "W/\"b8fdfa1aa5a27fe8c55b30d95deccde5f5548e676c54b10c6f874434dd6a16ca\""
   },
   "LeeHolmes/decide": {
     "stars": 2,
-    "etag": "W/\"4d1afa4e12414fbe17dabd79aacc9e9905e872eab7531b02c3a0a39a167e1719\""
+    "etag": "W/\"5417045c60d257139119d6f228eeafb19c588a655664a4c678253535288bdbde\""
   },
   "LeeHolmes/keyboard-jockey": {
     "stars": 0,
-    "etag": "W/\"b8912f39253851761b87816c8becc18ecdbcbffb59262b60d95cb4a2d6e566ad\""
+    "etag": "W/\"f1d04538e38d68b1489a68d3df75ceda179e5520344fef159b5f54f83d67e626\""
   },
   "LeeHolmes/matrix-tetromino": {
     "stars": 4,
-    "etag": "W/\"9d59a4bb851c1d58a00a26bdf7e91d565dceb858773e0f5d44c15b56855adce5\""
+    "etag": "W/\"48ab1594b61d933af9146982074e2acdb9d3c1ccbc7e76b2056d2318ad695635\""
   },
   "LeeHolmes/pycoterm": {
     "stars": 2,
-    "etag": "W/\"ef04e7d0fa2d144d6ef8d23e4b11b3c6b3ac0a9698b2679e4c256aeb77346417\""
+    "etag": "W/\"bbb8894d43b4fbd3f496ea29fe4a3dda702536611c2bee1c1e3ba1912c909800\""
   },
   "leereilly/dev-tartan": {
     "stars": 3,
-    "etag": "W/\"9d892634178761a9ecc8ed2ece1ae41b1054edb883bda30789e000025c214b43\""
+    "etag": "W/\"173da4a5fa3baf56913a11212be2852271027f3139d92f233d99b8bf38a3aa26\""
   },
   "leereilly/gh-dungeons": {
     "stars": 26,
-    "etag": "W/\"f4d683e78c511694cc8d17c42c1bccd5490178a1b9b0e22c4e311ae89f120d44\""
+    "etag": "W/\"47547c63715a6e8627e822c000bf30279ada15973605754822bc4bf7619a60a8\""
   },
   "lennyzeltser/conversation-replay": {
     "stars": 1,
-    "etag": "W/\"6add819bbb86d701fc8b327667ca5ca2c84eeabae869487ccc0fd073e235d9e1\""
+    "etag": "W/\"cda8e5e141708ef586cb1b4a06604f0c43b707880d43d7d37da653ed6007811f\""
   },
   "lextudio/vscode-wpf": {
     "stars": 3,
-    "etag": "W/\"0adfc3bb44703242bbeca68d5b06ef3544259063f1b94b33624f69d10df51d6a\""
+    "etag": "W/\"a4cb6e17049ff0e78ac366b4597d466d74e6640680ab364020e041ba2a407d1c\""
   },
   "likamrat/copilot-cli-board": {
     "stars": 8,
-    "etag": "W/\"0d6e5dcfeac2cd8d1e3b151ff342f837cce8045733f908d1e023592a0e7538f0\""
+    "etag": "W/\"3bd8850ff71c6f12d1f3a0d573659574ac61210dd2db1d1c5a15ada34db57837\""
   },
   "londospark/broadcast": {
     "stars": 1,
-    "etag": "W/\"2170bb762547a22e2d4b025c6c708832aa543fde0dc6385931ef5982a18a2b7f\""
+    "etag": "W/\"178641c1ff4c03ec015037122fd47068bfac0651fb15c71e59b96ab487b4ad93\""
   },
   "lxxxvi/yes-or-no.fyi": {
     "stars": 0,
-    "etag": "W/\"0ce9eb50111c6f937f8a293a65848ff81ad4819e9a3c9fe267c4c9d98e42baf0\""
+    "etag": "W/\"91bcd7baba4199f4bd3fafe35b86ab93fba0c30211deb88706e2dadc7dbb6e8d\""
   },
   "LynXMaSTeR/LSaat": {
     "stars": 2,
-    "etag": "W/\"1d8f00657fc8e5e5e88827372b33582887b2bc7694387111f8d4aec31effcff4\""
+    "etag": "W/\"2ace884f76e431585cb80212eb3ceecbdb28f5f005c6ff24efe6f19ab9b6eb8b\""
   },
   "Manaiakalani/destiny-code-finder": {
     "stars": 0,
-    "etag": "W/\"e808a297be84854403ccde73847670a0122b11d39b4b36aa4d24a1ce5d935ed0\""
+    "etag": "W/\"74a2536e20c7861e72cc0b210116fedc46a5a3446b66779b5c9995b09401f4be\""
   },
   "markdav-is/Feature-Highlighter": {
     "stars": 0,
-    "etag": "W/\"aba37308e5b10f1b6b507105e723787687af13fcfc08548e8706d20e0fcb5002\""
+    "etag": "W/\"c449b9bfbade8af90c2cede02cfc4a9ae0d34ff4f9251d698d1632fa91ccac26\""
   },
   "markdav-is/KanBanLess": {
     "stars": 1,
-    "etag": "W/\"a60a4c9f6705b73feeb62fdf5b696b887ff694ae5e1d57cb5930a1904f207522\""
+    "etag": "W/\"59edccdb301448f6f232fad9bbebb9b16b8427b24725a2d54c1afcd7f46af8d8\""
   },
   "markdav-is/Oqtane.Module": {
     "stars": 0,
-    "etag": "W/\"40a6d9afabad31c773aa7119808d6aee060c931711699fc6ccbe7a9cbe154cc0\""
+    "etag": "W/\"c0dd966639d7c2b951fcc600bbd45c3a37d4e5b6e72d9e32512254a25d36b54b\""
   },
   "markdav-is/Skiller": {
     "stars": 8,
-    "etag": "W/\"e4a100289b9cea3e81cff535657698ab16f4953d9a6e122be5420be84703a2f2\""
+    "etag": "W/\"072cb861673c2a1d47669ca92dd4c214c10bbebbdf0810d5218ec6c3439a677e\""
   },
   "marlobello/odsc": {
     "stars": 0,
-    "etag": "W/\"64d5c3ebb0ec88ac6cf75e95bfe736f5d9fa80008ee8d89fe227a66c8d8ea460\""
+    "etag": "W/\"348b832c08ba40f7cefe02d112acbc68d45edfcbcccfe845c1371ca7763d5b39\""
   },
   "marlobello/zephyrus": {
     "stars": 0,
-    "etag": "W/\"d73b0fad343a36f6ddf4e10dc24fcc14f7a6e4ce9b85af2b99983916d91513a9\""
+    "etag": "W/\"5d57660621cb5eb32e0867996732c6d1533f1a2999fc516b57a4c22a9f48ff44\""
   },
   "matsest/lazyazure": {
-    "stars": 31,
-    "etag": "W/\"49935e0ac3fcb36257ea5b0c7df6b443117c2accf969b93e6188e4432c009cfe\""
+    "stars": 33,
+    "etag": "W/\"d7c14b3f24c47ceee3a605fc9fe950b21cca9c7f245c1c7ac0b3d59550c6c521\""
   },
   "mattacton/dual-video-sync": {
     "stars": 2,
-    "etag": "W/\"e78f5c411f465216a2d790d8c8a7a4300745cdaedf979be6c8692de3fc5cdd50\""
+    "etag": "W/\"e14b377848df4acf133c488f54ba10c7fe12c12739bd774b323e9e89c2802d7c\""
   },
   "melagiri/code-insights": {
     "stars": 38,
-    "etag": "W/\"e756a04c0e1e7f74911f5f3fc47acbcdbfd5874034eaf255f442d22939e23603\""
+    "etag": "W/\"2bbb01aad5ae56925222919beaef32172f76b7c0f5b33bedff78159ea8f8eacb\""
   },
   "MichalBryxi/open-to-dot-dot-dot": {
     "stars": 4,
-    "etag": "W/\"e712cddd76508cee31a1f933414da8e8d0f51e28b1be8827a17e245db406dc24\""
+    "etag": "W/\"0d00567440654e77298ce4b8f7eafc85b37bd3fd97a802db9fdc0eacfddd2c67\""
   },
   "MichalBryxi/spotify-flipbook": {
     "stars": 0,
-    "etag": "W/\"f1f346b315fb8f2aa497bab623643d9162c1aa228244cccaf525f864f86c9b7c\""
+    "etag": "W/\"d63121346aef65c62c5fe410b64ff21a85982ae40a020383aed1cf07fdf0d049\""
   },
   "michalczerwinski/alfred": {
     "stars": 1,
-    "etag": "W/\"b62c87b40c79fdbe5c3b9375d539afbd3e1bf6df51ce58bb7cd2fba9292bc458\""
+    "etag": "W/\"4000f46da85938223d6972b06de47da80afc6aed90958852513bfd54c8cac5c7\""
   },
   "michalczerwinski/KeyboardNinja": {
     "stars": 2,
-    "etag": "W/\"91a31ec388ba3e31d3747a977c1e2815962fb5bab98e9b1bd3322bf9431e60e8\""
+    "etag": "W/\"30a683279e8498b2a0dd9314bd14e5644327d0f2cc394be1d1aefc63b12da1fa\""
   },
   "MichalSkoula/bagatelle": {
     "stars": 2,
-    "etag": "W/\"304130f90d11d3677ebbbaae634539e7497cfa29e4277801f133ca287e887e5c\""
+    "etag": "W/\"609afb12cbf6ee82fca2bfdbd93171352a6c398639d644269d4a80da8d638105\""
   },
   "michielpost/ExifSetter": {
     "stars": 2,
-    "etag": "W/\"76f55f33960128af42c6bce92d24b7b4e0f6380e433808d59dd58721081d51b5\""
+    "etag": "W/\"32ec217eb42495b51041bdfaf252113818c89d71de710f86d8a293db2e850117\""
   },
   "Money-Burned/mb-dotnet-console": {
     "stars": 2,
-    "etag": "W/\"dee7f19763115bce29591844deac0dee8096ecae44b3cde5e727ca01ad30179e\""
+    "etag": "W/\"edec19da9a4b00a80e2541e15602226ecb4aec47259f9ac68d5b0cf5ceb880ca\""
   },
   "moochin/lore": {
     "stars": 1,
-    "etag": "W/\"76853264bb479a535667462f6ef047df754b40b7d9b2f6a7c23428d72fc716ca\""
+    "etag": "W/\"80c615e6312666b8d877a1af4945d0910e9d6c004224307a11ecbb91dca41f37\""
   },
   "moochin/yakflow": {
     "stars": 2,
-    "etag": "W/\"996e2c05ff04a2ba180b8d5c5f1eebc18832f0dd55a14c5a757bba9e9dbc60ab\""
+    "etag": "W/\"808d3cb61b785563d7ff33e63bca8bf387130ce38eda9c801644ddc78ef6863a\""
   },
   "MorrisLaw/k8s-crashloop-analyzer": {
     "stars": 3,
-    "etag": "W/\"db62d34e197c3acd99381d3ccb4ecedabde3c68f19001a6eb5373077ec4e302d\""
+    "etag": "W/\"cf390be1d9c00e564b68d46fc5ce387c5082f287e6e998efb4f6128063437384\""
   },
   "mpospirit-apps/Repomance-iOS": {
     "stars": 71,
-    "etag": "W/\"108fa6c3767b512b39703b9792517de355c028d3c12cb76f069f34e425358899\""
+    "etag": "W/\"d515d100c21ad37f816d526338aac60666402cce66285a58c581aaf141672e67\""
   },
   "MrSimonC/LLM-Prompt-Injector": {
     "stars": 0,
-    "etag": "W/\"6945904464622b53f065e66b382b11ee61567f2abb5e2da6542888dffc48f97b\""
+    "etag": "W/\"0acad6cddcf79745c96108ecc20bf6f5762a5bebc556bb19c81d5c086da3ab68\""
   },
   "MuinMomin/whoop-cli": {
     "stars": 2,
-    "etag": "W/\"04d4db5e773f756f18c1f86cd8c9c778d343cd55b2e0674616163f2b5a179937\""
+    "etag": "W/\"ee4b06fc8e66c2611466ca549bcf3be229bdcf68209f03298dfa926acd861d51\""
   },
   "nbbaier/into-md": {
     "stars": 1,
-    "etag": "W/\"8ab477133a79ed1ed69a8774e06abf9d313ab3dc06d9ff53204bd34a5bfc091e\""
+    "etag": "W/\"f9783926e0114add3a733dffb59ed7d90c67f2e5522a3e19c019abf170b508f7\""
   },
   "nickradford/ffmgen": {
     "stars": 2,
-    "etag": "W/\"395b6026169de393d19fb23514116f9384155907390ffd1c2bb9c3875c0e6f7d\""
+    "etag": "W/\"e91a38bfd326cc465cdd1a3e6923a0aa8d25505c3a4bc94f708760577a342b8f\""
   },
   "nickradford/morph": {
     "stars": 1,
-    "etag": "W/\"1404514b60b6270212678827968ce699833ce2efe3b43c9b3e48d42f5418e02f\""
+    "etag": "W/\"dfe71c5f439d5476a3368fe2fbb5bc2e45dc30ed8cda9a325f7a5d59ab3c7889\""
   },
   "nikhilvmahajan/Wyke": {
     "stars": 0,
-    "etag": "W/\"b2b4a8e80f97df6058e0575d550fb9253e9bdd22bb9255299c121e711b321e16\""
+    "etag": "W/\"ed4825afc95cdd58164c18d74b52794641ac91b2b23f52c3ee697adc30a9074c\""
   },
   "nogipx/vzhukh": {
     "stars": 0,
-    "etag": "W/\"31e6e005b5f04cffaeda1b9ba21f3b4bfb7210eadf2daa05a4954c4b8769b79e\""
+    "etag": "W/\"06abbcdcf6f05ca79ca3092e74acf4ee0282533e19307ed9607af8c3adcf4cb6\""
   },
   "nor0x/burner": {
     "stars": 2,
-    "etag": "W/\"053a128f9ad546fdea89021aab284ec0bac2a6c4f7b9727db4829431a0cc62f2\""
+    "etag": "W/\"cb445665cdab91bd67f6de92718ca1c281131a9aba8bfc0c268f8affb31404fb\""
   },
   "nor0x/difflog": {
     "stars": 3,
-    "etag": "W/\"4c615db78a603589319ce0cfb9e9692b7824f930ec857d082cbc2ea42353b124\""
+    "etag": "W/\"58dc36e2b0ae8afe9b8d4297f950ea8ab70189c319bdc47394f36ef477fbbe95\""
   },
   "NotMedic/PopUpVideo": {
     "stars": 0,
-    "etag": "W/\"4d45a62de0608ba182f24392d923ca21dfc8263442652078fcbb663913f14f50\""
+    "etag": "W/\"70fce3a77a808ba156164020e8f3bbf78d53daa84f20ec29d9a56a62fd6fce6d\""
   },
   "octostore/octostore.io": {
     "stars": 49,
-    "etag": "W/\"4b937aa777b6423cbcb2cfa4375a41c14534d9ab7e314d5d3666ba1e24e45260\""
+    "etag": "W/\"f66965f0893c4363ded2b722d3fc33a7233847ad1893553372dbb2da212ddb60\""
   },
   "onecentlin/lucky-draw": {
     "stars": 1,
-    "etag": "W/\"ca4dfe77a4722880824793dc299a65cdc3ae540baabd04e1366296e0eb8ec836\""
+    "etag": "W/\"fae6e50a1004a2472879bb5b5e49f05d8a8268328f8e52cd613eaa3b8254430b\""
   },
   "onecentlin/tinytool-image-crop": {
     "stars": 0,
-    "etag": "W/\"75eef9e133ac0a2a8165f1d7ead591c5b37642925f6b064cd4bc3010e6fdace5\""
+    "etag": "W/\"87f2e127e86489a8f1b550298ec4370f4582e66380117f3ff0495a1b79322333\""
   },
   "oradcliffe/bootleg2cd": {
     "stars": 1,
-    "etag": "W/\"d4e33ae7ef8aa68a7cef04775030ad1aad3c5fd916d8828b549503fb909883c5\""
+    "etag": "W/\"af4154963b5123d0f1e7d29b7b1004815b45c3528865562697ee4fab3437944d\""
   },
   "outbackops/DiagramAgent": {
     "stars": 1,
-    "etag": "W/\"e96772a0e5a34d82423a49a12664b7a2b54d25be80d4b94ddfe90789d5f3caf4\""
+    "etag": "W/\"69844d441ca09a3cacd44dd38969bb1a5f68bf2f642e42bea6d52ea33ce6f6a4\""
   },
   "pagyP/booknook": {
     "stars": 1,
-    "etag": "W/\"819527204b3b3372e2ed7a32706c8e921fed888fdcebf15b6288601e3f168383\""
+    "etag": "W/\"9746afd37fcc4778c98f740dad8631842333ae7407e04b8273e7dd913fe9db3d\""
   },
   "pdebruin/learncli": {
     "stars": 0,
-    "etag": "W/\"ffc2005d6b1dec52783055e7e15fc12122d398c2da7760b0bdbcf5512400937b\""
+    "etag": "W/\"aeadff18609b66dc3c409f9230b6e14db59355f6280e18188b52ef6e1f33d455\""
   },
   "pdebruin/notepadmin": {
     "stars": 0,
-    "etag": "W/\"10a7495ec7129462e0146d93a34bec8b560630ed4c3ae120542307c94f508e9e\""
+    "etag": "W/\"b62377c8bd18f2478b8a583e13ad6a6a902bb4d331b0681c5d01f5e9f6cb649f\""
   },
   "pechavarriaa/CrossPlatformAudioToggle": {
     "stars": 2,
-    "etag": "W/\"ad57f66faef4c244e5fe492f447ae5226f8c220ef0086c7ec1611ad81252ad7e\""
+    "etag": "W/\"a5eddbe7e48a60da25c68d83ce8c78628ee10d242d7eaece3762ddeb9dc58214\""
   },
   "PeonPing/peon-ping": {
-    "stars": 4315,
-    "etag": "W/\"528e6c53b69b684d18d5067e703f40b28e0bfe4e5fbe97c79d34aac1ff0d9fcb\""
+    "stars": 4319,
+    "etag": "W/\"69673699c62206b1f9226ddd5054ae3ab3391277e172a0503dd526be56537f2d\""
   },
   "petrroll/wikrev": {
     "stars": 1,
-    "etag": "W/\"7155dd6cc189cfda9ba644d917b3e9cf3e18eeef45d9cbbdf99a48e328d366d1\""
+    "etag": "W/\"46066a98c451d8bf798f70e3f0a35e89766c25106b4191f63102a2b26de12c7b\""
   },
   "rcconsult/ppxai": {
     "stars": 4,
-    "etag": "W/\"1078ff31b956f01083a2ce2358ecda8905fd2a2faf165f423c0f48149a34905b\""
+    "etag": "W/\"ded254742e4113521639832dd66d62fe229966b9cbba62454add59fe0b96f60c\""
   },
   "relmer/MatrixRain": {
     "stars": 1,
-    "etag": "W/\"fd829ff8d552add31d6bf0f1638d8ff9741ad118088574b0d389810d1c430a36\""
+    "etag": "W/\"7fee559c3319d0af1a0ee5c2205741bb3d447005f1aca77fb2ff2745a08bef49\""
   },
   "relmer/TCDir": {
     "stars": 1,
-    "etag": "W/\"0710c6d5eb1f48d42b2b39e1faa502772bbc2cf3a803ca8066ebb054710d09c4\""
+    "etag": "W/\"ce1def78040baf4105479051ae7b8442c95aeae70ece919e4052bde8a9ddff8b\""
   },
   "rishabkumar7/aws-sentinel": {
     "stars": 31,
-    "etag": "W/\"d1e7d863bfe7a8b604cfc51264ce295e5d1ca1cb6a4ae0f82fc6cb0aa398f5cd\""
+    "etag": "W/\"92cfc5dc9deb6869749211ba15c3423fa906ab18240451aede6b02a1041044ee\""
   },
   "RobQuincey/devtools-location-override": {
     "stars": 7,
-    "etag": "W/\"1e8fc28ffcca545acc7fe543e38dd7c5a97fbf3287627ab76f6a608e9b973501\""
+    "etag": "W/\"c9dbe279c9acd7c5094e3d34db6f84860bce2e7f1aaed0711bb511bc628e6db3\""
   },
   "robsonferr/klicker": {
     "stars": 0,
-    "etag": "W/\"7bd54f08e0a3ae53a076462b3121fcf36561845802e68097fe649883c19ad8a6\""
+    "etag": "W/\"eaf50d0dbaeb2da132ec7f2648a57576d1c9e7774b2ee9e1c22c513024018721\""
   },
   "robsonferr/stash": {
     "stars": 0,
-    "etag": "W/\"c3929702fc848ecabc3ea96f70f2752ca2a6db4f7f8e6e6e1f53dfe27e35b3c9\""
+    "etag": "W/\"7c9e96a38a04760e8a29dd37e59c876cd164370e581682e34b93d237d5b3b63f\""
   },
   "rodmhgl/linkdingctl": {
     "stars": 0,
-    "etag": "W/\"84a142c5b29c17229e672fa4a2b3e3186e104a9c99b9f0b0be1add59b850c074\""
+    "etag": "W/\"ac132d44c345e32cff79c23dbbb6021bead02c4213448f15112010d6e42da8ca\""
   },
   "rodrimc/display-auto-scale": {
     "stars": 0,
-    "etag": "W/\"c1ce6345decc8c06d7f4f34fd1940ec8ea613f5801c3f4fbf9960d4198acbb30\""
+    "etag": "W/\"d85b95d2edfdb83f207186310ccd425a80eae5311a2719347fdb603a0bf6a7cb\""
   },
   "rogerbarreto/copilot-booster": {
     "stars": 4,
-    "etag": "W/\"98f0f49dc0efa0576940baa78d119d01d22d969bfd4f730cba2f549c76e35aab\""
+    "etag": "W/\"7bfbcf7db2d122f80215e30bf0c69a9d561c3b740833a76e32c5dd37d538592b\""
   },
   "Romaixn/cbz-converter": {
     "stars": 10,
-    "etag": "W/\"29e24ef211be61d18d8a05b69f385ba834b1a1e37882e0ce5f0697f01604d75d\""
+    "etag": "W/\"233f4ba37c63ed8ab3b3ce9afc420e9d05912c5d014038a205affa82d4d99a1b\""
   },
   "romalpani/realpomo": {
     "stars": 2,
-    "etag": "W/\"7cb72f638589e0d7466ba838651c4e3cc4849b67e3abc0119f1ad1024a06b6eb\""
+    "etag": "W/\"0990e13c21b80595959fc30db397b3c7ba840c61495f028b1cccedb28e890f59\""
   },
   "roschinsky/dotnet-all-about": {
     "stars": 1,
-    "etag": "W/\"0273771b2d6700afedcc9b03fc7ed14a37b8e42ebeb3fd26d40289f3317bffad\""
+    "etag": "W/\"c83d81246bfb901096cb0a0a8f04eda58d8883c1203654da4f13ae2d2d7ff106\""
   },
   "safedep/gryph": {
     "stars": 94,
-    "etag": "W/\"d2414872c945853dba229cede35c31f90f380bc3b64c34d618c677f58e25edab\""
+    "etag": "W/\"888950ba7e39141d25564cda440e00de77be3fde70831fc9ffd0b308c59bf94b\""
   },
   "sarron93/raspisnoy": {
     "stars": 0,
-    "etag": "W/\"9d77d4041306bf11c39425063b6e524c3a86c0519654b0149ba9c1b94b8f5f0d\""
+    "etag": "W/\"f4c8113fbdb0a0fe8ada24a758ae3a4084199720cd313333253c33238ee742b6\""
   },
   "scaryrawr/sl": {
     "stars": 5,
-    "etag": "W/\"8d047098c354d40422c5bec2bf412683e023783d0922490919c758eaa39fa0ce\""
+    "etag": "W/\"79f5c2bef0d8a20fc41d0cc03e57f38ce939c5540d0053e2375e25448eff6a40\""
   },
   "sdolgin/KustoExporter": {
     "stars": 1,
-    "etag": "W/\"0d94cc2472d834d30df0d5b6b768d100ca62d205fdb76653cccad8756c8d468e\""
+    "etag": "W/\"876f25ff424fd5482d12c60d03f92c0cf9542b5459bfa4476efb47aadfb227f8\""
   },
   "seb07-cloud/pim-tui": {
     "stars": 8,
-    "etag": "W/\"5540304ba9dfc398168b5edc6c6a25bd4fac23d318e19018217c5608cb3f9ec7\""
+    "etag": "W/\"8818ea7efccefe3951c88f320f04728ea3332d1ae15c41f71510c98fd58a79ee\""
   },
   "seiggy/package-update-skill": {
     "stars": 1,
-    "etag": "W/\"049ee0f699e858f881abb48cb58b926965fdf65cc80001eec7ed1282f43ce53f\""
+    "etag": "W/\"4612e5034b11c671e05884f0982fc0b7640fa2de51ab8c96094fe222ffbe22e8\""
   },
   "seligj95/retake": {
     "stars": 0,
-    "etag": "W/\"4d8914645127a51105e770aa7c2c577efdfc2cd28c42fe1b982e2243377bb46e\""
+    "etag": "W/\"15146f4bd40caa79cb114be4bc91527ac884fd5cf46373e313c14381018d384f\""
   },
   "seligj95/stash": {
     "stars": 0,
-    "etag": "W/\"c8be8004ab550db6b06cd04797219c7e56fce4bbcaf07252d6ab07c16cd7191f\""
+    "etag": "W/\"01f01079f7cbf56d8764d7bbb24825788724681cfaed85644733cbc803f8846a\""
   },
   "semihcihan/ContextBrief": {
     "stars": 4,
-    "etag": "W/\"1daa5544c3dee1c900cbeea3649b5b1cbb248f898a57bffe6237f3ec16ab5dd4\""
+    "etag": "W/\"583713e6bd04e2812ad82b06d8e308f9cab6d192f8daa9329315ca3f585b58ff\""
   },
   "shanselman/babysmash": {
     "stars": 253,
-    "etag": "W/\"57817794697f7d0b0b8d3bfa0fa409142c7a50f724acf2edce57a622ce89e314\""
+    "etag": "W/\"72483d465479466a48efc8161656fab42e17215d51d7c5efd3eb4139071eea8d\""
   },
   "shanselman/cert-inspector": {
     "stars": 210,
-    "etag": "W/\"6ce67d3c7e9a47e8b7e5971694bde11a9f1e2d720053f87b45505083ca3dfe26\""
+    "etag": "W/\"b5a29bc6cb077d6ba704dc2fef0f13f1eac1a97cf59f4aa7ee635b6d4a87b38b\""
   },
   "shanselman/depop-to-pirateship": {
     "stars": 0,
-    "etag": "W/\"02bb6e034ef457918b5f811681f44d9213757decd41a1e4d8ef064fc101a5dbc\""
+    "etag": "W/\"e00f18086b13da1380c4409fbdda894d2a95f1fb94e3562afa7b1d979b1ca35a\""
   },
   "shanselman/markwatch": {
     "stars": 6,
-    "etag": "W/\"9bb0323b88b18cd5c333e292604d84fbc32f6bd436cb2ab9c77c879f662d6bc6\""
+    "etag": "W/\"16e7ea47dc806718ad2ed4ec0b62ac9cfe123d78274b1453d19265e900ab3093\""
   },
   "shanselman/MaximizeToVirtualDesktop": {
     "stars": 159,
-    "etag": "W/\"e8cc008d93ddf1c81cf6532af9d5261788c2a8e075981f63710342f7f1bab229\""
+    "etag": "W/\"f068660d3def83d2d1991b7981000fd8120a81c8268351493b9313a00864ded9\""
   },
   "shanselman/nightscout-cgm-skill": {
     "stars": 46,
-    "etag": "W/\"24cc97e0708f7dbec494ea878470c4a7eea2e0b15aa2ee1bd13b89375f59aa9f\""
+    "etag": "W/\"cc9e20cb16c855455083134d6ace5d20a54608a6b8ee79eec306a199daff92ac\""
   },
   "shanselman/openclaw-windows-hub": {
     "stars": 427,
-    "etag": "W/\"5096fda259cd9e7d7daef29bf2ff63f713d7434f75f9b607442b9578d0b4ab27\""
+    "etag": "W/\"ec279dc85256794bd3e997541e699cb915ef9f91362af253ae500c25eedc6178\""
   },
   "shanselman/posturr-windows": {
     "stars": 13,
-    "etag": "W/\"25db0cb5a34adf8c3baeff240f4a660408decd60aa8589d55c8b33cb35b17808\""
+    "etag": "W/\"2c4b350f229fa790b2efebe6d78032f4f818fb626fdf31b167cc4d6636fea28a\""
   },
   "shanselman/splitpanefix": {
     "stars": 29,
-    "etag": "W/\"fecea57328cb25d868c2937c6d77f5489497fa39b580353b00173caaf3cbb64d\""
+    "etag": "W/\"a99008ad3cdabda6adf2703ae43e5be896ffe583f9d33d4166435e7466b65e39\""
   },
   "shanselman/toasty": {
     "stars": 364,
-    "etag": "W/\"e9c189bac8a4ccadd66426a537f3da92cf001d0d96170804004d7c65a0078679\""
+    "etag": "W/\"367bff07c608dc351eaf32a1185b2aa605cfafa8dc7c57d7df678b0b51223962\""
   },
   "shanselman/WindowsEdgeLight": {
     "stars": 336,
-    "etag": "W/\"32ecedb6e22adcbb7af660a70ea070b6340c22eacc209e5db4ade0af18510ce2\""
+    "etag": "W/\"3a1fa11d6f87b9d51d1e5fe6fdceead4dcbebd70713149ae9b0d2402ee783664\""
   },
   "shanselman/winget-tui": {
     "stars": 208,
-    "etag": "W/\"c9025ee0322ba0e8a919a4985535f07cba9430b8c82c5f7aca77834d210121e7\""
+    "etag": "W/\"f843892724775ce70ff74f2b765a6744811122a439a60d66ef5c1951013a1750\""
   },
   "sholman/SQLScriptRunner": {
     "stars": 0,
-    "etag": "W/\"1a3880be381f08e79ddf1a0e2eacfbae3170e512d935df1230f61cfd4f0abf3b\""
+    "etag": "W/\"33f1250771f37338593b7b67ad8db240ba31f17334780d5ab84feb3e27a66d48\""
   },
   "shrayasr/Defn": {
     "stars": 1,
-    "etag": "W/\"3dd1ec474088cd2919b9340d9845b0e5394f01ab49affbc95816706187fd6ef7\""
+    "etag": "W/\"192db25500436177b57554c0d08652225e153ab2f52994d0edfc533ac9c192f6\""
   },
   "sphildreth/decentdb": {
     "stars": 0,
-    "etag": "W/\"af5ef0fbde87093e44dac1e737614c16aa1ee2d6950255a0cb0ebcc3317281ec\""
+    "etag": "W/\"3cf2523db0d6df85f63b9552c4bae5e68729a1c9a2c7b24a81ce612f200d86bf\""
   },
   "stympy/forkwatch": {
     "stars": 8,
-    "etag": "W/\"98a36b6924d6ffc854599df3bd7b052e209a7fdafd0ac5c4ae83fcfc58669408\""
+    "etag": "W/\"edf679af46f12891281937f862402f7d8cb410fc4f4484a7c3e2879c12bac542\""
   },
   "sumantmodak/tiney.to": {
     "stars": 11,
-    "etag": "W/\"ccdff0c2d78e20478aa1702a2e790e8e1e7a001215a96204ab94e572569dc73d\""
+    "etag": "W/\"b2cbae0d4aa2c8aa9fe3191f58fa9d60f504a34bb673ab7f8c769a5043df17cb\""
   },
   "Tdue21/password-generator": {
     "stars": 0,
-    "etag": "W/\"d6321278055622877aaa6856535c2bd9c81c1690a7df71583dda9d5df19b8533\""
+    "etag": "W/\"ecff2126ac235816e6da852fc1ff11018245711efc2bec8faa6712db01f6baad\""
   },
   "TheBlueSky/dotnet-venv": {
     "stars": 4,
-    "etag": "W/\"e72511e438d55c074a46bd1c75c2fbbe202a9a511e484ac44d23b645b3629ec8\""
+    "etag": "W/\"686b995e488143f5a531522f3ca9eaa9615c63a618e063e75c6f7c4dcbc88194\""
   },
   "TheJoeFin/Simple-QR-Code-Maker": {
     "stars": 98,
-    "etag": "W/\"16af01fd5fb31ebcf9ef404c7e819d21c568d543ecae006b7890facaee6d8628\""
+    "etag": "W/\"f97a6468647af6cec42eaa4ec616ecfb19f67239254b2a7fbc0331e6916bb7ba\""
   },
   "TheJoeFin/Trdo": {
     "stars": 101,
-    "etag": "W/\"8cbbba93b1d0b7fa0016d3dbf8cf41dc0dbc0d104a4a3beb8d917668c2c468c8\""
+    "etag": "W/\"284c665ab4e260e4b3d6fd0270750cb7aa50ab7131f2898f814f88380d3ad39e\""
   },
   "thiagogbeier/urlclilangcleaner": {
     "stars": 0,
-    "etag": "W/\"dde73e118122c3cc16f3daeec113f32c10906d4a73ac4ad1d2eca54a7308cd94\""
+    "etag": "W/\"d6ee1877b88259c979e103dd6052ad77dbd32c49f6976d5e881a6f23f2c89f28\""
   },
   "Timmoth/RackPeek": {
-    "stars": 1320,
-    "etag": "W/\"b56a1a8396a0d90638b5db174503b11ce893c47fa560d0de942fa6d44a222dad\""
+    "stars": 1327,
+    "etag": "W/\"3ed487fa83deb584c959ff03316e6a3e45ed144aa44dfc752d5bb39ed5d522dc\""
   },
   "tmcknight/bridgeview-ais": {
     "stars": 1,
-    "etag": "W/\"0f8a341d8ca6160ec928c19c5fe7c4d2f407cfd0b073ffa89dc0a9ba82281910\""
+    "etag": "W/\"d3e6b3a9d9d6029ecf4000c78a0bc85d4c3dc1277d04d463a2778434dfd814b9\""
   },
   "tmcknight/imposter-game": {
     "stars": 1,
-    "etag": "W/\"5979b6d66988ac917a545d2694937b6deb63a4b7e28b85297a696cab3283226e\""
+    "etag": "W/\"d8e65ba46e9cddb1e0943477f623128b83d4dc22112765e63a253a99fdd79bf9\""
   },
   "trackd/Sixel": {
     "stars": 51,
-    "etag": "W/\"988c24ad33992e4d6c3bf653222567d74238f5373953d74951d80e8d4d5d89f2\""
+    "etag": "W/\"f48ad14525056997b18f1a777171d7f84dde9309b356fe3eeb43227d71766763\""
   },
   "trackd/TextMate": {
     "stars": 10,
-    "etag": "W/\"df4777452a9f4ba03efb9702c2d479bd81b5937dc7a68121595388c0f46852d1\""
+    "etag": "W/\"d4a3d5d61503f598ef71827c7113e76d1c4154b0c82865f5429fb8ef767cc5ca\""
   },
   "trsdn/mdviewer": {
     "stars": 4,
-    "etag": "W/\"07d35992c7a43c2208444cf69f11a009418eb30bf9dd13ef79698bf1b3a4b769\""
+    "etag": "W/\"5a73e114a5c713a1332164d41ef1882b96068e4e85784ca4af46e682288822be\""
   },
   "tsjdev-apps/piccaptionr": {
     "stars": 0,
-    "etag": "W/\"bb2f7e5fe5072a6a4fc966e7087d667b829d194986392363ea9ba218cef22242\""
+    "etag": "W/\"e768bbf65edb43178610fcda9b4dc45825c493e35e823c16a779c4bf83d5b6ac\""
   },
   "tsjdev-apps/webpconverter-avalonia": {
     "stars": 0,
-    "etag": "W/\"2fa35720039464caec367e4f46a18f0f48a835cd1b8e0eff96f0916367941681\""
+    "etag": "W/\"539dc93c942f31f6b7d17d92cd70df55843c3b740001987a19e7b3bf990af0e9\""
   },
   "tw40210/FROAV_LLM": {
     "stars": 1,
-    "etag": "W/\"c1b155abe07388c4203623cf0fd8366d3641bfcc04946f4aa2f80c11b1f78392\""
+    "etag": "W/\"c6d3afe0701d1ae4d8c080ccc38e3e7a4e6ec6f7edf6466572fa7461b76cc2aa\""
   },
   "twodawg/DoodleAI": {
     "stars": 1,
-    "etag": "W/\"167f652db308a8812b2444f0293396513f5995ae03cbc5a7f1c00914f26bc2e3\""
+    "etag": "W/\"361dfc137fe19ec49b40c923d63b580cb27ae3e0505f99ddaef3622a6566da99\""
   },
   "twodawg/LayerProWeb": {
     "stars": 1,
-    "etag": "W/\"4cc6053a4aba8876f0d03848fdf13de5890f39b6adbb212094fc03e256e0f6ca\""
+    "etag": "W/\"2fd148388200a71d076da8135cef212c9c6dcbf907f20bfd4a994c05176ad71f\""
   },
   "UiPath/graphtty": {
     "stars": 11,
-    "etag": "W/\"cdc9c640c8505640b5b2315b8bb1dbf5899a74a9cc1c34ad2c50948a69acb7d8\""
+    "etag": "W/\"cfe8378d12f59f427f6294dd32449653724ec635ce1cea50bbfd5a75c06bfc95\""
   },
   "UstDoesTech/last-letter": {
     "stars": 0,
-    "etag": "W/\"a6db393c63a197b889a25f0a30c53919d33b9006f06da64d076ec0e602d97e4f\""
+    "etag": "W/\"2e35260a6da7ece5694c7108f1081056a7075b1d94a725de6bfdc6b14a77399d\""
   },
   "vbyazilim/basichttpdebugger": {
     "stars": 2,
-    "etag": "W/\"b5080c5384c3f0b9dacd50540c167aa61582ee18eb065f33b5ca27ec6908bc62\""
+    "etag": "W/\"5ce8bdeec5b0ac452c3a780e4c55c96f5c43468ddc4bfbffb31b8c14183e08aa\""
   },
   "vigo/git-init-githubrepo": {
     "stars": 10,
-    "etag": "W/\"2593a5312902c507d8fa7deebab190b065824e8f971e35a2e2c22d23aa9e53f3\""
+    "etag": "W/\"327cf6401ba54c656721e45847ff12e7a4489c6b44bec1a02f6fd1603888e6e4\""
   },
   "vigo/leech": {
     "stars": 0,
-    "etag": "W/\"599d18c2bbc97febed67f6c9c411bb62d0ab3f77755499eb4e6f4f77a325fd19\""
+    "etag": "W/\"fcb0c5d0ae8acd3f33a8391575bc536d0bb2b604e9592d1cb202db2d3d1bd3be\""
   },
   "vigo/lsvirtualenvs": {
     "stars": 4,
-    "etag": "W/\"b8ed0bb892a16ab160f7f78971854229cbd59e8787fb26e71b7ad0ea3fcca48b\""
+    "etag": "W/\"12b58b07fb26b0670ed8ee6f65f05441a9debad20eec11b258c6567e11b79f3b\""
   },
   "vigo/statoo": {
     "stars": 35,
-    "etag": "W/\"8b847a6ce5585546b05be50762bee8645083b0d1dd8b8375d73ea8f6cb7445e9\""
+    "etag": "W/\"1433515bafee8c3c2c849bea1d94fa3586e00ecab1f35a79450185893f64ec5b\""
   },
   "vigo/tablo": {
     "stars": 2,
-    "etag": "W/\"bc38ebddeb4c5de9fa0b1e17a50e69c86180e4260c57aae2a5e8f976e1ad3544\""
+    "etag": "W/\"94a81f23414ae9a8c684208782340932010960e8014bdee4403ec785791b2c72\""
   },
   "VisualBean/turbo-waffle": {
-    "stars": 1,
-    "etag": "W/\"39850472354ae3c2be6184cf5de7d97e2ba4a50a3ba2481c09e06fdaff4d7918\""
+    "stars": 2,
+    "etag": "W/\"90d628a9afce296eb15705ed842b2b089b86cd26ddc2536f46e14c3e62ddab84\""
   },
   "VitSimon/AntiStegText": {
     "stars": 0,
-    "etag": "W/\"51fa6467dda44cc1eef635fae0c3847b5f1f299e26a779aef445585f7bd74fc7\""
+    "etag": "W/\"5cd54491719c2e1b8804dd2cc91adc4946f75b301d3723acb6bd9ed9939b4c93\""
   },
   "VitSimon/urlshort": {
     "stars": 0,
-    "etag": "W/\"03eecaee4b7676debebc9af4eefee41a0a1c7a8f375e090e4107857f3b29f7d9\""
+    "etag": "W/\"88c2ecad2bd5fbf8d1d970742d09f0041c02abb3c8f7b59785fcd79c87d1231e\""
   },
   "wasichris/visual-focusing": {
     "stars": 0,
-    "etag": "W/\"7b0d32cff53cc8c228a6fd837efc28a8312e892a7c8195f7eb05902a71c3e3df\""
+    "etag": "W/\"22eca5fb6fe4eaf30b0a2526c9d7f9dd5b07bda9286943bc962bb5f9721bc748\""
   },
   "willibrandon/dotsider": {
     "stars": 1,
-    "etag": "W/\"edb4c9918a73bd2fcdc78cb499fa67de3fa325c3f4b537e046c0fd527ea46616\""
+    "etag": "W/\"fe661d83939bd507e5692584cc4409ef31f0d8228915866fa23b562b74b80836\""
   },
   "willvelida/code-minions": {
     "stars": 23,
-    "etag": "W/\"dc719944f061121f559f0642633b16e7ab62a1e1da1965dea974e6f19ad36ea6\""
+    "etag": "W/\"b044d0d0b3d571c465c1d1f9a41ae7cb61b4647076348b6d1d5384e58962b2c6\""
   },
   "windskywen/solar-path": {
     "stars": 1,
-    "etag": "W/\"f99c7975757bd2b3e0703e7175ba8124f460d4852abe930ddf760d07e05b7a64\""
+    "etag": "W/\"8e37fac86024490efe8fe236840ca4d11ca66d4fa3272160491c9c83210e942d\""
   },
   "woanware/VirtualDesktopUtils": {
     "stars": 2,
-    "etag": "W/\"c7cdf0c23770371239af1847f799b601c1c7fe78b19f56e7e6f05a52a41ebe87\""
+    "etag": "W/\"5df01de5a631ddef8ec809e2cf456ac8bcfb29ce9a4c2dfed7b574ff276dc522\""
   },
   "wolverin0/clawtrol": {
     "stars": 34,
-    "etag": "W/\"d7d8d535d0a96755a92020196d334c0b05a7f67e7210675da42ef89b7aa24783\""
+    "etag": "W/\"11b66f0fbd91fb7f3fc8358345ff88ea31fbefdafdfef269f49bfda5374dc3a0\""
   },
   "yoannchaudet/delta-board": {
     "stars": 1,
-    "etag": "W/\"7711dc35d335224d00ee13f67ad870cc0914deaf1b7f2ac0424d4084c4dc1cc1\""
+    "etag": "W/\"5a56226bcaba6da711f3d8b9ee57e022049e0afa8a986adb0bf345f5e67c6474\""
   },
   "Yoshi325/grin": {
     "stars": 0,
-    "etag": "W/\"d9dc8580a62b8fd93191be0090a1cfe2db243e553823f248e83a59655a28504c\""
+    "etag": "W/\"af6902df9523fe8c282901ddcf35c3c095569f2ba1bdb5ace8741f1a8226c093\""
   },
   "yuceldaglar/MyFileExplorer": {
     "stars": 0,
-    "etag": "W/\"587b6a72c61fcbd081db98c86359ec858566c494cec2f4936a24acea28144d50\""
+    "etag": "W/\"d7f8fe3241a4fc9cb3f16b05ff4eb2a413b4f9045f142091a3324444a7c3be0b\""
   },
   "yusufk/gautrain-schedule": {
     "stars": 1,
-    "etag": "W/\"eecc6e626ed91888e6339fa5273444b3f0f1245a5314d64a0159f85e09cff26b\""
+    "etag": "W/\"0dc24a01c6765d9c24e4b98a0fe87762b64b123fa888c2a5e7b6a7976aa4ad8a\""
   },
   "ZichenYuan/vibecode_learn": {
     "stars": 8,
-    "etag": "W/\"55482738948665a4fd69c07436fca4e89390bd5a8ade185fa31f61ee4cb321e6\""
+    "etag": "W/\"a55a2c3edaaf98ddd9243b183cbd0b4ad0fb705d1367537ac0a7a4947d4543e6\""
   }
 }

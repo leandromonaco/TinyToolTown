@@ -3,6 +3,8 @@ name: Triage Tool Submission
 on:
   issues:
     types: [opened]
+  issue_comment:
+    types: [created]
   workflow_dispatch:
     inputs:
       issue_number:
@@ -26,6 +28,15 @@ jobs:
           script: |
             const isManual = context.eventName === 'workflow_dispatch';
             let issuesToTriage = [];
+
+            if (context.eventName === 'issue_comment') {
+              const issueState = context.payload.issue?.state;
+              const commentAuthor = context.payload.comment?.user?.login;
+              if (issueState !== 'open' || commentAuthor === 'github-actions[bot]') {
+                console.log(`Skipping issue_comment retriage (state: ${issueState}, author: ${commentAuthor})`);
+                return;
+              }
+            }
 
             if (isManual) {
               const inputNum = '${{ github.event.inputs.issue_number }}'.trim();

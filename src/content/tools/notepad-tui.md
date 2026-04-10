@@ -4,6 +4,7 @@ tagline: "Read and edit text files simply from your terminal with the notepad.tu
 author: "Pedro Silva"
 author_github: "DarthPedro"
 github_url: "https://github.com/d20Tek/cli-tools"
+thumbnail: "/thumbnails/notepad-tui.png"
 website_url: "https://d20tek.com/projects/notepad-tui"
 tags: ["notepad", "terminal", "text viewer", "text editor", "terminal text viewer"]
 language: "C#"

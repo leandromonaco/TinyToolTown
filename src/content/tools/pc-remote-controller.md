@@ -4,6 +4,7 @@ tagline: "PC Remote Controller is a app that lets you control your computer from
 author: "Maron Levi"
 author_github: "MrMamtak"
 github_url: "https://github.com/MrMamtak/PC-Remote-Controller"
+thumbnail: "/thumbnails/pc-remote-controller.png"
 tags: ["windows", "remote controller"]
 language: "Python"
 license: "Apache-2.0"

@@ -9,6 +9,8 @@ language: "TypeScript"
 license: "MIT"
 date_added: "2026-04-08"
 featured: false
+ai_summary: "Ever wonder what AI magic sparked that code change? This nifty tool captures your AI prompts right into git commit messages so your human intent never gets lost in the shuffle!"
+ai_features: ["🤖 Captures prompts from multiple AI coding tools into git trailers", "🔗 Integrates seamlessly with your git commit workflow", "🔍 Makes AI-driven intent searchable and reviewable in commit history"]
 ---
 
 Every time you write a prompt in Claude Code, you're making a choice. What to build, how to approach it, what matters most. Those choices shape the code just as much as the code itself.

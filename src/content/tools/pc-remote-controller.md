@@ -10,6 +10,8 @@ language: "Python"
 license: "Apache-2.0"
 date_added: "2026-04-08"
 featured: false
+ai_summary: "Wave goodbye to clunky remote desktop apps and control your PC straight from your phone’s browser on the same WiFi—mouse moves, keyboard clicks, and even file uploads at your fingertips! It’s like having a magic wand for your Windows PC without any extra installs on your phone."
+ai_features: ["🔐 Secure PIN lock screen for safe access", "🖱️ Full mouse control with clicks and scroll", "📺 Live desktop preview streaming in your browser", "📁 Upload files directly to common user folders"]
 ---
 
 A Windows-focused Flask app that lets you control your PC from a phone browser on the same local network.

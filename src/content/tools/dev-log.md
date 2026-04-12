@@ -12,6 +12,8 @@ license: "MIT"
 theme: "terminal"
 date_added: "2026-04-08"
 featured: false
+ai_summary: "Keep your weekly developer notes and status updates neat and tidy without breaking a sweat using this handy CLI buddy that makes logging a breeze! It's like having a personal assistant for your dev journal right in your terminal."
+ai_features: ["📝 Easy creation and management of weekly developer notes", "🚀 Streamlined CLI interface for quick status updates", "💾 Organized storage of logs for effortless tracking"]
 ---
 
 dev-log is a lightweight .NET global tool built for developers who want a simple, structured way to record what they accomplished each week. Instead of digging through commit history or recall what you did last Tuesday, dev-log gives you a consistent place to capture it as you go.

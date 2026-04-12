@@ -11,6 +11,8 @@ language: "TypeScript"
 license: "MIT"
 date_added: "2026-04-09"
 featured: false
+ai_summary: "Spin your source files and task prompts into a neat, privacy-first package perfect for feeding your local large language models — all in a slick browser workspace that keeps your data right where it belongs, on your machine!"
+ai_features: ["🗂️ Select only the files you want to include", "🧵 Assemble prompts with smart formatting and file context", "📏 See token estimates to keep prompts perfectly sized", "🔒 100% client-side privacy with zero server uploads"]
 ---
 
 CodeLoom is a browser-based workspace for assembling source files, repository context, and task instructions into a prompt-ready package. It features selective file intake, token estimation, and clipboard-ready output for fast handoff. Built with a privacy-first approach, all processing happens client-side with optional LLM bridge support for local endpoints.

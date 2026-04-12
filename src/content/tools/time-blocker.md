@@ -10,6 +10,8 @@ language: "Typescript (Electron + React)"
 license: "MIT"
 date_added: "2026-04-09"
 featured: false
+ai_summary: "Say goodbye to scheduling chaos with this sleek desktop app that lets you drag, drop, and color-code your day in a flash while saving everything as easy-to-edit markdown files. Time-blocking has never been this fun or flexible!"
+ai_features: ["🔥 Drag to create and instantly edit blocks", "🎨 Color-code blocks with 10 preset options", "🚀 Floating always-on-top widget with live countdown and progress bar", "🎯 Multi-day view with synchronized scrolling and drag-to-reschedule"]
 ---
 
 A simple desktop app for time-blocking your day. Drag to create blocks, move and resize them, colour-code by category, and everything saves automatically as readable markdown files.

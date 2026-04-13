@@ -117,7 +117,10 @@ jobs:
                     const commentBody = comment.body || '';
                     // Skip bot comments
                     if (comment.user?.login === 'github-actions[bot]') continue;
-                    const imgMatch = commentBody.match(/!\[[^\]]*\]\((https?:\/\/[^)]+)\)/);
+                    // Match markdown images: ![alt](url) or HTML images: <img ... src="url" ...>
+                    const mdImg = commentBody.match(/!\[[^\]]*\]\((https?:\/\/[^)]+)\)/);
+                    const htmlImg = commentBody.match(/<img[^>]+src=["'](https?:\/\/[^"']+)["']/i);
+                    const imgMatch = mdImg || htmlImg;
                     if (imgMatch) {
                       bestImageUrl = imgMatch[1];
                       imageSource = 'issue comment';

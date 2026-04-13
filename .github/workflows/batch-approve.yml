@@ -277,7 +277,10 @@ jobs:
                 let imageFromComment = null;
                 for (const comment of comments.data) {
                   const commentBody = comment.body || '';
-                  const uploadedImg = commentBody.match(/!\[[^\]]*\]\((https?:\/\/[^)]+)\)/);
+                  // Match markdown images: ![alt](url) or HTML images: <img ... src="url" ...>
+                  const mdImg = commentBody.match(/!\[[^\]]*\]\((https?:\/\/[^)]+)\)/);
+                  const htmlImg = commentBody.match(/<img[^>]+src=["'](https?:\/\/[^"']+)["']/i);
+                  const uploadedImg = mdImg || htmlImg;
                   if (uploadedImg) {
                     imageFromComment = uploadedImg[1];
                     break;

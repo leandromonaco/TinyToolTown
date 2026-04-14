@@ -9,7 +9,15 @@ import { getCollection } from 'astro:content';
 
 const allTools = await getCollection('tools');
 
-const featuredTools = allTools.filter(t => t.data.featured);
+const featuredTools = allTools
+  .filter(t => t.data.featured)
+  .sort((a, b) => {
+    const aHas = a.data.thumbnail ? 0 : 1;
+    const bHas = b.data.thumbnail ? 0 : 1;
+    return aHas - bHas
+      || new Date(b.data.date_added).getTime() - new Date(a.data.date_added).getTime()
+      || a.data.name.localeCompare(b.data.name);
+  });
 
 // Latest additions: recent tools, prefer ones with thumbnails, randomized
 const sevenDaysAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;

@@ -1,0 +1,9 @@
+{
+  "count": 8,
+  "recentSlots": 2,
+  "recentDays": 21,
+  "cooldownDays": 56,
+  "maxPerLanguage": 2,
+  "maxPerPrimaryTag": 2,
+  "pinnedSlugs": []
+}

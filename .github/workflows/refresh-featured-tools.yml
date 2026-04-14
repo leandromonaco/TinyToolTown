@@ -1,0 +1,81 @@
+name: Refresh Featured Tools
+
+on:
+  schedule:
+    - cron: '0 14 * * 1'  # Mondays at 14:00 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: featured-tools-refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Refresh featured tool selection
+        run: node scripts/refresh-featured-tools.mjs
+
+      - name: Create or update pull request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if git diff --quiet -- src/content/tools .github/featured-history.json; then
+            echo "No featured changes to propose."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          branch="automation/refresh-featured-tools"
+          git checkout -B "$branch"
+          git add src/content/tools .github/featured-history.json
+          git commit -m "chore: refresh featured tools"
+          git push --force-with-lease --set-upstream origin "$branch"
+
+          pr_number=$(gh pr list --repo "$GITHUB_REPOSITORY" --head "$branch" --state open --json number --jq '.[0].number')
+
+          pr_body=$(cat <<'EOF'
+          ## Weekly featured tool refresh
+
+          This PR was generated automatically by the scheduled featured-tools workflow.
+
+          It refreshes the homepage featured set using:
+          - thumbnail presence
+          - recent additions
+          - GitHub stars
+          - language/tag diversity
+          - cooldown history to avoid featuring the same tools every week
+
+          Pinned tools remain included until removed from `.github/featured-tools-config.json`.
+          EOF
+          )
+
+          if [ -n "$pr_number" ] && [ "$pr_number" != "null" ]; then
+            gh pr edit "$pr_number" --repo "$GITHUB_REPOSITORY" \
+              --title "chore: refresh featured tools" \
+              --body "$pr_body"
+          else
+            gh pr create --repo "$GITHUB_REPOSITORY" \
+              --base main \
+              --head "$branch" \
+              --title "chore: refresh featured tools" \
+              --body "$pr_body"
+          fi

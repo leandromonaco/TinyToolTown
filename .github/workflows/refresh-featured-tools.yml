@@ -73,9 +73,27 @@ jobs:
               --title "chore: refresh featured tools" \
               --body "$pr_body"
           else
+            set +e
             gh pr create --repo "$GITHUB_REPOSITORY" \
               --base main \
               --head "$branch" \
               --title "chore: refresh featured tools" \
               --body "$pr_body"
+            status=$?
+            set -e
+
+            if [ $status -ne 0 ]; then
+              compare_url="https://github.com/${GITHUB_REPOSITORY}/compare/main...${branch}?expand=1"
+              echo "GitHub Actions could not create the PR automatically. Review the branch here: $compare_url"
+              if [ -n "${GITHUB_STEP_SUMMARY:-}" ]; then
+                {
+                  echo "## Featured tools branch ready"
+                  echo
+                  echo "GitHub Actions pushed the refresh branch, but repo settings blocked automatic PR creation."
+                  echo
+                  echo "- Branch: \`$branch\`"
+                  echo "- Compare URL: $compare_url"
+                } >> "$GITHUB_STEP_SUMMARY"
+              fi
+            fi
           fi

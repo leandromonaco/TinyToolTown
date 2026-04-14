@@ -16,6 +16,24 @@ export async function getStaticPaths() {
 const { tool } = Astro.props;
 const { Content } = await render(tool);
 const repo = getGitHubRepo(tool.data.github_url);
+const slug = tool.id.replace(/\.md$/, '');
+
+function stripMarkdown(markdown: string) {
+  return markdown
+    .replace(/!\[[^\]]*\]\([^)]+\)/g, ' ')
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/[`*_>#~|-]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function truncate(text: string, maxLength: number) {
+  if (text.length <= maxLength) return text;
+  return `${text.slice(0, maxLength - 1).trimEnd()}...`;
+}
+
+const metaDescription = truncate(tool.data.ai_summary || stripMarkdown(tool.body || '') || tool.data.tagline, 155);
+const metaTitle = truncate(`${tool.data.name} - ${tool.data.tagline} | Tiny Tool Town`, 68);
 
 const langColors: Record<string, string> = {
   'C#': '#178600',
@@ -31,9 +49,9 @@ const langColor = tool.data.language ? langColors[tool.data.language] || '#8b949
 ---
 
 <BaseLayout
-  title={`${tool.data.name} — Tiny Tool Town 🏘️`}
-  description={tool.data.tagline}
-  ogImage={tool.data.thumbnail || "/og-image.png"}
+  title={metaTitle}
+  description={metaDescription}
+  ogImage={`/social/${slug}.png`}
   {...(tool.data.theme ? { theme: tool.data.theme } : {})}
 >
   <Header />
@@ -92,7 +110,7 @@ const langColor = tool.data.language ? langColors[tool.data.language] || '#8b949
           </div>
 
           <div class="tool-actions">
-            <button class="btn btn-secondary detail-favorite-btn" id="detail-favorite-btn" type="button" data-tool={tool.id.replace(/\.md$/, '')} data-tool-name={tool.data.name} aria-pressed="false" aria-label={`Add ${tool.data.name} to favorites`}>
+            <button class="btn btn-secondary detail-favorite-btn" id="detail-favorite-btn" type="button" data-tool={slug} data-tool-name={tool.data.name} aria-pressed="false" aria-label={`Add ${tool.data.name} to favorites`}>
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
               <span id="detail-favorite-label">Favorite</span>
             </button>

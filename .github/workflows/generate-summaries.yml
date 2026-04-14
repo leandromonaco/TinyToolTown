@@ -31,11 +31,11 @@ jobs:
   summarize:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Generate AI summaries via GitHub Models API
         timeout-minutes: 30
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         env:
           MODELS_TOKEN: ${{ secrets.COPILOT_TOKEN }}
           SUMMARY_MODE: ${{ github.event.inputs.mode || 'new' }}
@@ -308,7 +308,7 @@ jobs:
 
       - name: Trigger deploy
         if: steps.diff.outputs.changed == 'true'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             await github.rest.actions.createWorkflowDispatch({

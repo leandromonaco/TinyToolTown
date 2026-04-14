@@ -23,7 +23,7 @@ jobs:
       issues: write
     steps:
       - name: Triage submission
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const isManual = context.eventName === 'workflow_dispatch';

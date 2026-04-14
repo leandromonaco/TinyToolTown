@@ -69,9 +69,16 @@ jobs:
           )
 
           if [ -n "$pr_number" ] && [ "$pr_number" != "null" ]; then
+            set +e
             gh pr edit "$pr_number" --repo "$GITHUB_REPOSITORY" \
               --title "chore: refresh featured tools" \
               --body "$pr_body"
+            status=$?
+            set -e
+
+            if [ $status -ne 0 ]; then
+              echo "GitHub Actions could not edit the existing PR metadata, but the branch was updated successfully."
+            fi
           else
             set +e
             gh pr create --repo "$GITHUB_REPOSITORY" \

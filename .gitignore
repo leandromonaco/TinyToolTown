@@ -6,6 +6,9 @@ dist/
 *.png
 !public/**/*.png
 
+# VS Code / Language Server caches
+*.lscache
+
 # .NET
 tools/**/bin/
 tools/**/obj/

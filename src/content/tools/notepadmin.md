@@ -4,7 +4,7 @@ tagline: "A minimal notepad"
 author: "Pieter de Bruin"
 author_github: "pdebruin"
 github_url: "https://github.com/pdebruin/notepadmin"
-thumbnail: "/thumbnails/notepadmin.png"
+thumbnail: "/thumbnails/notepadmin.webp"
 tags: ["windows", "linux", "simple", "text", "editor"]
 language: "C#"
 license: "MIT"

@@ -4,7 +4,7 @@ tagline: "Create custom bookmarklets and manage your whole collection, all witho
 author: "Brian Cantoni"
 author_github: "bcantoni"
 github_url: "https://github.com/bcantoni/bookmarklets"
-thumbnail: "/thumbnails/bookmarklet-editor.png"
+thumbnail: "/thumbnails/bookmarklet-editor.webp"
 website_url: "https://bcantoni.github.io/bookmarklets/"
 tags: ["web", "bookmarklet"]
 language: "JavaScript"

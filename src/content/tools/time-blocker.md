@@ -4,7 +4,7 @@ tagline: "A simple desktop app for time-blocking your day."
 author: "Dan Clarke"
 author_github: "dracan"
 github_url: "https://github.com/dracan/timeblock-app"
-thumbnail: "/thumbnails/time-blocker.png"
+thumbnail: "/thumbnails/time-blocker.webp"
 tags: ["windows", "time-blocking", "productivity"]
 language: "Typescript (Electron + React)"
 license: "MIT"

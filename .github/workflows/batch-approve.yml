@@ -24,6 +24,14 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install site dependencies
+        run: npm ci
+
       - name: Process queued issues in one batch
         uses: actions/github-script@v9
         with:
@@ -31,6 +39,7 @@ jobs:
             const fs = require('fs');
             const path = require('path');
             const { execFileSync } = require('child_process');
+            const sharp = require('sharp');
 
             const owner = context.repo.owner;
             const repo = context.repo.repo;
@@ -56,16 +65,6 @@ jobs:
               return clean;
             };
 
-            const safeImageExt = (urlStr) => {
-              const allowed = ['.png', '.jpg', '.jpeg', '.gif', '.webp'];
-              try {
-                const ext = path.extname(new URL(urlStr).pathname).split('?')[0].toLowerCase();
-                return allowed.includes(ext) ? ext : '.png';
-              } catch {
-                return '.png';
-              }
-            };
-
             const badgeHosts = [
               'img.shields.io', 'badge.fury.io', 'badgen.net', 'badges.', 'coveralls.io',
               'codecov.io', 'travis-ci.', 'ci.appveyor.com', 'github.com/workflows',
@@ -73,7 +72,12 @@ jobs:
             const isBadge = (u) => badgeHosts.some(h => u.includes(h)) || u.includes('/badge');
 
             const MIN_IMAGE_SIZE = 10 * 1024;
-            const MAX_IMAGE_SIZE = 5 * 1024 * 1024;
+            const MAX_SOURCE_IMAGE_SIZE = 60 * 1024 * 1024;
+            const STATIC_MAX_WIDTH = 960;
+            const STATIC_MAX_HEIGHT = 540;
+            const ANIMATED_MAX_WIDTH = 480;
+            const ANIMATED_MAX_HEIGHT = 270;
+            const MAX_ANIMATED_OUTPUT_SIZE = 900 * 1024;
 
             const getField = (body, label) => {
               const regex = new RegExp(`### ${label}\\s*\\n*\\s*([\\s\\S]*?)(?=\\n###|\\n\\n###|$)`);
@@ -82,6 +86,62 @@ jobs:
             };
 
             const sleep = (ms) => Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms);
+
+            async function optimizeThumbnailBuffer(inputBuffer) {
+              const metadata = await sharp(inputBuffer, { animated: true, pages: -1, failOn: 'none', limitInputPixels: false }).metadata();
+              const isAnimated = (metadata.pages || 1) > 1;
+
+              if (isAnimated) {
+                try {
+                  const animatedBuffer = await sharp(inputBuffer, { animated: true, pages: -1, failOn: 'none', limitInputPixels: false })
+                    .rotate()
+                    .resize({
+                      width: ANIMATED_MAX_WIDTH,
+                      height: ANIMATED_MAX_HEIGHT,
+                      fit: 'inside',
+                      withoutEnlargement: true,
+                    })
+                    .gif({
+                      effort: 5,
+                      colours: 96,
+                    })
+                    .toBuffer();
+
+                  if (animatedBuffer.length <= MAX_ANIMATED_OUTPUT_SIZE) {
+                    return { buffer: animatedBuffer, ext: '.gif' };
+                  }
+                } catch {
+                  // Fall back to a static preview when animated encoding is unavailable.
+                }
+              }
+
+              const staticBuffer = await sharp(inputBuffer, { animated: true, pages: 1, failOn: 'none', limitInputPixels: false })
+                .rotate()
+                .resize({
+                  width: STATIC_MAX_WIDTH,
+                  height: STATIC_MAX_HEIGHT,
+                  fit: 'inside',
+                  withoutEnlargement: true,
+                })
+                .webp({
+                  quality: 78,
+                  effort: 5,
+                })
+                .toBuffer();
+
+              return { buffer: staticBuffer, ext: '.webp' };
+            }
+
+            function removeStaleThumbnails(slug, keepFile) {
+              const thumbsDir = 'public/thumbnails';
+              if (!fs.existsSync(thumbsDir)) return;
+
+              for (const file of fs.readdirSync(thumbsDir)) {
+                if (!file.startsWith(`${slug}.`)) continue;
+                if (file === keepFile) continue;
+                fs.unlinkSync(path.join(thumbsDir, file));
+              }
+            }
 
             async function ensureLabel(name, color, description) {
               try {
@@ -289,17 +349,18 @@ jobs:
 
                 if (imageFromComment) {
                   try {
-                    const ext = safeImageExt(imageFromComment);
-                    const thumbFile = `${slug}${ext}`;
-                    const thumbDest = `public/thumbnails/${thumbFile}`;
-                    if (!fs.existsSync('public/thumbnails')) fs.mkdirSync('public/thumbnails', { recursive: true });
                     const imgRes = await fetch(imageFromComment);
                     if (imgRes.ok) {
                       const contentLen = parseInt(imgRes.headers.get('content-length') || '0', 10);
-                      if (contentLen <= MAX_IMAGE_SIZE) {
+                      if (contentLen <= MAX_SOURCE_IMAGE_SIZE || contentLen === 0) {
                         const buf = Buffer.from(await imgRes.arrayBuffer());
-                        if (buf.length >= MIN_IMAGE_SIZE && buf.length <= MAX_IMAGE_SIZE) {
-                          fs.writeFileSync(thumbDest, buf);
+                        if (buf.length >= MIN_IMAGE_SIZE && buf.length <= MAX_SOURCE_IMAGE_SIZE) {
+                          const optimized = await optimizeThumbnailBuffer(buf);
+                          const thumbFile = `${slug}${optimized.ext}`;
+                          const thumbDest = `public/thumbnails/${thumbFile}`;
+                          if (!fs.existsSync('public/thumbnails')) fs.mkdirSync('public/thumbnails', { recursive: true });
+                          removeStaleThumbnails(slug, thumbFile);
+                          fs.writeFileSync(thumbDest, optimized.buffer);
                           thumbPath = `/thumbnails/${thumbFile}`;
                         }
                       }
@@ -335,9 +396,9 @@ jobs:
                           const imgRes = await fetch(imgUrl);
                           if (!imgRes.ok) continue;
                           const contentLen = parseInt(imgRes.headers.get('content-length') || '0', 10);
-                          if (contentLen > MAX_IMAGE_SIZE) continue;
+                          if (contentLen > MAX_SOURCE_IMAGE_SIZE) continue;
                           const buf = Buffer.from(await imgRes.arrayBuffer());
-                          if (buf.length >= MIN_IMAGE_SIZE && buf.length <= MAX_IMAGE_SIZE) {
+                          if (buf.length >= MIN_IMAGE_SIZE && buf.length <= MAX_SOURCE_IMAGE_SIZE) {
                             imageCandidates.push({ url: imgUrl, size: buf.length, buffer: buf });
                           }
                         } catch {
@@ -348,11 +409,12 @@ jobs:
                       if (imageCandidates.length === 0) break;
                       imageCandidates.sort((a, b) => b.size - a.size);
                       const bestImage = imageCandidates[0];
-                      const ext = safeImageExt(bestImage.url);
-                      const thumbFile = `${slug}${ext}`;
+                      const optimized = await optimizeThumbnailBuffer(bestImage.buffer);
+                      const thumbFile = `${slug}${optimized.ext}`;
                       const thumbDest = `public/thumbnails/${thumbFile}`;
                       if (!fs.existsSync('public/thumbnails')) fs.mkdirSync('public/thumbnails', { recursive: true });
-                      fs.writeFileSync(thumbDest, bestImage.buffer);
+                      removeStaleThumbnails(slug, thumbFile);
+                      fs.writeFileSync(thumbDest, optimized.buffer);
                       thumbPath = `/thumbnails/${thumbFile}`;
                       break;
                     } catch (e) {

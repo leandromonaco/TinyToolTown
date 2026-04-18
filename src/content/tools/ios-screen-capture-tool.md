@@ -4,7 +4,7 @@ tagline: "Mirror your iPhone or iPad screen on your Windows PC over USB"
 author: "Pawel Bielecki"
 author_github: "BieleckiLtd"
 github_url: "https://github.com/BieleckiLtd/IosScreenCaptureTool"
-thumbnail: "/thumbnails/ios-screen-capture-tool.png"
+thumbnail: "/thumbnails/ios-screen-capture-tool.webp"
 tags: ["ios", "screen", "mirroring", "screenshot", "live-preview"]
 language: "C#"
 license: "MIT"

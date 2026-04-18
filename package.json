@@ -17,6 +17,7 @@
     "@rollup/rollup-win32-x64-msvc": "^4.57.1"
   },
   "devDependencies": {
+    "sharp": "^0.34.5",
     "vitest": "^4.1.4"
   }
 }

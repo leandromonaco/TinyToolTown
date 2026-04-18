@@ -4,7 +4,7 @@ tagline: "Team-based Accelerate capability survey for practical, engineer-friend
 author: "Pete Hunter"
 author_github: "moochin"
 github_url: "https://github.com/moochin/yakflow"
-thumbnail: "/thumbnails/yakflow.png"
+thumbnail: "/thumbnails/yakflow.webp"
 website_url: "https://moochin.github.io/yakflow/"
 tags: ["dora", "accelerate", "engineering"]
 language: "JavaScript, CSS, HTML"

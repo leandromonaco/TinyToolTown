@@ -4,7 +4,7 @@ tagline: "Generate and train a visual classifier NN"
 author: "Michael Twohey"
 author_github: "twodawg"
 github_url: "https://github.com/twodawg/DoodleAI"
-thumbnail: "/thumbnails/doodle-ai.jpg"
+thumbnail: "/thumbnails/doodle-ai.webp"
 website_url: "https://twodawg.github.io/DoodleAI/"
 tags: ["fun", "ai", "nn", "doodle", "share"]
 language: "JavaScript"

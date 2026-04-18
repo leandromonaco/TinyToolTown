@@ -4,7 +4,7 @@ tagline: "Update Docker images from Discord notifications"
 author: "Aaron Powell"
 author_github: "aaronpowell"
 github_url: "https://github.com/aaronpowell/discord-docker-updater"
-thumbnail: "/thumbnails/discord-docker-updater.png"
+thumbnail: "/thumbnails/discord-docker-updater.webp"
 tags: ["discord", "docker", "homelab"]
 language: "C#"
 license: "MIT"

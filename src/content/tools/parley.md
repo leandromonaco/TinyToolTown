@@ -4,7 +4,7 @@ tagline: "Because 'per my last email' is just the beginning"
 author: "Lady Naggaga"
 author_github: "LadyNaggaga"
 github_url: "https://github.com/LadyNaggaga/parley"
-thumbnail: "/thumbnails/parley.png"
+thumbnail: "/thumbnails/parley.webp"
 tags: ["cli", "web", "dashboard"]
 language: "JavaScript, CSS, HTML"
 license: "MIT"

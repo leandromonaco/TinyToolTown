@@ -4,7 +4,7 @@ tagline: "A screen saver that looks like the Matrix and Tetris"
 author: "Lee Holmes"
 author_github: "LeeHolmes"
 github_url: "https://github.com/LeeHolmes/matrix-tetromino"
-thumbnail: "/thumbnails/matrix-tetris-screen-saver.png"
+thumbnail: "/thumbnails/matrix-tetris-screen-saver.webp"
 website_url: "https://github.com/LeeHolmes/matrix-tetromino"
 tags: ["screensaver", "matrix", "tetris"]
 language: "C++"

@@ -4,7 +4,7 @@ tagline: "TeaLeaf - Schema-aware data format CLI"
 author: "Jagadish Krishnan"
 author_github: "krishjag"
 github_url: "https://github.com/krishjag/tealeaf"
-thumbnail: "/thumbnails/tealeaf.png"
+thumbnail: "/thumbnails/tealeaf.webp"
 website_url: "https://krishjag.github.io/tealeaf/"
 tags: ["serialization", "json", "binary", "data-format", "tea-leaf"]
 language: "Rust, C#"

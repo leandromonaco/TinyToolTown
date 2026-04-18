@@ -4,7 +4,7 @@ tagline: "CLI for submitting tools to Tiny Tool Town."
 author: "James Montemagno"
 author_github: "jamesmontemagno"
 github_url: "https://github.com/jamesmontemagno/TinyToolSubmitter"
-thumbnail: "/thumbnails/tinytoolsubmitter.png"
+thumbnail: "/thumbnails/tinytoolsubmitter.webp"
 tags: ["cli", "dotnet", "automation", "github", "submission"]
 language: "C#"
 license: "MIT"

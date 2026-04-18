@@ -4,7 +4,7 @@ tagline: "Squeeze your videos into optimal bitrates"
 author: "Andrea Griffiths"
 author_github: "andreargiffiths11"
 github_url: "https://github.com/AndreaGriffiths11/squeeze"
-thumbnail: "/thumbnails/squeeze.png"
+thumbnail: "/thumbnails/squeeze.webp"
 website_url: "https://andreagriffiths11.github.io/squeeze/"
 tags: ["github-pages", "browser", "ffmpeg", "mp4", "webm"]
 language: "JavaScript"

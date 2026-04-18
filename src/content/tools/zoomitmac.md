@@ -4,7 +4,7 @@ tagline: "A ZoomIt-like tool for MacOS: great for demos and screen captures."
 author: "Colin Dembovsky"
 author_github: "colindembovsky"
 github_url: "https://github.com/colindembovsky/zoomitmac"
-thumbnail: "/thumbnails/zoomitmac.gif"
+thumbnail: "/thumbnails/zoomitmac.webp"
 website_url: "https://colinsalmcorner.com/zoomitmac/"
 tags: ["zoomit", "zoom", "util"]
 language: "Swift"

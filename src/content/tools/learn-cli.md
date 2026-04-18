@@ -4,7 +4,7 @@ tagline: "A cross-platform command-line learning app that integrates with Micros
 author: "Pieter de Bruin"
 author_github: "pdebruin"
 github_url: "https://github.com/pdebruin/learncli"
-thumbnail: "/thumbnails/learn-cli.png"
+thumbnail: "/thumbnails/learn-cli.webp"
 website_url: "https://www.npmjs.com/package/@pjmdebruin/learncli"
 tags: ["microsoft", "learn", "cli", "mcp"]
 language: "typescript"

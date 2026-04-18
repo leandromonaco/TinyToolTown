@@ -4,7 +4,7 @@ tagline: "AndyTV is a lightweight, open-source IPTV player for Windows."
 author: "Andrew Herrick"
 author_github: "aherrick"
 github_url: "https://github.com/aherrick/AndyTV"
-thumbnail: "/thumbnails/andytv.png"
+thumbnail: "/thumbnails/andytv.webp"
 website_url: "https://zealous-cliff-09881570f.3.azurestaticapps.net/"
 tags: ["iptv", "streaming", "windows"]
 language: "C#"

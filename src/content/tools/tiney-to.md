@@ -4,7 +4,7 @@ tagline: "Free URL Shortner with a timebound expiry of shortened links"
 author: "Sumant"
 author_github: "sumantmodak"
 github_url: "https://github.com/sumantmodak/tiney.to"
-thumbnail: "/thumbnails/tiney-to.png"
+thumbnail: "/thumbnails/tiney-to.webp"
 website_url: "https://www.tiney.to/"
 tags: ["url shortner"]
 language: "C#, Typescript"

@@ -4,7 +4,7 @@ tagline: "Give your inside jokes the gravitas they deserve."
 author: "Shrayas"
 author_github: "shrayasr"
 github_url: "https://github.com/shrayasr/Defn"
-thumbnail: "/thumbnails/defn.jpg"
+thumbnail: "/thumbnails/defn.webp"
 website_url: "https://shrayas.com/tools/defn"
 tags: ["fun", "client-side"]
 language: "Javascript"

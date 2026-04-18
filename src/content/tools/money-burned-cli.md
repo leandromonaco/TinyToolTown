@@ -4,7 +4,7 @@ tagline: "Keep track of the \"money burned\" when attending the next pointless m
 author: "Thomas Roschinsky"
 author_github: "roschinsky"
 github_url: "https://github.com/Money-Burned/mb-dotnet-console"
-thumbnail: "/thumbnails/money-burned-cli.png"
+thumbnail: "/thumbnails/money-burned-cli.gif"
 tags: ["cli", "efficiency", "fun", "meetings", "resources"]
 language: "C#"
 license: "MIT"

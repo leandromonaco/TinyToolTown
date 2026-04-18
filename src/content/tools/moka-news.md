@@ -4,7 +4,7 @@ tagline: "A beautiful TUI RSS aggregator with AI-powered editorial generation."
 author: "Gianluigi Calcaterra"
 author_github: "calca"
 github_url: "https://github.com/calca/moka-news"
-thumbnail: "/thumbnails/moka-news.png"
+thumbnail: "/thumbnails/moka-news.webp"
 tags: ["rss", "tui", "ai", "news", "editorial"]
 language: "Python"
 license: "MIT"

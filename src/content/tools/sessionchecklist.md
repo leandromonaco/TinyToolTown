@@ -4,7 +4,7 @@ tagline: "A tiny always-on-top Windows desktop widget that keeps your AI coding 
 author: "Christopher Johnson"
 author_github: "computerguycj"
 github_url: "https://github.com/computerguycj/SessionChecklist"
-thumbnail: "/thumbnails/sessionchecklist.png"
+thumbnail: "/thumbnails/sessionchecklist.webp"
 tags: ["productivity", "ai", "windows", "cli", "developer-tools"]
 language: "PowerShell"
 license: "MIT"

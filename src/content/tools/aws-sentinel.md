@@ -4,7 +4,7 @@ tagline: "AWS Sentinel is a powerful command-line security scanner for AWS resou
 author: "Rishab Kumar"
 author_github: "rishabkumar7"
 github_url: "https://github.com/rishabkumar7/aws-sentinel"
-thumbnail: "/thumbnails/aws-sentinel.png"
+thumbnail: "/thumbnails/aws-sentinel.webp"
 website_url: "https://pypi.org/project/aws-sentinel/"
 tags: ["cli", "cloud", "security", "aws"]
 language: "Python"

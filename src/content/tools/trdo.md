@@ -4,7 +4,7 @@ tagline: "Tiny internet radio player for your tray."
 author: "Joseph Finney"
 author_github: "TheJoeFin"
 github_url: "https://github.com/TheJoeFin/Trdo"
-thumbnail: "/thumbnails/trdo.png"
+thumbnail: "/thumbnails/trdo.webp"
 website_url: "https://trdo.net/"
 tags: ["windows", "radio", "system-tray", "music"]
 language: "C#"

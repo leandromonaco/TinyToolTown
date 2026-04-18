@@ -4,7 +4,7 @@ tagline: "Track the books you've read"
 author: "Paul Paginton"
 author_github: "pagyP"
 github_url: "https://github.com/pagyP/booknook"
-thumbnail: "/thumbnails/booknook.png"
+thumbnail: "/thumbnails/booknook.webp"
 tags: ["books", "reading", "web"]
 language: "Python"
 license: "MIT"

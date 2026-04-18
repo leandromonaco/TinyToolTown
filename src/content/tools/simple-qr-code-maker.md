@@ -4,7 +4,7 @@ tagline: "The best QR Code maker and reader on Windows."
 author: "Joseph Finney"
 author_github: "TheJoeFin"
 github_url: "https://github.com/TheJoeFin/Simple-QR-Code-Maker"
-thumbnail: "/thumbnails/simple-qr-code-maker.png"
+thumbnail: "/thumbnails/simple-qr-code-maker.webp"
 tags: ["windows", "winui3", "qr-code", "qr-code-reader", "qr-code-generator"]
 language: "C#"
 license: "MIT"

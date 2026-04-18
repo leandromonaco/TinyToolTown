@@ -4,7 +4,7 @@ tagline: "Provides a CLI-interface to Linkding bookmark manager's REST API."
 author: "Rod Stewart"
 author_github: "rodmhgl"
 github_url: "https://github.com/rodmhgl/linkdingctl"
-thumbnail: "/thumbnails/linkdingctl.png"
+thumbnail: "/thumbnails/linkdingctl.webp"
 tags: ["cli"]
 language: "Go"
 license: "MIT"

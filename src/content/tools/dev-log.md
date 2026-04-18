@@ -4,7 +4,7 @@ tagline: "A CLI tool to help write and manage weekly developer notes and status.
 author: "Pedro Silva"
 author_github: "DarthPedro"
 github_url: "https://github.com/d20Tek/cli-tools/tree/main/src/D20Tek.Tools.DevLog"
-thumbnail: "/thumbnails/dev-log.png"
+thumbnail: "/thumbnails/dev-log.webp"
 website_url: "https://d20tek.com/projects/dev-log"
 tags: ["weekly", "status", "dev log", "developer log", "dev status"]
 language: "C#"

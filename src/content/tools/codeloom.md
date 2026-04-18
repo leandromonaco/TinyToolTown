@@ -4,7 +4,7 @@ tagline: "Weave source files and prompts together for local LLM consumption"
 author: "Matt Vevang"
 author_github: "MattVevang"
 github_url: "https://github.com/MattVevang/CodeLoom"
-thumbnail: "/thumbnails/codeloom.png"
+thumbnail: "/thumbnails/codeloom.webp"
 website_url: "https://mattvevang.github.io/CodeLoom/"
 tags: ["prompt-assembly", "local-llm", "privacy-first", "developer-tools", "browser-based"]
 language: "TypeScript"

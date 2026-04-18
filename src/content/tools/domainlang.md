@@ -4,7 +4,7 @@ tagline: "A tiny VS Code tool for writing and validating software architecture m
 author: "Lars Baunwall"
 author_github: "larsbaunwall"
 github_url: "https://github.com/DomainLang/DomainLang"
-thumbnail: "/thumbnails/domainlang.png"
+thumbnail: "/thumbnails/domainlang.webp"
 website_url: "https://domainlang.net"
 tags: ["vscode", "cli", "architecture", "developer-tools", "autocomplete"]
 language: "TypeScript"

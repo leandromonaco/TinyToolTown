@@ -4,7 +4,7 @@ tagline: "Learn with Nico Mobile Audio Player - Microsoft Certifications"
 author: "Nico Popescu"
 author_github: "enigmanet"
 github_url: "https://github.com/enigmanet/learnwithnico"
-thumbnail: "/thumbnails/learn-with-nico.png"
+thumbnail: "/thumbnails/learn-with-nico.webp"
 website_url: "https://learnwithnico.com"
 tags: ["ai900", "ai 900", "ai", "900", "microsoft certification"]
 language: "HTML, CSS"

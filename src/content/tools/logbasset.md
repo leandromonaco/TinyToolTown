@@ -4,7 +4,7 @@ tagline: "Command-line tool for accessing Scalyr logs written in Go"
 author: "Andrea Grandi"
 author_github: "andreagrandi"
 github_url: "https://github.com/andreagrandi/logbasset"
-thumbnail: "/thumbnails/logbasset.png"
+thumbnail: "/thumbnails/logbasset.webp"
 tags: ["cli", "logs", "scalyr", "golang", "inspect"]
 language: "Go"
 license: "Apache-2.0"

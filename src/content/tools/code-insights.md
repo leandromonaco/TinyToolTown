@@ -4,7 +4,7 @@ tagline: "Turn your AI coding sessions into knowledge"
 author: "Srikanth Rao M"
 author_github: "melagiri"
 github_url: "https://github.com/melagiri/code-insights"
-thumbnail: "/thumbnails/code-insights.png"
+thumbnail: "/thumbnails/code-insights.webp"
 website_url: "https://code-insights.app"
 tags: ["cli", "ai", "llm", "claude-code", "codex"]
 language: "Typescript"

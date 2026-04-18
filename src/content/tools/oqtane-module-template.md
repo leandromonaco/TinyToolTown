@@ -4,7 +4,7 @@ tagline: "Scaffold Oqtane modules using the CLI instead of the Admin GUI"
 author: "Mark Davis"
 author_github: "markdav-is"
 github_url: "https://github.com/markdav-is/Oqtane.Module"
-thumbnail: "/thumbnails/oqtane-module-template.png"
+thumbnail: "/thumbnails/oqtane-module-template.webp"
 website_url: "https://www.marks.wiki/p/a-dotnet-template-for-oqtane-modules"
 tags: ["oqtane", "blazor", "dotnet"]
 language: "c#"

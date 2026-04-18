@@ -4,7 +4,7 @@ tagline: "For those of you who don't love Windows"
 author: "Marlo Bell"
 author_github: "marlobello"
 github_url: "https://github.com/marlobello/odsc"
-thumbnail: "/thumbnails/onedrive-sync-client-for-linux.png"
+thumbnail: "/thumbnails/onedrive-sync-client-for-linux.webp"
 tags: ["linux", "productivity"]
 language: "Python"
 license: "MIT"

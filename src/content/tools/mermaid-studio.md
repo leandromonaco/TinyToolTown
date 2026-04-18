@@ -4,7 +4,7 @@ tagline: "A compact, ad-free Mermaid diagram editor with live preview and polish
 author: "James Montemagno"
 author_github: "jamesmontemagno"
 github_url: "https://github.com/jamesmontemagno/my-mermaid-visualizer"
-thumbnail: "/thumbnails/mermaid-studio.jpg"
+thumbnail: "/thumbnails/mermaid-studio.webp"
 website_url: "https://mermaidstudio.app/"
 tags: ["diagram", "mermaid", "visualization", "editor", "client-side"]
 language: "JavaScript"

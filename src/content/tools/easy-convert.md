@@ -4,7 +4,7 @@ tagline: "Easily convert between different units of measurement. Enter conversio
 author: "Jon Corey"
 author_github: "Jon-Corey"
 github_url: "https://github.com/Jon-Corey/EasyConvert"
-thumbnail: "/thumbnails/easy-convert.png"
+thumbnail: "/thumbnails/easy-convert.webp"
 website_url: "https://easyconvert.joncorey.dev/"
 tags: ["convert", "unit", "pwa"]
 language: "JavaScript"

@@ -4,7 +4,7 @@ tagline: "Tyke app for Windows - minimalist scratchpad"
 author: "Nikhil Mahajan"
 author_github: "nikhilvmahajan"
 github_url: "https://github.com/nikhilvmahajan/Wyke"
-thumbnail: "/thumbnails/wyke.png"
+thumbnail: "/thumbnails/wyke.webp"
 tags: ["windows", "wpf", "tyke", "notepad", "notes"]
 language: "C#"
 license: "MIT"

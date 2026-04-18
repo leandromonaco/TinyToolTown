@@ -4,7 +4,7 @@ tagline: "An interactive Streamlit app that visualises token-level log probabili
 author: "Tobias Allweier"
 author_github: "blubern"
 github_url: "https://github.com/Blubern/llm-logprob-demo"
-thumbnail: "/thumbnails/llm-logprob-demo.png"
+thumbnail: "/thumbnails/llm-logprob-demo.webp"
 tags: ["demo", "education", "tokenization", "logprobs", "ai"]
 language: "python"
 license: "MIT"

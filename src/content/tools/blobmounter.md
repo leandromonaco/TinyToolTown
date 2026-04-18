@@ -4,7 +4,7 @@ tagline: "Mount Azure Blob Storage containers as Windows drive letters"
 author: "Andy Bochmann"
 author_github: "andybochmann"
 github_url: "https://github.com/andybochmann/blob-mounter"
-thumbnail: "/thumbnails/blobmounter.png"
+thumbnail: "/thumbnails/blobmounter.webp"
 tags: ["windows", "azure"]
 language: "C#"
 license: "MIT"

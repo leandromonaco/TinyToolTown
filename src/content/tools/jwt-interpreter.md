@@ -4,7 +4,7 @@ tagline: "Paste a JWT token, instantly see header, payload, claims, and expiry â
 author: "Andre Rocha"
 author_github: "AeonAndreRocha"
 github_url: "https://github.com/Aeon-Group/jwt-interpreter"
-thumbnail: "/thumbnails/jwt-interpreter.png"
+thumbnail: "/thumbnails/jwt-interpreter.webp"
 tags: ["jwt", "security", "developer-tools"]
 language: "JavaScript"
 license: "MIT"

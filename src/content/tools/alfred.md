@@ -4,7 +4,7 @@ tagline: "Alfred Pennyworth, the consummate English butler — loyal, unflappabl
 author: "Michał Czerwiński"
 author_github: "michalczerwinski"
 github_url: "https://github.com/michalczerwinski/alfred"
-thumbnail: "/thumbnails/alfred.png"
+thumbnail: "/thumbnails/alfred.webp"
 website_url: "https://github.com/michalczerwinski/alfred"
 tags: ["agent", "semantic kernel", "microsoft agent framework"]
 language: "csharp"

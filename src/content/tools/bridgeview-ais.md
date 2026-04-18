@@ -4,7 +4,7 @@ tagline: "A real-time ship tracking application that displays vessel traffic nea
 author: "Tom McKnight"
 author_github: "tmcknight"
 github_url: "https://github.com/tmcknight/bridgeview-ais"
-thumbnail: "/thumbnails/bridgeview-ais.png"
+thumbnail: "/thumbnails/bridgeview-ais.webp"
 tags: ["ships", "vessels", "ais", "sarnia", "port huron"]
 language: "TypeScript"
 license: "MIT"

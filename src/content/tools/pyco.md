@@ -4,7 +4,7 @@ tagline: "Your fully featured EDC - Every Day Calculator"
 author: "Lee Holmes"
 author_github: "LeeHolmes"
 github_url: "https://github.com/LeeHolmes/pycoterm"
-thumbnail: "/thumbnails/pyco.png"
+thumbnail: "/thumbnails/pyco.webp"
 website_url: "https://www.leeholmes.com/projects/pyco"
 tags: ["calculator"]
 language: "Python, HTML, Javascript"

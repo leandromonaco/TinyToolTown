@@ -4,7 +4,7 @@ tagline: "A command line tool to delete multiple Azure resources with a single c
 author: "Ira Rainey"
 author_github: "irarainey"
 github_url: "https://github.com/irarainey/beeching"
-thumbnail: "/thumbnails/beeching.png"
+thumbnail: "/thumbnails/beeching.webp"
 tags: ["cli", "tools", "azure"]
 language: "C#"
 license: "MIT"

@@ -4,7 +4,7 @@ tagline: "Browser for Azure Blob Storage"
 author: "Josh Hendricks"
 author_github: "joshooaj"
 github_url: "https://github.com/joshooaj/blobexplorer"
-thumbnail: "/thumbnails/blob-explorer.png"
+thumbnail: "/thumbnails/blob-explorer.webp"
 website_url: "https://blobexplorer.joshooaj.com/"
 tags: ["azure", "blob", "selfhosted", "file", "browser"]
 language: "JavaScript"

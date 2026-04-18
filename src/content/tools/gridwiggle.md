@@ -4,7 +4,7 @@ tagline: "Create a great-looking photo collage in seconds"
 author: "KC Lemson"
 author_github: "kclemson"
 github_url: "https://github.com/kclemson/gridwiggle"
-thumbnail: "/thumbnails/gridwiggle.png"
+thumbnail: "/thumbnails/gridwiggle.webp"
 website_url: "https://gridwiggle.com"
 tags: ["photo", "collage", "grid"]
 language: "React, Typescript"

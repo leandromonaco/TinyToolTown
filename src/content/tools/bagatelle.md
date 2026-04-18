@@ -4,7 +4,7 @@ tagline: "Pinball-style game (awesome)."
 author: "Michal Škoula"
 author_github: "MichalSkoula"
 github_url: "https://github.com/MichalSkoula/bagatelle"
-thumbnail: "/thumbnails/bagatelle.png"
+thumbnail: "/thumbnails/bagatelle.webp"
 website_url: "https://skoula.cz/bagatelle"
 tags: ["game", "windows", "android", "linux"]
 language: "C#"

@@ -4,7 +4,7 @@ tagline: "Vanilla javascript anti-steganography solution (character filtering) f
 author: "Vítězslav Šimon"
 author_github: "VitSimon"
 github_url: "https://github.com/VitSimon/AntiStegText"
-thumbnail: "/thumbnails/antistegtext.png"
+thumbnail: "/thumbnails/antistegtext.webp"
 tags: ["web", "tiny", "tool", "url", "function"]
 language: "JavaScript"
 license: "MIT"

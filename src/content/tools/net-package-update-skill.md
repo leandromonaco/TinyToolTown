@@ -4,7 +4,7 @@ tagline: "Creates a Skill for Agentic dev tools for upgrading .NET Packages from
 author: "Zack Way"
 author_github: "seiggy"
 github_url: "https://github.com/seiggy/package-update-skill"
-thumbnail: "/thumbnails/net-package-update-skill.png"
+thumbnail: "/thumbnails/net-package-update-skill.webp"
 tags: ["dotnet", "copilot", "skills"]
 language: "C#"
 license: "MIT"

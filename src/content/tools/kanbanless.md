@@ -4,7 +4,7 @@ tagline: "The Kanban Board That Lives in Your File System"
 author: "Mark Davis"
 author_github: "markdav-is"
 github_url: "https://github.com/markdav-is/KanBanLess"
-thumbnail: "/thumbnails/kanbanless.png"
+thumbnail: "/thumbnails/kanbanless.webp"
 website_url: "https://www.marks.wiki/p/kanbanless-the-kanban-board-that"
 tags: ["ai skill", "kanban", "project management", "cli", "developer-tools"]
 language: "c#"

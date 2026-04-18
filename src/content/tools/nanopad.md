@@ -4,7 +4,7 @@ tagline: "A simple, portable Win32 text editor in the spirit of classic Windows 
 author: "Brian Peek"
 author_github: "BrianPeek"
 github_url: "https://github.com/BrianPeek/Nanopad"
-thumbnail: "/thumbnails/nanopad.png"
+thumbnail: "/thumbnails/nanopad.webp"
 tags: ["notepad", "text-editor", "portable", "cpp", "win32"]
 language: "C++"
 license: "MIT"

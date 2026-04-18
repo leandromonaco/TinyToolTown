@@ -4,7 +4,7 @@ tagline: "A browser-based 3D toybox world for kids ages 3–6 where every tap on
 author: "Jamie Gunn"
 author_github: "jamiegunn"
 github_url: "https://github.com/jamiegunn/tinytoyboxgames"
-thumbnail: "/thumbnails/tinytoyboxgames.png"
+thumbnail: "/thumbnails/tinytoyboxgames.webp"
 website_url: "https://www.tinytoyboxgames.com/"
 tags: ["threejs", "react"]
 language: "TypeScripe"

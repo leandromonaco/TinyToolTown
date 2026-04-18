@@ -4,7 +4,7 @@ tagline: "The missing GitHub contributor growth chart — like star-history.com 
 author: "Ashley Wolf"
 author_github: "ashleywolf"
 github_url: "https://github.com/ashleywolf/contributor-history"
-thumbnail: "/thumbnails/contributor-history.png"
+thumbnail: "/thumbnails/contributor-history.webp"
 tags: ["fun", "charts"]
 date_added: "2026-02-14"
 featured: false

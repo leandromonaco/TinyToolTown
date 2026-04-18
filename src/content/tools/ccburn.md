@@ -4,7 +4,7 @@ tagline: "Watch your tokens burn — TUI for Claude Code usage limits with burn-
 author: "Juan José Fuchs"
 author_github: "JuanjoFuchs"
 github_url: "https://github.com/JuanjoFuchs/ccburn"
-thumbnail: "/thumbnails/ccburn.png"
+thumbnail: "/thumbnails/ccburn.webp"
 tags: ["cli", "tui", "python", "terminal", "developer-tools", "ai"]
 language: "Python"
 license: "MIT"

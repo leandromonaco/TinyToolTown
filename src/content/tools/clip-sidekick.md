@@ -4,7 +4,7 @@ tagline: "Clip Sidekick is a lightweight Windows clipboard manager powered by Gi
 author: "Alex Vieira"
 author_github: "vieiraae"
 github_url: "https://github.com/vieiraae/clip-sidekick"
-thumbnail: "/thumbnails/clip-sidekick.png"
+thumbnail: "/thumbnails/clip-sidekick.webp"
 tags: ["windows", "clipboard", "github copilot", "proofread", "mcp"]
 language: "C#"
 license: "MIT"

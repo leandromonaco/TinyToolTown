@@ -4,7 +4,7 @@ tagline: "Situational awareness for confused bots"
 author: "Dave Tashner"
 author_github: "davetashner"
 github_url: "https://github.com/davetashner/stringer"
-thumbnail: "/thumbnails/stringer.png"
+thumbnail: "/thumbnails/stringer.webp"
 tags: ["cli", "agentic", "beads", "context"]
 language: "Golang"
 license: "MIT"

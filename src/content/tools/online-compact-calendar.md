@@ -4,7 +4,7 @@ tagline: "A year at a glance calendar that helps you make sure your planned vaca
 author: "Brian \"bex\" Exelbierd"
 author_github: "bexelbie"
 github_url: "https://github.com/bexelbie/online-compact-calendar"
-thumbnail: "/thumbnails/online-compact-calendar.png"
+thumbnail: "/thumbnails/online-compact-calendar.webp"
 website_url: "https://cc.bexelbie.com"
 tags: ["productivity", "calendar"]
 language: "JavaScript"

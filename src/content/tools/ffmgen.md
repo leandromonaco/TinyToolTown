@@ -4,7 +4,7 @@ tagline: "prompt -> ffmpeg command"
 author: "Nick Radford"
 author_github: "nickradford"
 github_url: "https://github.com/nickradford/ffmgen"
-thumbnail: "/thumbnails/ffmgen.png"
+thumbnail: "/thumbnails/ffmgen.webp"
 website_url: "https://ffmgen.nickradford.dev"
 tags: ["ai", "ffmpeg"]
 language: "Typescript"

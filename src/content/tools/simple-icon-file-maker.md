@@ -4,7 +4,7 @@ tagline: "Generate .ico files from images and SVGs, open .ico files, and some ex
 author: "Joe Finney"
 author_github: "TheJoeFin"
 github_url: "https://github.com/TheJoeFin/Simple-Icon-File-Maker"
-thumbnail: "/thumbnails/simple-icon-file-maker.png"
+thumbnail: "/thumbnails/simple-icon-file-maker.webp"
 tags: ["windows", "winui", ".ico", "icon", "developer tool"]
 license: "MIT"
 date_added: "2026-04-08"

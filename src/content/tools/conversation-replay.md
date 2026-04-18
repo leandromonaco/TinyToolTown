@@ -4,7 +4,7 @@ tagline: "Create annotated replays of text conversations to embed in webpages."
 author: "Lenny Zeltser"
 author_github: "lennyzeltser"
 github_url: "https://github.com/lennyzeltser/conversation-replay"
-thumbnail: "/thumbnails/conversation-replay.png"
+thumbnail: "/thumbnails/conversation-replay.webp"
 website_url: "https://zeltser.com/interactive-replays"
 tags: ["communications", "demos", "websites"]
 language: "TypeScript"

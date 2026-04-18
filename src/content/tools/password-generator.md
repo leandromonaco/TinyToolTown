@@ -4,7 +4,7 @@ tagline: "A simple no-nonsense password or passphrase generator for ease of use"
 author: "Thomas Due"
 author_github: "tdue21"
 github_url: "https://github.com/Tdue21/password-generator"
-thumbnail: "/thumbnails/password-generator.png"
+thumbnail: "/thumbnails/password-generator.webp"
 website_url: "https://pwd.due-net.dk"
 tags: ["web app", "mobile friendly", "reactive", "node.js"]
 language: "TypeScript"

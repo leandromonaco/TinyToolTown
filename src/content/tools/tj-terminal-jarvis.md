@@ -4,7 +4,7 @@ tagline: "A neat CLI tool to explore AI CLI tools (leverage in GH Codespaces)"
 author: "Brandon Calderon-Morales"
 author_github: "BA-CalderonMorales"
 github_url: "https://github.com/BA-CalderonMorales/terminal-jarvis"
-thumbnail: "/thumbnails/tj-terminal-jarvis.gif"
+thumbnail: "/thumbnails/tj-terminal-jarvis.webp"
 tags: ["cli", "npm", "crates", "homebrew", "productivity"]
 language: "Rust, Python, JavaScript, Bash"
 license: "MIT"

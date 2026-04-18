@@ -4,7 +4,7 @@ tagline: "LinkedIn avatar generator"
 author: "Michal Bryxí"
 author_github: "MichalBryxi"
 github_url: "https://github.com/MichalBryxi/open-to-dot-dot-dot"
-thumbnail: "/thumbnails/opento.gif"
+thumbnail: "/thumbnails/opento.webp"
 website_url: "https://open-to-dot-dot-dot.pudr.com"
 tags: ["linkedin", "fun", "avatar"]
 language: "JavaScript"

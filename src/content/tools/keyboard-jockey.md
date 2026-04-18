@@ -4,7 +4,7 @@ tagline: "Free yourself from the oppression of the mouse!"
 author: "Lee Holmes"
 author_github: "LeeHolmes"
 github_url: "https://github.com/LeeHolmes/keyboard-jockey"
-thumbnail: "/thumbnails/keyboard-jockey.png"
+thumbnail: "/thumbnails/keyboard-jockey.webp"
 tags: ["keyboard", "mouse", "utility"]
 language: "C++"
 theme: "None"

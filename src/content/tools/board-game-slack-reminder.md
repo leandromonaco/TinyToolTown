@@ -4,7 +4,7 @@ tagline: "A Slack bot that sends reminders for board game sessions and helps coo
 author: "Richard Fu"
 author_github: "furic"
 github_url: "https://github.com/furic/board-game-slack-reminder/tree/main"
-thumbnail: "/thumbnails/board-game-slack-reminder.png"
+thumbnail: "/thumbnails/board-game-slack-reminder.webp"
 website_url: "https://www.richardfu.net/building-a-slack-bot-for-board-game-nights-with-typescript-and-github-actions/"
 tags: ["reminder", "workflow", "slack-bot", "board-games"]
 language: "TypeScript"

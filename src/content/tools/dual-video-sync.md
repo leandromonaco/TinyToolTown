@@ -4,7 +4,7 @@ tagline: "A Chrome extension that syncs two browser-based video players"
 author: "Matt Acton"
 author_github: "mattacton"
 github_url: "https://github.com/mattacton/dual-video-sync"
-thumbnail: "/thumbnails/dual-video-sync.png"
+thumbnail: "/thumbnails/dual-video-sync.webp"
 tags: ["chrome", "extension", "video"]
 language: "JavaScript"
 license: "MIT"

@@ -4,7 +4,7 @@ tagline: "Windows companion suite for OpenClaw"
 author: "Scott Hanselman"
 author_github: "shanselman"
 github_url: "https://github.com/shanselman/openclaw-windows-hub"
-thumbnail: "/thumbnails/openclaw-windows-hub.png"
+thumbnail: "/thumbnails/openclaw-windows-hub.webp"
 tags: ["windows", "system-tray", "powertoys", "gaming"]
 language: "C#"
 license: "MIT"

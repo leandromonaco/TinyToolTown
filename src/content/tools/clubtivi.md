@@ -4,7 +4,7 @@ tagline: "Multi-source IPTV player that auto-switches streams when buffering is 
 author: "Andy"
 author_github: "clubanderson"
 github_url: "https://github.com/clubanderson/clubTivi"
-thumbnail: "/thumbnails/clubtivi.png"
+thumbnail: "/thumbnails/clubtivi.webp"
 tags: ["iptv", "streaming"]
 language: "Dart"
 license: "Apache-2.0"

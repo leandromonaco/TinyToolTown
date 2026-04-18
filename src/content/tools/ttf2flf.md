@@ -4,7 +4,7 @@ tagline: "Vibe-coded PowerShell utility module for converting TrueType fonts int
 author: "Jake Hildreth"
 author_github: "jakehildreth"
 github_url: "https://github.com/jakehildreth/ttf2flf"
-thumbnail: "/thumbnails/ttf2flf.png"
+thumbnail: "/thumbnails/ttf2flf.webp"
 tags: ["font", "figlet", "truetype", "fun"]
 language: "PowerShell"
 license: "MIT"

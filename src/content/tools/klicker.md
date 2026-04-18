@@ -4,7 +4,7 @@ tagline: "A lightweight macOS menu bar app that plays customizable sounds on eve
 author: "Robson Ferreira"
 author_github: "robsonferr"
 github_url: "https://github.com/robsonferr/klicker"
-thumbnail: "/thumbnails/klicker.png"
+thumbnail: "/thumbnails/klicker.webp"
 tags: ["fun", "sound", "tiny"]
 language: "Swift"
 license: "MIT"

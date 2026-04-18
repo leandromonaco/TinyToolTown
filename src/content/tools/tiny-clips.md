@@ -5,7 +5,7 @@ author: "James Montemagno"
 author_github: "jamesmontemagno"
 github_url: "https://github.com/jamesmontemagno/tiny-clips-mac"
 website_url: "https://tinyclips.app"
-thumbnail: "/thumbnails/tiny-clips.png"
+thumbnail: "/thumbnails/tiny-clips.webp"
 tags: ["video", "macos", "screenshot"]
 language: "Swift"
 license: "MIT"

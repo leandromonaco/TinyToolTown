@@ -4,7 +4,7 @@ tagline: "Free distributed locking & leader election as a service. One binary, n
 author: "David Aronchick"
 author_github: "aronchick"
 github_url: "https://github.com/octostore/octostore.io"
-thumbnail: "/thumbnails/octostore.png"
+thumbnail: "/thumbnails/octostore.webp"
 website_url: "https://octostore.io"
 tags: ["cli", "distributed-systems", "locking", "api"]
 language: "Rust"

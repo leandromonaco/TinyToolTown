@@ -4,7 +4,7 @@ tagline: "Coloring through Stress"
 author: "LadyNaggaga"
 author_github: "LadyNaggaga"
 github_url: "https://github.com/LadyNaggaga/Stillness"
-thumbnail: "/thumbnails/stillness.png"
+thumbnail: "/thumbnails/stillness.webp"
 website_url: "https://ladynaggaga.github.io/Stillness/"
 tags: ["calm", "color", "click", "web"]
 language: "HTML, JS"

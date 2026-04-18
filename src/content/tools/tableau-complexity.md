@@ -4,7 +4,7 @@ tagline: "A Python utility for parsing Tableau workbooks (.twb / .twbx) to extra
 author: "John Thompson"
 author_github: "JohnMThompson"
 github_url: "https://github.com/JohnMThompson/tableau-complexity"
-thumbnail: "/thumbnails/tableau-complexity.png"
+thumbnail: "/thumbnails/tableau-complexity.webp"
 tags: ["cli", "tableau", "data visualization"]
 language: "Python"
 license: "MIT"

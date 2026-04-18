@@ -4,7 +4,7 @@ tagline: "Draw random numbers from a range of numbers"
 author: "Winnie Lin"
 author_github: "onecentlin"
 github_url: "https://github.com/onecentlin/lucky-draw"
-thumbnail: "/thumbnails/lucky-draw.png"
+thumbnail: "/thumbnails/lucky-draw.webp"
 website_url: "https://onecentlin.github.io/lucky-draw/"
 tags: ["web", "random"]
 language: "JavaScript"

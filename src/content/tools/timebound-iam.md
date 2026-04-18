@@ -4,7 +4,7 @@ tagline: "An MCP Server that gives Claude Code timebound scoped credentials for 
 author: "Rahul Singh"
 author_github: "arrsingh"
 github_url: "https://github.com/builder-magic/timebound-iam"
-thumbnail: "/thumbnails/timebound-iam.png"
+thumbnail: "/thumbnails/timebound-iam.webp"
 website_url: "https://timebound-iam.com"
 tags: ["mcp", "aws", "iam", "aws-sts", "claude-code"]
 language: "Go"

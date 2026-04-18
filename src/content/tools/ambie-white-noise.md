@@ -4,7 +4,7 @@ tagline: "Plays nature sounds to help you focus or relax"
 author: "Daniel Paulino"
 author_github: "dpaulino"
 github_url: "https://github.com/jenius-apps/ambie"
-thumbnail: "/thumbnails/ambie-white-noise.png"
+thumbnail: "/thumbnails/ambie-white-noise.webp"
 website_url: "https://ambieapp.com/"
 tags: ["windows", "whitenoise", "focus"]
 language: "C#, XAML"

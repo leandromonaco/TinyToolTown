@@ -4,7 +4,7 @@ tagline: "A DevTools extension that allows developers to override all navigator.
 author: "Rob Quincey"
 author_github: "RobQuincey"
 github_url: "https://github.com/RobQuincey/devtools-location-override"
-thumbnail: "/thumbnails/devtools-location-override.png"
+thumbnail: "/thumbnails/devtools-location-override.webp"
 tags: ["developer-tools", "productivity", "extension", "web", "browser-extension"]
 language: "JavaScript"
 license: "MIT"

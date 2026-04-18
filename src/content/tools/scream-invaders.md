@@ -4,7 +4,7 @@ tagline: "Voice-controlled Space Invaders -- scream to fire, move with your face
 author: "Ashley Wolf"
 author_github: "ashleywolf"
 github_url: "https://github.com/ashleywolf/scream-invaders"
-thumbnail: "/thumbnails/scream-invaders.png"
+thumbnail: "/thumbnails/scream-invaders.webp"
 website_url: "https://ashleywolf.github.io/scream-invaders/"
 tags: ["game", "web", "fun", "tiny", "voice"]
 language: "JavaScript"

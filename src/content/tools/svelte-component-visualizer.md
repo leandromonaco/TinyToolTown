@@ -4,7 +4,7 @@ tagline: "Visualize Svelte component dependencies in VSCode with an interactive 
 author: "James McGrath"
 author_github: "jamcgrath"
 github_url: "https://github.com/jamcgrath/svelte-component-visualizer"
-thumbnail: "/thumbnails/svelte-component-visualizer.gif"
+thumbnail: "/thumbnails/svelte-component-visualizer.webp"
 website_url: "https://marketplace.visualstudio.com/items?itemName=jamcgrath.svelte-component-visualizer"
 tags: ["vscode", "svelte", "visualization", "dependency-graph", "developer-tools"]
 language: "JavaScript"

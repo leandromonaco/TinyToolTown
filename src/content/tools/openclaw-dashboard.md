@@ -4,7 +4,7 @@ tagline: "A zero-build FastAPI dashboard starter for OpenClaw agents and self-ho
 author: "CK (Chandima Kulathilake)"
 author_github: "cknzraposo"
 github_url: "https://github.com/cknzraposo/openclaw-dashboard"
-thumbnail: "/thumbnails/openclaw-dashboard.png"
+thumbnail: "/thumbnails/openclaw-dashboard.webp"
 website_url: "https://percy.raposo.ai"
 tags: ["dashboard", "home-lab", "ai-agent", "smart-home", "fastapi"]
 language: "Python"

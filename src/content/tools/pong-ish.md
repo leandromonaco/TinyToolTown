@@ -4,7 +4,7 @@ tagline: "Pong’ish is a fast, browser-based arcade paddle game where dynamic p
 author: "Jamie Gunn"
 author_github: "jamiegunn"
 github_url: "https://github.com/jamiegunn/pongish"
-thumbnail: "/thumbnails/pong-ish.png"
+thumbnail: "/thumbnails/pong-ish.webp"
 tags: ["web", "game", "canvas", "react"]
 language: "TypeScript"
 license: "MIT"

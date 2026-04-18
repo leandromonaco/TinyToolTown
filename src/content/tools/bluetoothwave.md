@@ -4,7 +4,7 @@ tagline: "Bluetooth audio playback (A2DP Sink) connection manager for Windows"
 author: "LynXMaSTeR"
 author_github: "LynXMaSTeR"
 github_url: "https://github.com/LynXMaSTeR/BluetoothWave"
-thumbnail: "/thumbnails/bluetoothwave.png"
+thumbnail: "/thumbnails/bluetoothwave.webp"
 tags: ["bluetooth", "audio", "windows", "system-tray"]
 language: "C++"
 license: "MIT"

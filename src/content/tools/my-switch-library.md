@@ -4,7 +4,7 @@ tagline: "Tiny PWA to track your Nintendo Switch & Switch 2 game collection (off
 author: "James Montemagno"
 author_github: "jamesmontemagno"
 github_url: "https://github.com/jamesmontemagno/switch-library"
-thumbnail: "/thumbnails/my-switch-library.png"
+thumbnail: "/thumbnails/my-switch-library.webp"
 website_url: "https://myswitchlibrary.com/"
 tags: ["pwa", "nintendo", "switch", "game", "collection"]
 language: "TypeScript"

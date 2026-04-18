@@ -4,7 +4,7 @@ tagline: "Peek at Your Screen from Anywhere!"
 author: "Joachim Leonfellner"
 author_github: "nor0x"
 github_url: "https://github.com/GuckGuckHQ/GuckGuck_Windows"
-thumbnail: "/thumbnails/guckguck.png"
+thumbnail: "/thumbnails/guckguck.webp"
 website_url: "https://johnnys.page/guckguck"
 tags: ["screenshot", "app", "windows"]
 language: "C#"

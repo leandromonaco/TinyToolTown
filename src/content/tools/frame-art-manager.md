@@ -4,7 +4,7 @@ tagline: "Lightweight client‑side tool for preparing and uploading images to a
 author: "Louis Yong"
 author_github: "boysbytes"
 github_url: "https://github.com/boysbytes/frame-art-manager"
-thumbnail: "/thumbnails/frame-art-manager.png"
+thumbnail: "/thumbnails/frame-art-manager.webp"
 tags: ["web", "photo"]
 language: "Python, HTML"
 date_added: "2026-03-05"

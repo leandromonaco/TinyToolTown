@@ -4,7 +4,7 @@ tagline: "A small configurable app to display the date and time."
 author: "Arpad"
 author_github: "arpadbarta"
 github_url: "https://github.com/arpadbarta/Time"
-thumbnail: "/thumbnails/date-time.png"
+thumbnail: "/thumbnails/date-time.webp"
 tags: ["windows", "time", "date", "tool", "utils"]
 language: "C#, WPF"
 license: "MIT"

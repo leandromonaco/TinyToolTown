@@ -4,7 +4,7 @@ tagline: "The classic game for small kids — smash the keyboard!"
 author: "Scott Hanselman"
 author_github: "shanselman"
 github_url: "https://github.com/shanselman/babysmash"
-thumbnail: "/thumbnails/babysmash.png"
+thumbnail: "/thumbnails/babysmash.webp"
 website_url: "https://www.babysmash.com"
 tags: ["game", "kids", "fun", "desktop"]
 language: "C#"

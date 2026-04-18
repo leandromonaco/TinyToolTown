@@ -4,7 +4,7 @@ tagline: "Paste Kubernetes pod logs and instantly see why your container is cras
 author: "Jeremy Morris"
 author_github: "MorrisLaw"
 github_url: "https://github.com/MorrisLaw/k8s-crashloop-analyzer"
-thumbnail: "/thumbnails/crashloop-analyzer.png"
+thumbnail: "/thumbnails/crashloop-analyzer.webp"
 website_url: "https://crashloop-analyzer.vercel.app/"
 tags: ["kubernetes", "developer-tools", "debugging", "infrastructure", "cloud"]
 language: "JavaScript"

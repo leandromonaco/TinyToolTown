@@ -4,7 +4,7 @@ tagline: "Turn your photos into scroll-stopping captions in seconds."
 author: "Thomas Sebastian Jensen"
 author_github: "tsjdev-apps"
 github_url: "https://github.com/tsjdev-apps/piccaptionr/"
-thumbnail: "/thumbnails/piccaptionr.png"
+thumbnail: "/thumbnails/piccaptionr.webp"
 tags: ["ai", "artificial intelligence", "photo captions", "instagram captions", "social media automation"]
 language: "C#"
 license: "MIT"

@@ -4,7 +4,7 @@ tagline: "A collection of useful utilities for developers"
 author: "Hector Minaya"
 author_github: "hminaya"
 github_url: "https://github.com/hminaya/devtools"
-thumbnail: "/thumbnails/developer-tools.png"
+thumbnail: "/thumbnails/developer-tools.webp"
 website_url: "https://www.developers.do/"
 tags: ["tools", "developers"]
 language: "typescript, javascript"

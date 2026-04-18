@@ -4,7 +4,7 @@ tagline: "System-tray snippet picker for quick pastes with a hotkey"
 author: "Simon Crouch"
 author_github: "MrSimonC"
 github_url: "https://github.com/MrSimonC/LLM-Prompt-Injector"
-thumbnail: "/thumbnails/foldersnippets.png"
+thumbnail: "/thumbnails/foldersnippets.webp"
 website_url: "https://github.com/MrSimonC/LLM-Prompt-Injector"
 tags: ["windows", "snippet-manager", "clipboard", "tray-app", "productivity"]
 language: "C#"

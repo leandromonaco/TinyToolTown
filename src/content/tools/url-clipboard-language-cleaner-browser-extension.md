@@ -4,7 +4,7 @@ tagline: "Browser extension that removes language/locale segments from URLs"
 author: "Thiago Beier"
 author_github: "thiagogbeier"
 github_url: "https://github.com/thiagogbeier/urlclilangcleaner"
-thumbnail: "/thumbnails/url-clipboard-language-cleaner-browser-extension.png"
+thumbnail: "/thumbnails/url-clipboard-language-cleaner-browser-extension.webp"
 tags: ["browser", "extension", "clipboard"]
 language: "JavaScript"
 license: "MIT"

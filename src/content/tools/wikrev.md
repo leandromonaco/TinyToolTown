@@ -4,7 +4,7 @@ tagline: "(git based) Wiki Reviewer with a bit of inteligence"
 author: "Petr Houška"
 author_github: "petrroll"
 github_url: "https://github.com/petrroll/wikrev"
-thumbnail: "/thumbnails/wikrev.png"
+thumbnail: "/thumbnails/wikrev.webp"
 tags: ["wiki", "git", "copilot"]
 language: "python"
 license: "MIT"

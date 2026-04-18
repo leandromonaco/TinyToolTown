@@ -4,7 +4,7 @@ tagline: "GitHub Copilot skill for blood glucose analysis"
 author: "Scott Hanselman"
 author_github: "shanselman"
 github_url: "https://github.com/shanselman/nightscout-cgm-skill"
-thumbnail: "/thumbnails/nightscout-cgm-skill.png"
+thumbnail: "/thumbnails/nightscout-cgm-skill.webp"
 tags: ["copilot", "health", "diabetes", "ai"]
 language: "Python"
 license: "MIT"

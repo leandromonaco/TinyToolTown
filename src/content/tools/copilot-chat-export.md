@@ -4,7 +4,7 @@ tagline: "Export VS Code Copilot chat transcripts into a clean, shareable HTML p
 author: "Ben Martens"
 author_github: "benmartens"
 github_url: "https://github.com/benmartens/copilot-chat-export"
-thumbnail: "/thumbnails/copilot-chat-export.png"
+thumbnail: "/thumbnails/copilot-chat-export.webp"
 tags: ["vscode", "extension"]
 language: "TypeScript"
 license: "MIT"

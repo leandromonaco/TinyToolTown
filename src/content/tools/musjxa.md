@@ -4,7 +4,7 @@ tagline: "Broadcast your Apple Music \"now playing\" to Twitter, Telegram, or an
 author: "Asdrúbal Chirinos"
 author_github: "asdrubalchirinos"
 github_url: "https://github.com/asdrubalchirinos/musjxa"
-thumbnail: "/thumbnails/musjxa.png"
+thumbnail: "/thumbnails/musjxa.webp"
 tags: ["jxa", "macos", "apple-music", "cli"]
 language: "JXA"
 license: "MIT"

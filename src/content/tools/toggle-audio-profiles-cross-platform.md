@@ -4,7 +4,7 @@ tagline: "Switch mic and speaker with one click"
 author: "Pablo Echavarria"
 author_github: "pechavarriaa"
 github_url: "https://github.com/pechavarriaa/CrossPlatformAudioToggle"
-thumbnail: "/thumbnails/toggle-audio-profiles-cross-platform.png"
+thumbnail: "/thumbnails/toggle-audio-profiles-cross-platform.webp"
 tags: ["audio"]
 language: "Python, Powershell, Bash"
 license: "MIT"

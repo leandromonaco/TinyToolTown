@@ -4,7 +4,7 @@ tagline: "A fast, keyboard-driven TUI for Azure Privileged Identity Management w
 author: "Sebastian Wild"
 author_github: "seb07-cloud"
 github_url: "https://github.com/seb07-cloud/pim-tui"
-thumbnail: "/thumbnails/pim-tui.png"
+thumbnail: "/thumbnails/pim-tui.webp"
 tags: ["cli", "pim", "entra", "security"]
 language: "Go"
 license: "MIT"

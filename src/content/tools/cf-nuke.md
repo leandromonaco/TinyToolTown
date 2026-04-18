@@ -4,7 +4,7 @@ tagline: "Safely delete all resources from a Cloudflare account."
 author: "arafato"
 author_github: "arafato"
 github_url: "https://github.com/arafato/cf-nuke"
-thumbnail: "/thumbnails/cf-nuke.png"
+thumbnail: "/thumbnails/cf-nuke.webp"
 tags: ["cli", "cloudflare"]
 language: "golang"
 license: "MIT"

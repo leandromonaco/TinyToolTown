@@ -4,7 +4,7 @@ tagline: "Capture context. Give your agent the full picture."
 author: "Semih Cihan"
 author_github: "semihcihan"
 github_url: "https://github.com/semihcihan/ContextBrief"
-thumbnail: "/thumbnails/context-brief.gif"
+thumbnail: "/thumbnails/context-brief.webp"
 website_url: "https://github.com/semihcihan/ContextBrief/blob/main/demo/demo.gif"
 tags: ["context", "agent", "menubar", "macos", "snapshot"]
 language: "Swift"

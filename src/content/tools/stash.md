@@ -4,7 +4,7 @@ tagline: "A lightweight clipboard history manager for macOS, inspired by Windows
 author: "Jordan Selig"
 author_github: "seligj95"
 github_url: "https://github.com/seligj95/stash"
-thumbnail: "/thumbnails/stash.png"
+thumbnail: "/thumbnails/stash.webp"
 tags: ["macos", "clipboard", "clipboard-manager", "clipboard-history", "swiftui"]
 language: "Swift"
 license: "MIT"

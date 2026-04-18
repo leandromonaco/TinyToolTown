@@ -79,6 +79,8 @@ const langColor = tool.data.language ? langColors[tool.data.language] || '#8b949
                 src={`https://avatars.githubusercontent.com/${tool.data.author_github}?s=40`}
                 alt={tool.data.author}
                 class="author-avatar"
+                loading="lazy"
+                decoding="async"
               />
               <div>
                 <a href={`/tools/?q=${encodeURIComponent(tool.data.author.toLowerCase())}`} class="author-name">{tool.data.author}</a>
@@ -128,7 +130,13 @@ const langColor = tool.data.language ? langColors[tool.data.language] || '#8b949
 
         {tool.data.thumbnail && (
           <div class="tool-screenshot">
-            <img src={tool.data.thumbnail} alt={`Screenshot of ${tool.data.name}`} />
+            <img
+              src={tool.data.thumbnail}
+              alt={`Screenshot of ${tool.data.name}`}
+              decoding="async"
+              width="960"
+              height="540"
+            />
           </div>
         )}
       </div>

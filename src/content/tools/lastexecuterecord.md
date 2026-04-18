@@ -4,7 +4,7 @@ tagline: "It is a simple launcher,  run multiple tasks at the set intervals when
 author: "Kazushi Kamegawa"
 author_github: "kkamegawa"
 github_url: "https://github.com/kkamegawa/lastexecrecord"
-thumbnail: "/thumbnails/lastexecuterecord.png"
+thumbnail: "/thumbnails/lastexecuterecord.webp"
 tags: ["cli", "windows"]
 language: "C++"
 license: "MIT"

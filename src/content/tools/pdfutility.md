@@ -4,7 +4,7 @@ tagline: "A local web app for converting, merging, splitting, and compressing PD
 author: "Domagoj Pluscec"
 author_github: "dpluscec"
 github_url: "https://github.com/dpluscec/pdf2png"
-thumbnail: "/thumbnails/pdfutility.png"
+thumbnail: "/thumbnails/pdfutility.webp"
 tags: ["pdf", "utility"]
 language: "TypeScript"
 license: "MIT"

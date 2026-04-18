@@ -41,7 +41,14 @@ const langColor = language ? langColors[language] || '#8b949e' : null;
   <a href={`/tools/${slug}/`} class:list={["tool-card", { featured }]}>
     <div class="card-thumbnail">
       {thumbnail ? (
-        <img src={thumbnail} alt={`Screenshot of ${name}`} loading="lazy" />
+        <img
+          src={thumbnail}
+          alt={`Screenshot of ${name}`}
+          loading="lazy"
+          decoding="async"
+          width="960"
+          height="540"
+        />
       ) : (
         <div class="card-placeholder">
           <span class="placeholder-emoji">🔧</span>
@@ -70,6 +77,7 @@ const langColor = language ? langColors[language] || '#8b949e' : null;
           alt={author}
           class="author-avatar"
           loading="lazy"
+          decoding="async"
         />
         <span class="author-name" data-author-search={author.toLowerCase()}>{author}</span>
         {typeof stars === 'number' ? (
@@ -80,6 +88,7 @@ const langColor = language ? langColors[language] || '#8b949e' : null;
             alt={`GitHub stars for ${name}`}
             class="card-stars"
             loading="lazy"
+            decoding="async"
             onerror="this.style.display='none'"
           />
         ) : null}

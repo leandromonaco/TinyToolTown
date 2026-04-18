@@ -4,7 +4,7 @@ tagline: "VPN over SSH — your server, your traffic, no middlemen"
 author: "Karim Mamatkazin"
 author_github: "nogipx"
 github_url: "https://github.com/nogipx/vzhukh"
-thumbnail: "/thumbnails/vzhukh.png"
+thumbnail: "/thumbnails/vzhukh.webp"
 tags: ["vpn", "ssh", "android", "flutter", "privacy"]
 language: "Dart"
 license: "MIT"

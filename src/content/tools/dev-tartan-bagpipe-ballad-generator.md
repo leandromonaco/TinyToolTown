@@ -4,7 +4,7 @@ tagline: "Generates a unique, deterministic tartan pattern and sick bagpipe ball
 author: "Lee Reilly"
 author_github: "leereilly"
 github_url: "https://github.com/leereilly/dev-tartan"
-thumbnail: "/thumbnails/dev-tartan-bagpipe-ballad-generator.webp"
+thumbnail: "/thumbnails/dev-tartan-bagpipe-ballad-generator.gif"
 website_url: "https://leereilly.net/dev-tartan/"
 tags: ["fun", "tartan", "bagpipes"]
 language: "JavaScript"

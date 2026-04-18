@@ -4,7 +4,7 @@ tagline: "A Next.js app that analyzes GitHub issues using multiple LLM models in
 author: "Jan Petersen"
 author_github: "japperj"
 github_url: "https://github.com/japperJ/Github-repo-LLMtest"
-thumbnail: "/thumbnails/issue-analyzer.png"
+thumbnail: "/thumbnails/issue-analyzer.webp"
 tags: ["fun", "tiny"]
 language: "Next.js"
 license: "MIT"

@@ -4,7 +4,7 @@ tagline: "A beautiful TUI to interactively configure and view GitHub Copilot CLI
 author: "Juan Burckhardt"
 author_github: "jsburckhardt"
 github_url: "https://github.com/jsburckhardt/co-config"
-thumbnail: "/thumbnails/ccc-copilot-config-cli.png"
+thumbnail: "/thumbnails/ccc-copilot-config-cli.webp"
 tags: ["cli", "tui", "copilot", "github", "configuration"]
 language: "Go"
 license: "(Updated) MIT"

@@ -4,7 +4,7 @@ tagline: "An intelligent desktop assistant tool designed for Windows 11, focused
 author: "gOxiA"
 author_github: "gOxiA"
 github_url: "https://github.com/goxia/TouchFuture"
-thumbnail: "/thumbnails/touchfuture.jpg"
+thumbnail: "/thumbnails/touchfuture.webp"
 website_url: "https://goxia.github.io/TouchFuture/"
 tags: ["windows", "touch"]
 language: "c#"

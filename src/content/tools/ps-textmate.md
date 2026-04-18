@@ -4,7 +4,7 @@ tagline: "PowerShell module to render with TextMate grammar in the console using
 author: "Andree Renneus"
 author_github: "trackd"
 github_url: "https://github.com/trackd/TextMate"
-thumbnail: "/thumbnails/ps-textmate.png"
+thumbnail: "/thumbnails/ps-textmate.webp"
 website_url: "https://github.com/trackd/TextMate"
 tags: ["cli", "terminal", "markdown", "textmate", "sixel"]
 language: "C#"

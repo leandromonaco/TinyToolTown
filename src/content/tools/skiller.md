@@ -4,7 +4,7 @@ tagline: "Teaching Your AI Agent to Remember"
 author: "Mark Davis"
 author_github: "markdav-is"
 github_url: "https://github.com/markdav-is/Skiller"
-thumbnail: "/thumbnails/skiller.png"
+thumbnail: "/thumbnails/skiller.webp"
 website_url: "https://www.marks.wiki/p/skiller-teaching-your-ai-agent-to"
 tags: ["copilot", "claude", "ai skill"]
 language: "markdown"

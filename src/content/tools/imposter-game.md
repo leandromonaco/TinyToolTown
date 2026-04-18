@@ -4,7 +4,7 @@ tagline: "A real-time multiplayer social deduction party game."
 author: "Tom McKnight"
 author_github: "tmcknight"
 github_url: "https://github.com/tmcknight/imposter-game"
-thumbnail: "/thumbnails/imposter-game.png"
+thumbnail: "/thumbnails/imposter-game.webp"
 tags: ["multiplayer", "party", "social deduction", "websockets", "react"]
 language: "JavaScript"
 license: "MIT"

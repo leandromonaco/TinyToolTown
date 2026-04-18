@@ -4,7 +4,7 @@ tagline: "One-click fix for Windows Terminal split panes"
 author: "Scott Hanselman"
 author_github: "shanselman"
 github_url: "https://github.com/shanselman/splitpanefix"
-thumbnail: "/thumbnails/splitpanefix.png"
+thumbnail: "/thumbnails/splitpanefix.webp"
 tags: ["cli", "windows", "terminal"]
 language: "PowerShell"
 license: "MIT"

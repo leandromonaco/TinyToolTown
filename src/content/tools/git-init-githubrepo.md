@@ -4,7 +4,7 @@ tagline: "Create git repository for GitHub style"
 author: "Uğur Özyılmazel"
 author_github: "vigo"
 github_url: "https://github.com/vigo/git-init-githubrepo"
-thumbnail: "/thumbnails/git-init-githubrepo.png"
+thumbnail: "/thumbnails/git-init-githubrepo.webp"
 tags: ["cli", "git", "github"]
 language: "Go"
 license: "MIT"

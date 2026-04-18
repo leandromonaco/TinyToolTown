@@ -4,7 +4,7 @@ tagline: "a very (very) simple syslog generator."
 author: "Matt Egen"
 author_github: "FlyingBlueMonkey"
 github_url: "https://github.com/FlyingBlueMonkey/stumper"
-thumbnail: "/thumbnails/stumper.png"
+thumbnail: "/thumbnails/stumper.webp"
 tags: ["windows", "syslog", "simple"]
 language: "C#"
 license: "MIT"

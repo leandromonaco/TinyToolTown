@@ -4,7 +4,7 @@ tagline: "From AOL to the AI age... the only constants of the internet are the a
 author: "Cale Geffre"
 author_github: "calegeffre"
 github_url: "https://github.com/calegeffre/InfiniteAds"
-thumbnail: "/thumbnails/pop-up-panic.png"
+thumbnail: "/thumbnails/pop-up-panic.webp"
 website_url: "https://calegeffre.github.io/InfiniteAds/"
 tags: ["game", "fun", "web", "art"]
 language: "HTML"

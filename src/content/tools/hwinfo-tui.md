@@ -4,7 +4,7 @@ tagline: "gping-inspired terminal plots for real-time HWInfo64 hardware sensor d
 author: "Juan José Fuchs"
 author_github: "JuanjoFuchs"
 github_url: "https://github.com/JuanjoFuchs/hwinfo-tui"
-thumbnail: "/thumbnails/hwinfo-tui.gif"
+thumbnail: "/thumbnails/hwinfo-tui.webp"
 tags: ["cli", "tui", "python", "terminal", "hardware", "monitoring", "windows"]
 language: "Python"
 license: "MIT"

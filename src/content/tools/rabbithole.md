@@ -4,7 +4,7 @@ tagline: "A beautiful TUI for consuming and inspecting RabbitMQ messages"
 author: "Emilio Palmerini"
 author_github: "emiliopalmerini"
 github_url: "https://github.com/emiliopalmerini/rabbithole"
-thumbnail: "/thumbnails/rabbithole.png"
+thumbnail: "/thumbnails/rabbithole.webp"
 tags: ["cli", "tui", "rabbitmq", "developer-tools"]
 language: "GO"
 license: "MIT"

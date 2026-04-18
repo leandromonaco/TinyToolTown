@@ -4,7 +4,7 @@ tagline: "A static raffle app for event sign-ups and winner selection."
 author: "James Montemagno"
 author_github: "jamesmontemagno"
 github_url: "https://github.com/jamesmontemagno/dev-days-giveaway"
-thumbnail: "/thumbnails/dev-days-giveaway.png"
+thumbnail: "/thumbnails/dev-days-giveaway.webp"
 tags: ["raffle", "event", "static-site", "supabase", "react"]
 language: "TypeScript"
 license: "MIT"

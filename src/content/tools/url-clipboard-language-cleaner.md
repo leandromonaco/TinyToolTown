@@ -4,7 +4,7 @@ tagline: "A cross-platform PowerShell script or Edge/Chrome browser extension th
 author: "Jack Tracey"
 author_github: "jtracey93"
 github_url: "https://github.com/jtracey93/UrlClipboardLanguageCleaner"
-thumbnail: "/thumbnails/url-clipboard-language-cleaner.png"
+thumbnail: "/thumbnails/url-clipboard-language-cleaner.webp"
 tags: ["cli", "clipboard", "productivity", "extension", "web"]
 language: "PowerShell & JavaScript"
 license: "MIT"

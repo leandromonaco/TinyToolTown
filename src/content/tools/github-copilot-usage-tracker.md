@@ -4,7 +4,7 @@ tagline: "Monitor your GitHub Copilot usage from the system tray."
 author: "Elio Struyf"
 author_github: "estruyf"
 github_url: "https://github.com/estruyf/github-copilot-usage-tauri"
-thumbnail: "/thumbnails/github-copilot-usage-tracker.png"
+thumbnail: "/thumbnails/github-copilot-usage-tracker.webp"
 tags: ["github", "copilot", "tauri", "system-tray", "usage-tracking"]
 language: "TypeScript"
 theme: "None"

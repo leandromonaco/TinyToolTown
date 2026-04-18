@@ -4,7 +4,7 @@ tagline: "Where your agents can be needy in one place"
 author: "Derek Tupper"
 author_github: "derektupper"
 github_url: "https://github.com/derektupper/poke-me"
-thumbnail: "/thumbnails/pokeme.png"
+thumbnail: "/thumbnails/pokeme.webp"
 tags: ["cli", "coding-agents", "cross-platform"]
 language: "Python"
 license: "MIT"

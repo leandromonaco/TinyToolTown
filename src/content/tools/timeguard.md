@@ -4,7 +4,7 @@ tagline: "Windows parental screen-time manager"
 author: "Debasish Mishra"
 author_github: "debmis"
 github_url: "https://github.com/debmis/TimeGuard"
-thumbnail: "/thumbnails/timeguard.png"
+thumbnail: "/thumbnails/timeguard.webp"
 tags: ["windows", "screen-time", "parental"]
 language: "C#"
 license: "MIT"

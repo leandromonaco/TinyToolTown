@@ -4,7 +4,7 @@ tagline: "A Rainmeter desktop widget that displays real-time AQI with 24-hour gr
 author: "Elena Gusarevich"
 author_github: "hel-3d"
 github_url: "https://github.com/hel-3d/hel-aqi-widget-win"
-thumbnail: "/thumbnails/hel-aqi-widget-win.png"
+thumbnail: "/thumbnails/hel-aqi-widget-win.webp"
 website_url: "https://hel-3d.github.io/hel-3d/projects/projects_hel_aqi_desktop_widget.html"
 tags: ["rainmeter", "windows", "desktop-widget", "air-quality", "data-visualization"]
 language: "Python (with Rainmeter UI)"

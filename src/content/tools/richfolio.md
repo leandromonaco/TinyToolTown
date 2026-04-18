@@ -4,7 +4,7 @@ tagline: "Zero-maintenance portfolio monitor with AI buy signals — runs free o
 author: "Richard Fu"
 author_github: "furic"
 github_url: "https://github.com/furic/richfolio"
-thumbnail: "/thumbnails/richfolio.png"
+thumbnail: "/thumbnails/richfolio.webp"
 website_url: "https://furic.github.io/richfolio/"
 tags: ["finance", "portfolio", "investing", "ai", "github-actions"]
 language: "TypeScript"

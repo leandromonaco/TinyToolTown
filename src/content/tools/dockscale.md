@@ -4,7 +4,7 @@ tagline: "Automatically adjusts your laptop's display scaling when you plug or u
 author: "Rodrigo Santos"
 author_github: "rodrimc"
 github_url: "https://github.com/rodrimc/display-auto-scale"
-thumbnail: "/thumbnails/dockscale.png"
+thumbnail: "/thumbnails/dockscale.webp"
 tags: ["cli", "windows", "dpi"]
 language: "Powershell"
 license: "MIT"

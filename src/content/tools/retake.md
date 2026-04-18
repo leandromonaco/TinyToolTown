@@ -4,7 +4,7 @@ tagline: "A lightweight macOS screen recorder with live redo, redaction, trim, a
 author: "Jordan Selig"
 author_github: "seligj95"
 github_url: "https://github.com/seligj95/retake"
-thumbnail: "/thumbnails/retake.png"
+thumbnail: "/thumbnails/retake.webp"
 tags: ["macos", "mac", "record", "screen-recorder", "capture"]
 language: "Swift"
 license: "MIT"

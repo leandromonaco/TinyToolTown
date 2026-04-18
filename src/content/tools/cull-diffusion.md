@@ -4,7 +4,7 @@ tagline: "Local web app for reviewing/culling AI-generated images."
 author: "Dave Bry"
 author_github: "dbry23"
 github_url: "https://github.com/dbry23/cull-diffusion"
-thumbnail: "/thumbnails/cull-diffusion.png"
+thumbnail: "/thumbnails/cull-diffusion.webp"
 tags: ["web", "web app", "ai", "ai images", "stable diffusion"]
 language: "Next.js 15, TypeScript"
 license: "CC BY-NC 4.0"

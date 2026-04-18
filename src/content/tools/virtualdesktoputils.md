@@ -4,7 +4,7 @@ tagline: "Improve Windows 11 virtual desktop management with hotkey-triggered wi
 author: "Mark Woan"
 author_github: "woanware"
 github_url: "https://github.com/woanware/VirtualDesktopUtils"
-thumbnail: "/thumbnails/virtualdesktoputils.png"
+thumbnail: "/thumbnails/virtualdesktoputils.webp"
 tags: ["windows", "virtual desktop"]
 language: "C#"
 license: "MIT"

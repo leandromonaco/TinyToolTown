@@ -4,7 +4,7 @@ tagline: "Automatically set Bing's daily image as your macOS wallpaper."
 author: "Elio Struyf"
 author_github: "estruyf"
 github_url: "https://github.com/estruyf/bingscape-tauri"
-thumbnail: "/thumbnails/bingscape.png"
+thumbnail: "/thumbnails/bingscape.webp"
 tags: ["wallpaper", "macos", "tauri", "bing", "desktop"]
 language: "Rust"
 license: "MIT"

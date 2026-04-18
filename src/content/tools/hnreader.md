@@ -4,7 +4,7 @@ tagline: "Fetch Hacker News top stories right from your terminal."
 author: "Iram Lee"
 author_github: "ilee38"
 github_url: "https://github.com/ilee38/hacker-news-reader"
-thumbnail: "/thumbnails/hnreader.png"
+thumbnail: "/thumbnails/hnreader.webp"
 tags: ["cli", "tiny", "fun"]
 language: "Python"
 license: "MIT"

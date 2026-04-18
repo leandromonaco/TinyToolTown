@@ -4,7 +4,7 @@ tagline: "All you need to work on a Windows WPF project inside Visual Studio Cod
 author: "Lex Li"
 author_github: "lextm"
 github_url: "https://github.com/lextudio/vscode-wpf"
-thumbnail: "/thumbnails/vs-code-tools-for-wpf.png"
+thumbnail: "/thumbnails/vs-code-tools-for-wpf.webp"
 website_url: "https://marketplace.visualstudio.com/items?itemName=lextudio.vscode-wpf"
 tags: ["windows", "wpf", "vscode"]
 language: "C#"

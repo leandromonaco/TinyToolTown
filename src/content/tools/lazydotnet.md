@@ -4,7 +4,7 @@ tagline: "A TUI companion for managing .NET solutions: NuGets, tests, launch pro
 author: "Charly Koch"
 author_github: "ckob"
 github_url: "https://github.com/ckob/lazydotnet"
-thumbnail: "/thumbnails/lazydotnet.png"
+thumbnail: "/thumbnails/lazydotnet.webp"
 tags: ["tui", "dotnet", "nuget", "developer-tools", "cli"]
 language: "C#"
 license: "MIT"

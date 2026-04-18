@@ -4,7 +4,7 @@ tagline: "Feed screenshots to AI agents instantly. Desktop stays clean."
 author: "Joshua Colvin"
 author_github: "joshuacolvin"
 github_url: "https://github.com/joshuacolvin/SnapAgent"
-thumbnail: "/thumbnails/snapagent.gif"
+thumbnail: "/thumbnails/snapagent.webp"
 website_url: "https://snapagent.baxlylabs.com"
 tags: ["screenshot", "terminal", "developer", "ai", "macos"]
 language: "Swift"

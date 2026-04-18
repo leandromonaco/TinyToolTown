@@ -4,7 +4,7 @@ tagline: "Native desktop viewer for your AI coding sessions across Claude Code, 
 author: "Andrew Massart"
 author_github: "andrewmassart"
 github_url: "https://github.com/andrewmassart/prompt-book"
-thumbnail: "/thumbnails/prompt-book.png"
+thumbnail: "/thumbnails/prompt-book.webp"
 tags: ["tauri", "react", "ai", "developer-tools", "desktop"]
 language: "Rust"
 license: "MIT"

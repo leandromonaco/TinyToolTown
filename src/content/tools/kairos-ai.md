@@ -4,7 +4,7 @@ tagline: "An open-source local AI assistant that runs large language models on y
 author: "Avnish Kumar"
 author_github: "avikeid2007"
 github_url: "https://github.com/avikeid2007/KaiROS-AI"
-thumbnail: "/thumbnails/kairos-ai.png"
+thumbnail: "/thumbnails/kairos-ai.webp"
 tags: ["windows", "ai", "dotnet", "gpu-acceleration", "ai-inference"]
 language: "C#, WPF, LlamaSharp, MAUI(android)"
 license: "MIT"

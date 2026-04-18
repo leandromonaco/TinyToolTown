@@ -4,7 +4,7 @@ tagline: "Braindump your food or workout, and AI does the rest"
 author: "KC Lemson"
 author_github: "kclemson"
 github_url: "https://github.com/kclemson/logactually/"
-thumbnail: "/thumbnails/log-actually.png"
+thumbnail: "/thumbnails/log-actually.webp"
 website_url: "https://logactually.com/"
 tags: ["health", "food", "exercise", "logging", "tracking"]
 language: "React, TypeScript"

@@ -4,7 +4,7 @@ tagline: "Directed graphs as terminal ASCII art"
 author: "Cristi Pufu"
 author_github: "cristipufu"
 github_url: "https://github.com/UiPath/graphtty"
-thumbnail: "/thumbnails/graphtty.png"
+thumbnail: "/thumbnails/graphtty.webp"
 tags: ["terminal", "graph", "ascii"]
 language: "Python"
 license: "MIT"

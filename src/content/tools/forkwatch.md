@@ -4,7 +4,7 @@ tagline: "CLI that discovers meaningful patches hiding in GitHub forks"
 author: "Ben Curtis"
 author_github: "stympy"
 github_url: "https://github.com/stympy/forkwatch"
-thumbnail: "/thumbnails/forkwatch.png"
+thumbnail: "/thumbnails/forkwatch.webp"
 tags: ["cli", "git", "github", "forks"]
 language: "Go"
 license: "MIT"

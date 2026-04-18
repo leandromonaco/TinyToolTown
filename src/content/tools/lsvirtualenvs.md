@@ -4,7 +4,7 @@ tagline: "Due to virtualenvwrapper’s lsvirtualenv’s super slow speed and lac
 author: "Uğur Özyılmazel"
 author_github: "vigo"
 github_url: "https://github.com/vigo/lsvirtualenvs"
-thumbnail: "/thumbnails/lsvirtualenvs.png"
+thumbnail: "/thumbnails/lsvirtualenvs.webp"
 tags: ["cli", "virtualenv", "lsvirtualenv"]
 language: "Go"
 license: "MIT"

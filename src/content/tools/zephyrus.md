@@ -4,7 +4,7 @@ tagline: "Because most weather apps are either spamware or spyware"
 author: "Marlo Bell"
 author_github: "marlobello"
 github_url: "https://github.com/marlobello/zephyrus"
-thumbnail: "/thumbnails/zephyrus.png"
+thumbnail: "/thumbnails/zephyrus.webp"
 tags: ["android", "weather", "apk"]
 language: "Kotlin"
 license: "MIT"

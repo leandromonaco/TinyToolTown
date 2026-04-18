@@ -4,7 +4,7 @@ tagline: "A simple macOS menu bar app that mutes/unmutes all microphones system-
 author: "Jordan Cleigh"
 author_github: "jcleigh"
 github_url: "https://github.com/jcleigh/mac-mic-mute"
-thumbnail: "/thumbnails/mac-mic-mute.png"
+thumbnail: "/thumbnails/mac-mic-mute.webp"
 tags: ["macos", "mac", "mic", "mute", "system"]
 language: "Swift"
 license: "MIT"

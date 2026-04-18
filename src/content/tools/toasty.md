@@ -4,7 +4,7 @@ tagline: "Tiny Windows toast notification CLI (229 KB)"
 author: "Scott Hanselman"
 author_github: "shanselman"
 github_url: "https://github.com/shanselman/toasty"
-thumbnail: "/thumbnails/toasty.png"
+thumbnail: "/thumbnails/toasty.webp"
 website_url: "https://github.com/shanselman/toasty/releases"
 tags: ["cli", "windows", "notifications", "tiny"]
 language: "C++"

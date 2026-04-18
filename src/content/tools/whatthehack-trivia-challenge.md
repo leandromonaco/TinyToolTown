@@ -4,7 +4,7 @@ tagline: "A customizable Blazor trivia game for team challenges and learning."
 author: "Harry Kimpel"
 author_github: "harrykimpel"
 github_url: "https://github.com/harrykimpel/WhatTheHack-TriviaChallenge"
-thumbnail: "/thumbnails/whatthehack-trivia-challenge.png"
+thumbnail: "/thumbnails/whatthehack-trivia-challenge.webp"
 tags: ["blazor", "dotnet", "trivia-game", "team-building", "playwright"]
 language: "C#"
 license: "MIT"

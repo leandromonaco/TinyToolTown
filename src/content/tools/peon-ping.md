@@ -4,7 +4,7 @@ tagline: "Game character voice lines when your AI coding agent needs attention"
 author: "Gary Sheng"
 author_github: "garysheng"
 github_url: "https://github.com/PeonPing/peon-ping"
-thumbnail: "/thumbnails/peon-ping.png"
+thumbnail: "/thumbnails/peon-ping.webp"
 website_url: "https://www.peonping.com/"
 tags: ["cli", "fun", "gamer"]
 license: "MIT"

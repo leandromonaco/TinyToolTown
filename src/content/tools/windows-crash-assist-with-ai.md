@@ -4,7 +4,7 @@ tagline: "Understand why your machine crashed with AI recommendations"
 author: "Claton Hendricks"
 author_github: "clatonhendricks"
 github_url: "https://github.com/clatonhendricks/CrashDetectorwithAI"
-thumbnail: "/thumbnails/windows-crash-assist-with-ai.png"
+thumbnail: "/thumbnails/windows-crash-assist-with-ai.webp"
 tags: ["windows", "crash"]
 language: "C#"
 license: "GPL-3.0"

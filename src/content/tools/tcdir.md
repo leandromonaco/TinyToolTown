@@ -4,7 +4,7 @@ tagline: "Spice up your terminal with fully customizable, colorized dir listings
 author: "Robert Elmer"
 author_github: "relmer"
 github_url: "https://github.com/relmer/TCDir"
-thumbnail: "/thumbnails/tcdir.png"
+thumbnail: "/thumbnails/tcdir.webp"
 tags: ["cli", "console", "terminal", "windows", "color"]
 language: "C++"
 license: "MIT"

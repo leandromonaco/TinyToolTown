@@ -4,7 +4,7 @@ tagline: "Get access to your install visual studio instances from the system tra
 author: "Calvin Allen"
 author_github: "CalvinAllen"
 github_url: "https://github.com/CodingWithCalvin/VSToolbox"
-thumbnail: "/thumbnails/visual-studio-toolbox.png"
+thumbnail: "/thumbnails/visual-studio-toolbox.webp"
 tags: ["windows", "tiny", "productivity"]
 language: "C#"
 license: "MIT"

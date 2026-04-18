@@ -4,7 +4,7 @@ tagline: "Client-side file converter for images, audio, and video."
 author: "James Montemagno"
 author_github: "jamesmontemagno"
 github_url: "https://github.com/jamesmontemagno/my-file-converter"
-thumbnail: "/thumbnails/localmorph.png"
+thumbnail: "/thumbnails/localmorph.webp"
 website_url: "https://localmorph.com"
 tags: ["file-conversion", "client-side", "react", "ffmpeg", "privacy"]
 language: "TypeScript"

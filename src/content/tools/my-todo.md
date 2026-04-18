@@ -4,7 +4,7 @@ tagline: "🚀 A high-performance Rust-based Terminal User Interface (TUI) for m
 author: "Gennaro Riccio"
 author_github: "GennaroRiccio"
 github_url: "https://github.com/GennaroRiccio/my-todo"
-thumbnail: "/thumbnails/my-todo.png"
+thumbnail: "/thumbnails/my-todo.webp"
 tags: ["tui"]
 language: "Rust"
 license: "MIT"

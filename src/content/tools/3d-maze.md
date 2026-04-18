@@ -4,7 +4,7 @@ tagline: "Recreation of the classic 3D Maze screensaver"
 author: "Bil Simser"
 author_github: "BilSimser"
 github_url: "https://github.com/bsimser/3DMaze"
-thumbnail: "/thumbnails/3d-maze.png"
+thumbnail: "/thumbnails/3d-maze.webp"
 website_url: "https://bsimser.itch.io/3d-maze"
 tags: ["game", "kids", "fun", "browser", "desktop"]
 language: "C#"

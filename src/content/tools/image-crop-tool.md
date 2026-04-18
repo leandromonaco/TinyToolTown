@@ -4,7 +4,7 @@ tagline: "Simple and user-friendly image cropping tool"
 author: "Winnie Lin"
 author_github: "onecentlin"
 github_url: "https://github.com/onecentlin/tinytool-image-crop"
-thumbnail: "/thumbnails/image-crop-tool.png"
+thumbnail: "/thumbnails/image-crop-tool.webp"
 website_url: "https://onecentlin.github.io/tinytool-image-crop/"
 tags: ["web", "images"]
 language: "JavaScript"

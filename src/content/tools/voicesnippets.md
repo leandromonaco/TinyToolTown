@@ -4,7 +4,7 @@ tagline: "Voice-activated text expansion, keyboard shortcuts & workflows for you
 author: "Elio Struyf"
 author_github: "estruyf"
 github_url: "https://github.com/estruyf/VoiceSnippets"
-thumbnail: "/thumbnails/voicesnippets.png"
+thumbnail: "/thumbnails/voicesnippets.webp"
 tags: ["voice", "productivity", "automation", "desktop", "tauri"]
 language: "Rust, TypeScript"
 license: "MIT"

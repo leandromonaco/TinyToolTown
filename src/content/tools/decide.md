@@ -4,7 +4,7 @@ tagline: "Make decisions when they are hard!"
 author: "Lee Holmes"
 author_github: "LeeHolmes"
 github_url: "https://github.com/LeeHolmes/decide"
-thumbnail: "/thumbnails/decide.png"
+thumbnail: "/thumbnails/decide.webp"
 website_url: "https://www.leeholmes.com/projects/decide"
 tags: ["decide", "decision"]
 language: "HTML, JavaScript"

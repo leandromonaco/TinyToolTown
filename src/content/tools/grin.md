@@ -4,7 +4,7 @@ tagline: "Make INI files greppable — like gron, but for INI (single binary, ~2
 author: "Charles Yost"
 author_github: "Yoshi325"
 github_url: "https://github.com/Yoshi325/grin"
-thumbnail: "/thumbnails/grin.png"
+thumbnail: "/thumbnails/grin.webp"
 tags: ["cli", "ini", "grep", "unix", "config"]
 language: "go"
 license: "MIT"

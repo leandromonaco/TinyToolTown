@@ -4,7 +4,7 @@ tagline: "A minimal Windows desktop Pomodoro timer."
 author: "Dan Clarke"
 author_github: "dracan"
 github_url: "https://github.com/dracan/tomato"
-thumbnail: "/thumbnails/tomato.jpg"
+thumbnail: "/thumbnails/tomato.webp"
 tags: ["windows", "productivity"]
 language: "C#, WPF"
 license: "MIT"

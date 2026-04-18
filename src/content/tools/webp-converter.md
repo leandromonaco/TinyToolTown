@@ -4,7 +4,7 @@ tagline: "Cross-platform Avalonia UI app for batch converting images to WebP wit
 author: "Thomas Sebastian Jensen"
 author_github: "tsjdev-apps"
 github_url: "https://github.com/tsjdev-apps/webpconverter-avalonia"
-thumbnail: "/thumbnails/webp-converter.png"
+thumbnail: "/thumbnails/webp-converter.webp"
 tags: ["webp", "image-processing", "cross-platform"]
 language: "C#, Avalonia UI"
 license: "MIT"

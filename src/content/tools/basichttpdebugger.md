@@ -4,7 +4,7 @@ tagline: "Basic HTTP server for debugging incoming HTTP requests."
 author: "VB Yazılım"
 author_github: "vigo"
 github_url: "https://github.com/vbyazilim/basichttpdebugger"
-thumbnail: "/thumbnails/basichttpdebugger.png"
+thumbnail: "/thumbnails/basichttpdebugger.webp"
 tags: ["cli", "http", "http-server", "http-debugger"]
 language: "Go"
 license: "MIT"

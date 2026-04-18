@@ -4,7 +4,7 @@ tagline: "Ping Legacy is a modern Windows network diagnostic tool that provides 
 author: "Avnish Kumar"
 author_github: "avikeid2007"
 github_url: "https://github.com/avikeid2007/Ping-Legacy"
-thumbnail: "/thumbnails/ping-legacy.png"
+thumbnail: "/thumbnails/ping-legacy.webp"
 tags: ["windows", "productivity", "winui", "ping", "network-tool"]
 language: "C#, WinUI"
 license: "MIT"

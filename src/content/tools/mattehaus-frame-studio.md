@@ -4,7 +4,7 @@ tagline: "Gallery‑ready mattes in twos and threes for your Samsung Frame TV."
 author: "Louis Yong"
 author_github: "boysbytes"
 github_url: "https://github.com/boysbytes/mattehaus-frame-studio"
-thumbnail: "/thumbnails/mattehaus-frame-studio.png"
+thumbnail: "/thumbnails/mattehaus-frame-studio.webp"
 tags: ["web", "photo", "frame"]
 language: "HTML"
 license: "MIT"

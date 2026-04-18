@@ -4,7 +4,7 @@ tagline: "Scripts for exporting Kusto table schemas and function definitions to 
 author: "Saul Dolgin"
 author_github: "sdolgin"
 github_url: "https://github.com/sdolgin/KustoExporter"
-thumbnail: "/thumbnails/kustoexporter.png"
+thumbnail: "/thumbnails/kustoexporter.webp"
 tags: ["cli", "kusto", "scripting"]
 language: "Python"
 license: "MIT"

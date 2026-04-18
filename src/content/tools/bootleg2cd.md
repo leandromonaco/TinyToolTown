@@ -4,7 +4,7 @@ tagline: "Containerized tool to grab a concert from Youtube, and alongside an AI
 author: "Oliver Radcliffe"
 author_github: "oradcliffe"
 github_url: "https://github.com/oradcliffe/bootleg2cd"
-thumbnail: "/thumbnails/bootleg2cd.jpg"
+thumbnail: "/thumbnails/bootleg2cd.webp"
 tags: ["music", "fun", "devcontainer", "concert", "assistant"]
 language: "Python"
 license: "MIT"

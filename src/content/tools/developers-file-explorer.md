@@ -4,7 +4,7 @@ tagline: "File explorer + terminal + more..."
 author: "Yücel Dağlar"
 author_github: "yuceldaglar"
 github_url: "https://github.com/yuceldaglar/MyFileExplorer"
-thumbnail: "/thumbnails/developers-file-explorer.jpg"
+thumbnail: "/thumbnails/developers-file-explorer.webp"
 tags: ["windows"]
 language: "C#"
 date_added: "2026-04-02"

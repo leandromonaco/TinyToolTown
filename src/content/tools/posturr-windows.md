@@ -4,7 +4,7 @@ tagline: "Windows posture monitoring — sit up straight!"
 author: "Scott Hanselman"
 author_github: "shanselman"
 github_url: "https://github.com/shanselman/posturr-windows"
-thumbnail: "/thumbnails/posturr-windows.png"
+thumbnail: "/thumbnails/posturr-windows.webp"
 tags: ["windows", "health", "desktop", "notifications"]
 language: "C#"
 license: "MIT"

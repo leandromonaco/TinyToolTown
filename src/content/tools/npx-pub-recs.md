@@ -4,7 +4,7 @@ tagline: "CLI Tool to display recommendations from GitHub gists"
 author: "Dale Vivian Ross"
 author_github: "dalevross"
 github_url: "https://github.com/dalevross/recommendations"
-thumbnail: "/thumbnails/npx-pub-recs.png"
+thumbnail: "/thumbnails/npx-pub-recs.webp"
 website_url: "https://www.npmjs.com/package/pub-recs"
 tags: ["cli", "recommendations"]
 language: "Node.js"

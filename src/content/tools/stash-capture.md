@@ -4,7 +4,7 @@ tagline: "Stash your ideas, tasks, and reminders instantly with a global hotkey 
 author: "Robson Ferreira"
 author_github: "robsonferr"
 github_url: "https://github.com/robsonferr/stash"
-thumbnail: "/thumbnails/stash-capture.png"
+thumbnail: "/thumbnails/stash-capture.webp"
 tags: ["macos", "tasks", "simple"]
 language: "Swift"
 license: "MIT"

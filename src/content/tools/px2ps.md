@@ -4,7 +4,7 @@ tagline: "PX2PS is a PowerShell utility module for converting Pixquare format (.
 author: "Jake Hildreth"
 author_github: "jakehildreth"
 github_url: "https://github.com/jakehildreth/px2ps"
-thumbnail: "/thumbnails/px2ps.png"
+thumbnail: "/thumbnails/px2ps.webp"
 website_url: "https://www.powershellgallery.com/packages/PX2PS _No response_"
 tags: ["cli", "fun", "pixels"]
 language: "PowerShell"

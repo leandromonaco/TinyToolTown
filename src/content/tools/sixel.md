@@ -4,7 +4,7 @@ tagline: "Display images in the terminal using various protocols"
 author: "Andree Renneus"
 author_github: "trackd"
 github_url: "https://github.com/trackd/Sixel"
-thumbnail: "/thumbnails/sixel.png"
+thumbnail: "/thumbnails/sixel.webp"
 website_url: "https://github.com/trackd/Sixel"
 tags: ["cli", "terminal", "sixel"]
 language: "C#"

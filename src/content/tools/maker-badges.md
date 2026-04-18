@@ -4,7 +4,7 @@ tagline: "Inspired by Scouting America's Merit Badges, Maker Badges are physical
 author: "Tommy Falgout"
 author_github: "lastcoolnameleft"
 github_url: "https://github.com/lastcoolnameleft/maker-badges"
-thumbnail: "/thumbnails/maker-badges.png"
+thumbnail: "/thumbnails/maker-badges.webp"
 website_url: "https://lastcoolnameleft.github.io/maker-badges/"
 tags: ["maker", "badges", "svg"]
 language: "SVG"

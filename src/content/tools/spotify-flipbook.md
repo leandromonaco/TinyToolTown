@@ -4,7 +4,7 @@ tagline: "Generate print-ready mini-booklets from Spotify track URLs with codes 
 author: "Michal Bryxí"
 author_github: "MichalBryxi"
 github_url: "https://github.com/MichalBryxi/spotify-flipbook"
-thumbnail: "/thumbnails/spotify-flipbook.png"
+thumbnail: "/thumbnails/spotify-flipbook.webp"
 website_url: "https://spotify-flipbook.netlify.app"
 tags: ["spotify", "fun"]
 language: "JavaScript"

@@ -4,7 +4,7 @@ tagline: "A self-hosted web dashboard for the eWeLink CUBE smart-home gateway, s
 author: "Jan Petersen"
 author_github: "japperj"
 github_url: "https://github.com/japperJ/eWeLink-CUBE-Dashboard"
-thumbnail: "/thumbnails/ewelink-cube-dashboard.png"
+thumbnail: "/thumbnails/ewelink-cube-dashboard.webp"
 tags: ["monitoring"]
 language: "Node.js"
 license: "MIT"

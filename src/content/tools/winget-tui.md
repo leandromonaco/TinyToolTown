@@ -4,7 +4,7 @@ tagline: "A terminal UI for Windows Package Manager (winget)"
 author: "Scott Hanselman"
 author_github: "shanselman"
 github_url: "https://github.com/shanselman/winget-tui"
-thumbnail: "/thumbnails/winget-tui.png"
+thumbnail: "/thumbnails/winget-tui.webp"
 tags: ["cli", "windows", "tui", "package-manager"]
 language: "Rust"
 license: "MIT"

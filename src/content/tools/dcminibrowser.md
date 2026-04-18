@@ -4,7 +4,7 @@ tagline: "macOS menu bar application for displaying web pages"
 author: "David Corbin"
 author_github: "davidcorbin"
 github_url: "https://github.com/davidcorbin/DCMiniBrowser"
-thumbnail: "/thumbnails/dcminibrowser.png"
+thumbnail: "/thumbnails/dcminibrowser.webp"
 tags: ["mac", "web"]
 language: "Swift"
 license: "MIT"

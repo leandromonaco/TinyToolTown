@@ -4,7 +4,7 @@ tagline: "Concurrent command-line download manager. Inspired from Leech macOS ap
 author: "Uğur Özyılmazel"
 author_github: "vigo"
 github_url: "https://github.com/vigo/leech"
-thumbnail: "/thumbnails/leech.png"
+thumbnail: "/thumbnails/leech.webp"
 tags: ["cli", "download-manager"]
 language: "Go"
 license: "MIT"

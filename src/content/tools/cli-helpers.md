@@ -4,7 +4,7 @@ tagline: "Command-line helpers scripts for common local development workflows."
 author: "George Korobkov"
 author_github: "gkorobkov"
 github_url: "https://github.com/gkorobkov/cli-helpers"
-thumbnail: "/thumbnails/cli-helpers.png"
+thumbnail: "/thumbnails/cli-helpers.webp"
 tags: ["cli", "git", "markdown", "windows", "developer-tools"]
 language: "Batchfile, bush, Python, shell"
 license: "MIT"

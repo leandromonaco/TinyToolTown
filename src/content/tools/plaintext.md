@@ -4,7 +4,7 @@ tagline: "Turn messy AI responses into clean text — right in your browser"
 author: "Aital"
 author_github: "kitecat"
 github_url: "https://github.com/kitecat/plaintext-web"
-thumbnail: "/thumbnails/plaintext.png"
+thumbnail: "/thumbnails/plaintext.webp"
 website_url: "https://kitecat.github.io/plaintext-web/"
 tags: ["text", "markdown", "web app", "text formatting"]
 language: "JavaScript"

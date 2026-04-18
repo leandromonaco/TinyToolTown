@@ -4,7 +4,7 @@ tagline: "ACID first. Everything else… eventually."
 author: "Steven Hildreth"
 author_github: "sphildreth"
 github_url: "https://github.com/sphildreth/decentdb"
-thumbnail: "/thumbnails/decentdb.png"
+thumbnail: "/thumbnails/decentdb.webp"
 website_url: "https://decentdb.org"
 tags: ["database", "embedded", "sqlite", "orm", "dapper"]
 language: "Nim"

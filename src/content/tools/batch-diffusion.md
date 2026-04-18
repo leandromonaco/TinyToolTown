@@ -4,7 +4,7 @@ tagline: "Unattended batch image generation using Stable Diffusion"
 author: "Dave Bry"
 author_github: "dbry23"
 github_url: "https://github.com/dbry23/batch-diffusion"
-thumbnail: "/thumbnails/batch-diffusion.png"
+thumbnail: "/thumbnails/batch-diffusion.webp"
 tags: ["cli", "ai", "ai images", "stable diffusion", "stable-diffusion"]
 language: "Python"
 license: "CC BY-NC 4.0"

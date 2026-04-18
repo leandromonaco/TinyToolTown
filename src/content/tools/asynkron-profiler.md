@@ -4,7 +4,7 @@ tagline: "CLI based .NET profiler - CPU, Memory+Heap, Exceptions, Contention,"
 author: "Roger Johansson"
 author_github: "rogeralsing"
 github_url: "https://github.com/asynkron/Asynkron.Profiler"
-thumbnail: "/thumbnails/asynkron-profiler.png"
+thumbnail: "/thumbnails/asynkron-profiler.webp"
 tags: ["dotnet", "cli", "profiling"]
 language: "C#"
 license: "MIT"

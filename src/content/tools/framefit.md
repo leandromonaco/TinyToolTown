@@ -4,7 +4,7 @@ tagline: "Quickly resize any macOS window to preset or custom dimensions."
 author: "Elio Struyf"
 author_github: "estruyf"
 github_url: "https://github.com/estruyf/FrameFit"
-thumbnail: "/thumbnails/framefit.png"
+thumbnail: "/thumbnails/framefit.webp"
 tags: ["macos", "window-management", "productivity", "tauri", "react"]
 language: "TypeScript"
 license: "MIT"

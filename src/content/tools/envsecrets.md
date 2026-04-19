@@ -11,6 +11,8 @@ license: "MIT"
 theme: "newspaper"
 date_added: "2026-04-18"
 featured: false
+ai_summary: "Say goodbye to secret spills in your dotfiles and hello to ninja-level secret stash with a slick macOS CLI that locks your env vars in your Keychain and optionally syncs with 1Password for backup and multi-device magic. Keep your secrets safe, stylish, and screen-share-proof without breaking a sweat!"
+ai_features: ["🔥 Stores secrets securely in macOS Keychain with offline access", "⚡ Optional 1Password integration for cross-machine sync and backup", "🎯 Fetches secrets on demand with shell-friendly output for seamless env var use", "🛠️ Supports secret lifecycle commands like store, fetch, update, delete, and sync"]
 ---
 
 It's like 6 bash functions in a trench coat looking like a Go binary.

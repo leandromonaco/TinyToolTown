@@ -11,6 +11,8 @@ language: "C#"
 license: "MIT"
 date_added: "2026-04-12"
 featured: false
+ai_summary: "Spin up production-ready .NET solutions straight from your terminal with a slick, interactive interface that scaffolds clean architecture like a pro. Say goodbye to tedious setup and hello to instant, standardized projects packed with all the essentials!"
+ai_features: ["🛠️ Scaffold Clean Architecture layers lightning-fast", "⚙️ Toggle powerful features like Swagger, Serilog, and Health Checks", "🐳 CI/CD ready output with Dockerfile and GitHub Actions", "📦 Curated NuGet package selection for extra magic"]
 ---
 
 A terminal-based user interface for scaffolding production-ready .NET solutions with Clean Architecture patterns.

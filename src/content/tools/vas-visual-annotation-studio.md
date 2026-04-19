@@ -11,6 +11,8 @@ license: "MIT"
 theme: "ocean"
 date_added: "2026-04-15"
 featured: false
+ai_summary: "Snap, scribble, and share your screen moments faster than ever with this sleek Mac tool that turns screenshot annotation into a smooth, stress-free dance. Perfect for teams who love clear visuals and quick communication without the fuss."
+ai_features: ["🎨 Lightning-fast screenshot annotation tools", "🌍 Trilingual support for global collaboration", "🛠️ Zero build tools or package managers needed", "📜 Detailed user guide with handy walkthroughs"]
 ---
 
 VAS — Visual Annotation Studio is a screenshot and image annotation tool designed exclusively for macOS. Capture, annotate, and export in one seamless workflow.

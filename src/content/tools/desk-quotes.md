@@ -10,6 +10,8 @@ language: "C#"
 license: "MIT"
 date_added: "2026-04-18"
 featured: false
+ai_summary: "Spice up your Windows desktop with rotating inspirational quotes that match your mood and style—because who says wallpapers have to be boring? This nifty tray app lets you jazz up your background with fonts and colors on the fly, making motivation just a hotkey away."
+ai_features: ["🎨 Instantly refresh wallpaper with custom quotes and fonts", "🌓 Adjust wallpaper background color with hotkeys for mood setting", "🎯 Filter quotes by mood tags to match your vibe", "💻 Simple tray menu controls with on-screen HUD feedback"]
 ---
 
 A Windows tray app that rotates your desktop wallpaper using quotes from a local `settings.json` file.

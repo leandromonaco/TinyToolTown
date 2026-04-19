@@ -10,6 +10,8 @@ language: "C#, WPF"
 license: "MIT"
 date_added: "2026-04-14"
 featured: false
+ai_summary: "Never miss a beat on your secondary screen again with this tiny app that brings the date and time right where Windows 11 forgot to show it! Simple, sleek, and exactly what your multitasking setup needs."
+ai_features: ["🖥️ Displays time on secondary monitors", "🛠️ Small and configurable", "🎨 Clean and minimal desktop widget"]
 ---
 
 A small application for displaying the date and time on the desktop.

@@ -9,6 +9,8 @@ language: "TypeScript"
 license: "MIT"
 date_added: "2026-04-17"
 featured: false
+ai_summary: "Dive into your finances straight from the command line with a nifty tool that fetches all your bank accounts and transactions in a snap—because who has time for clicking through apps? It’s like having your own financial sidekick in the terminal!"
+ai_features: ["🔥 Fetch bank accounts and transactions via CLI", "⚡ Filter transactions by account and date range", "🎯 Outputs clean JSON for easy scripting and automation"]
 ---
 
 simplefin-cli is a tiny, no-nonsense command-line client for the SimpleFin Bridge Protocol. Exchange a setup token once, then pipe your real bank accounts and transactions straight into jq, scripts, or spreadsheets as clean JSON. Built because personal finance should be hackable from the terminal — every command emits a predictable { ok: true, ... } / { ok: false, error } envelope, so it plays nicely with any Unix pipeline.

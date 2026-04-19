@@ -9,6 +9,8 @@ language: "powershell"
 license: "GNU"
 date_added: "2026-04-18"
 featured: false
+ai_summary: "Turn your PowerShell queries into magic commands with a little AI wizardry that speaks your language and does the heavy scripting for you! It’s like having a friendly AI sidekick for the command line chaos."
+ai_features: ["🤖 Generate PowerShell commands from natural language prompts", "🔑 Easy OpenAI API key setup and config management", "🚀 Supports quick command execution with simple prompt input"]
 ---
 
 Never be annoyed by those sentence-long powershell commands ever again! Let ai figure it out for you.

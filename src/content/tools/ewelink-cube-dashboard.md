@@ -10,6 +10,8 @@ language: "Node.js"
 license: "MIT"
 date_added: "2026-04-14"
 featured: false
+ai_summary: "Keep your smart home cozy and under control with a sleek, self-hosted dashboard that shows all your eWeLink CUBE Zigbee devices in real time — no cloud needed and no freezing allowed!"
+ai_features: ["🔥 Real-time device overview with temperature and battery status", "⚡ Live updates via Server-Sent Events for instant feedback", "🎯 Sensor history with interactive charts stored locally", "🌗 Dark and light theme to match your style"]
 ---
 
 Real-time device overview — see every Zigbee device on your CUBE at a glance (temperature, humidity, battery, signal, power state).

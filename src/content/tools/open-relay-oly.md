@@ -11,6 +11,8 @@ license: "MIT"
 theme: "terminal"
 date_added: "2026-04-14"
 featured: false
+ai_summary: "Keep your long-running CLI jobs alive and kicking even when you close the terminal, with the magic of persistent, supervised sessions that make managing interactive workflows a breeze. It's like a cozy home for your commands where you can drop in anytime, send input remotely, and never miss a beat!"
+ai_features: ["🔥 Detach and keep processes alive beyond your terminal session", "⚡ Send input or commands without attaching to the session", "🎯 Reattach anytime with full context and replayed output", "🖥️ Local web UI and API for browser-based control"]
 ---
 
 > Run interactive CLIs and AI agents like managed services.

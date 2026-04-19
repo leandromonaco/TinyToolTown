@@ -12,6 +12,8 @@ license: "GPL-3.0"
 theme: "terminal"
 date_added: "2026-04-18"
 featured: false
+ai_summary: "Dive into the world of assembly with a sleek, all-in-one tool that assembles, emulates, and even lets you code within a friendly Windows IDE designed for learners and tinkerers alike! It’s perfect for those who want to get hands-on with MIPS assembly and beyond without the usual headaches."
+ai_features: ["🔥 Integrated assembler, linker, emulator, and IDE for a smooth coding experience", "⚡ Supports MIPS assembly with debugging and emulation", "🎯 Cross-platform core tools using .NET 10 for versatility", "🌍 Built-in localization including English, Hebrew, and Spanish"]
 ---
 
 Zarem is an IDE for writing, running, and debugging applications written in assembly.

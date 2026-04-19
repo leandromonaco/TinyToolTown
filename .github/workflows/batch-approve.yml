@@ -70,6 +70,12 @@ jobs:
               'codecov.io', 'travis-ci.', 'ci.appveyor.com', 'github.com/workflows',
             ];
             const isBadge = (u) => badgeHosts.some(h => u.includes(h)) || u.includes('/badge');
+            const avatarHosts = ['avatars.githubusercontent.com', 'gravatar.com'];
+            const isLikelyAvatar = (u) =>
+              avatarHosts.some(h => u.includes(h)) ||
+              u.includes('all_contributors') ||
+              u.includes('/contributors') ||
+              /(^|[/?=_-])(avatar|profile)([/?=_-]|$)/i.test(u);
 
             const MIN_IMAGE_SIZE = 10 * 1024;
             const MAX_SOURCE_IMAGE_SIZE = 60 * 1024 * 1024;
@@ -379,10 +385,10 @@ jobs:
 
                       const mdImgs = [...readme.matchAll(/!\[[^\]]*\]\(([^)]+)\)/g)]
                         .map(m => m[1])
-                        .filter(u => !isBadge(u));
+                        .filter(u => !isBadge(u) && !isLikelyAvatar(u));
                       const htmlImgs = [...readme.matchAll(/<img[^>]+src=["']([^"']+)["']/gi)]
                         .map(m => m[1])
-                        .filter(u => !isBadge(u));
+                        .filter(u => !isBadge(u) && !isLikelyAvatar(u));
                       const topImages = [...mdImgs, ...htmlImgs].slice(0, 5);
                       if (topImages.length === 0) break;
 

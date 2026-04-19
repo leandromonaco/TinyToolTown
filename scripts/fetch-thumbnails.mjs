@@ -30,6 +30,15 @@ const badgeHosts = [
 ];
 
 const isBadge = (url) => badgeHosts.some(host => url.includes(host)) || url.includes('/badge');
+const avatarHosts = [
+  'avatars.githubusercontent.com',
+  'gravatar.com',
+];
+const isLikelyAvatar = (url) =>
+  avatarHosts.some(host => url.includes(host)) ||
+  url.includes('all_contributors') ||
+  url.includes('/contributors') ||
+  /(^|[/?=_-])(avatar|profile)([/?=_-]|$)/i.test(url);
 
 async function fetchWithTimeout(url, opts = {}) {
   const controller = new AbortController();
@@ -180,7 +189,7 @@ async function findBestReadmeImage(owner, repo) {
       const mdImgs = [...readme.matchAll(/!\[[^\]]*\]\(([^)]+)\)/g)].map(match => match[1]);
       const htmlImgs = [...readme.matchAll(/<img[^>]+src=["']([^"']+)["']/gi)].map(match => match[1]);
       const topImages = [...mdImgs, ...htmlImgs]
-        .filter(url => !isBadge(url))
+        .filter(url => !isBadge(url) && !isLikelyAvatar(url))
         .slice(0, 5);
 
       if (topImages.length === 0) continue;
@@ -242,18 +251,18 @@ async function main() {
     console.log(`🔍 ${slug}: checking ${owner}/${repo}...`);
 
     try {
-      let source = await findBestReadmeImage(owner, repo);
+      let source = null;
 
-      if (!source) {
-        const existingThumb = getExistingThumbnailFile(slug, fm.thumbnail);
-        if (existingThumb) {
-          source = {
-            url: existingThumb,
-            size: fs.statSync(existingThumb).size,
-            buffer: fs.readFileSync(existingThumb),
-          };
-          console.log('   ↺ Re-optimizing existing thumbnail');
-        }
+      const existingThumb = getExistingThumbnailFile(slug, fm.thumbnail);
+      if (existingThumb) {
+        source = {
+          url: existingThumb,
+          size: fs.statSync(existingThumb).size,
+          buffer: fs.readFileSync(existingThumb),
+        };
+        console.log('   ↺ Re-optimizing existing thumbnail');
+      } else {
+        source = await findBestReadmeImage(owner, repo);
       }
 
       if (!source) {

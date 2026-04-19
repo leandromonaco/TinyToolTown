@@ -4,7 +4,7 @@ tagline: "A modern, cross platform IDE for .NET, built with .NET & Godot"
 author: "Matt Parker"
 author_github: "MattParkerDev"
 github_url: "https://github.com/MattParkerDev/SharpIDE"
-thumbnail: "/thumbnails/sharpide.png"
+thumbnail: "/thumbnails/sharpide.webp"
 tags: ["windows", "macos", "linux", "dotnet", "ide"]
 language: "C#"
 license: "MIT"

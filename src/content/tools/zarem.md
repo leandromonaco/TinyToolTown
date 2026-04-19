@@ -4,7 +4,7 @@ tagline: "An Assembler, Emulator and IDE for assembly in C#/WinUI"
 author: "Avishai Dernis"
 author_github: "Avid29"
 github_url: "https://github.com/Avid29/Zarem"
-thumbnail: "/thumbnails/zarem.png"
+thumbnail: "/thumbnails/zarem.webp"
 website_url: "https://apps.microsoft.com/detail/9NG185JD1RFD"
 tags: ["assembly", "mips", "emulation", "jit", "debugging"]
 language: "C#"

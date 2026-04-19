@@ -4,6 +4,7 @@ tagline: "Quickly check whether a SQL command or function is supported across ma
 author: "Christopher Johnson"
 author_github: "computerguycj"
 github_url: "https://github.com/computerguycj/caniusesql"
+thumbnail: "/thumbnails/caniusesql-com.webp"
 website_url: "https://www.caniusesql.com/"
 tags: ["sql", "database", "postgresql", "mysql", "sqlite"]
 language: "JavaScript"

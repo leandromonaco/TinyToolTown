@@ -4,7 +4,7 @@ tagline: "A browser-based drum kit made as a fun interactive toy for my grandson
 author: "Philip Newborough"
 author_github: "corenominal"
 github_url: "https://github.com/corenominal/drum-kit-canvas.philipnewborough.co.uk"
-thumbnail: "/thumbnails/oliver-s-drum-kit.png"
+thumbnail: "/thumbnails/oliver-s-drum-kit.webp"
 website_url: "https://drum-kit-canvas.philipnewborough.co.uk/"
 tags: ["game", "kids", "fun", "toy", "drumkit"]
 language: "JavaScript"

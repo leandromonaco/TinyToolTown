@@ -4,7 +4,7 @@ tagline: "Instant search for your boring documents"
 author: "Ani Betts"
 author_github: "anaisbetts"
 github_url: "https://github.com/anaisbetts/kreuzakt"
-thumbnail: "/thumbnails/kreuzakt.png"
+thumbnail: "/thumbnails/kreuzakt.webp"
 tags: ["documents", "paperless", "mcp", "ai", "ocr"]
 language: "TypeScript"
 license: "AGPL 3.0"

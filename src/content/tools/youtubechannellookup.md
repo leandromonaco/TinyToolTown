@@ -4,7 +4,7 @@ tagline: "A cross-platform command-line tool for bidirectional lookups between Y
 author: "Matthew Housholder"
 author_github: "mhous"
 github_url: "https://github.com/mhous/YouTubeChannelLookup"
-thumbnail: "/thumbnails/youtubechannellookup.png"
+thumbnail: "/thumbnails/youtubechannellookup.webp"
 tags: ["cli"]
 language: "Python"
 license: "MIT"

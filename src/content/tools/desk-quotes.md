@@ -4,7 +4,7 @@ tagline: "Convert your favorite quotes into Windows desktop wallpapers"
 author: "Mithun Shanbhag"
 author_github: "mithunshanbhag"
 github_url: "https://github.com/mithunshanbhag/desk-quotes"
-thumbnail: "/thumbnails/desk-quotes.png"
+thumbnail: "/thumbnails/desk-quotes.webp"
 tags: ["windows", "tray", "quotes", "wallpaper"]
 language: "C#"
 license: "MIT"

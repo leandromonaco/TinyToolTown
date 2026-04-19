@@ -4,7 +4,7 @@ tagline: "Animated Kaprekar routine explorer for the 6174 and 495 constants"
 author: "David Pine"
 author_github: "IEvangelist"
 github_url: "https://github.com/IEvangelist/6174"
-thumbnail: "/thumbnails/kaprekar-explorer.jpg"
+thumbnail: "/thumbnails/kaprekar-explorer.webp"
 website_url: "https://ievangelist.github.io/6174/"
 tags: ["math", "visualization", "educational", "react", "kaprekar"]
 language: "TypeScript"

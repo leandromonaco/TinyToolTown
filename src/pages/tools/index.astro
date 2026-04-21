@@ -244,6 +244,8 @@ const moreTags = [...tagCounts.entries()]
         : `Showing ${visible} of ${totalCount} tools`;
     }
     if (counterNumber && counterLabel) {
+      // Prevent the ToolCounter animation from overwriting filtered counts
+      counterNumber.dataset.animate = 'false';
       counterNumber.style.webkitTextFillColor = '';
       if (visible === totalCount) {
         counterNumber.textContent = String(totalCount);

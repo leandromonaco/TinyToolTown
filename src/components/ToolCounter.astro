@@ -41,7 +41,10 @@ const {
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
-        animateCounter(entry.target as HTMLElement);
+        const el = entry.target as HTMLElement;
+        if (el.dataset.animate === 'true') {
+          animateCounter(el);
+        }
         observer.unobserve(entry.target);
       }
     });

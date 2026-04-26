@@ -317,8 +317,18 @@ try
                 continue;
             }
 
-            // Parse the structured response into summary + features
-            var (summary, features) = SummaryGenerator.ParseResponse(rawResponse);
+            // Parse + validate the structured response. Returns null if the model's output failed
+            // injection-resistance validation; in that case skip writing rather than commit garbage.
+            var parseResult = SummaryGenerator.ParseResponse(rawResponse, toolName.Trim('"'), tagline.Trim('"'));
+            if (parseResult is null)
+            {
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine("🛡️  validator rejected response — skipping write");
+                Console.ResetColor();
+                failed++;
+                continue;
+            }
+            var (summary, features) = parseResult.Value;
 
             // Write the ai_summary and ai_features back into the frontmatter
             var updatedContent = FrontmatterParser.AddField(content, "ai_summary", summary);

@@ -11,6 +11,8 @@ language: "C#"
 license: "MIT"
 date_added: "2026-04-19"
 featured: false
+ai_summary: "Discover which sneaky process is locking your file or hogging your port in a snap, making troubleshooting a breeze and freeing your resources faster than you can say whoholds!"
+ai_features: ["🕵️‍♂️ Identify file locks and port bindings instantly", "🌍 Cross-platform support for seamless use on Windows, Linux, and macOS", "⚡ Native binaries with no runtime dependencies for lightning-fast performance", "🎨 Human-friendly output with color and clear error messages"]
 ---
 
 You know that moment — "The process cannot access the file because it is being used by another process." Which process? Windows won't tell you. `handle.exe` requires a separate download and admin rights. `whoholds myapp.dll` just tells you.

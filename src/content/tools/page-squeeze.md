@@ -11,6 +11,8 @@ language: "Javascript"
 license: "Apache-2.0 license"
 date_added: "2026-04-20"
 featured: false
+ai_summary: "Turn any messy webpage into neat, paste-ready markdown with a single click—perfect for feeding your favorite LLMs or organizing research without the clutter!"
+ai_features: ["🧹 Clean markdown extraction", "💾 Downloads as .md file instantly", "🎛️ Select which page sections to include", "🔗 Preserves useful links in markdown format"]
 ---
 
 Page Squeeze converts any webpage into clean, pastable markdown optimized for LLMs. Click the extension, and it strips away ads, popups, cookie banners, and layout noise to extract just the meaningful content — title, metadata, article text, and links — formatted as clean markdown. No clutter, no HTML baggage, no copy-paste formatting headaches. Just hit copy or download, and paste straight into your LLM of choice. Everything runs locally in your browser with no data collection, no accounts, and no cloud sync.

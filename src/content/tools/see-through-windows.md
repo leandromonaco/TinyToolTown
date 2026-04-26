@@ -11,6 +11,8 @@ language: "C#"
 license: "MIT"
 date_added: "2026-04-26"
 featured: false
+ai_summary: "Peek behind your apps like a tech magician by making any window transparent with a quick hotkey—perfect for multitaskers who love seeing it all without switching screens!"
+ai_features: ["🪟 Instant window transparency at your fingertips", "🔥 Configurable hotkey for ultimate control", "⚡ Runs standalone with no extra installs needed", "🎯 Windows-only for seamless desktop magic"]
 ---
 
 Sometimes you need to switch back and forth between windows to copy some information - i.e. from a scan to a form, as I found myself doing regularly. Then it would come in handy to "peek through" the current window. Or maybe you want to trace over an image, or you need an overlay of one window on top of another.

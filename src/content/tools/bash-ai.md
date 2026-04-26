@@ -4,6 +4,7 @@ tagline: "What your"
 author: "Tony Manso"
 author_github: "OddbeakerLLC"
 github_url: "https://github.com/OddbeakerLLC/bash-ai"
+thumbnail: "/thumbnails/bash-ai.gif"
 tags: ["cli", "linux"]
 language: "bash"
 license: "GNU"

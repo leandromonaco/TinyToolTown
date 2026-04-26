@@ -4,6 +4,7 @@ tagline: "AI assist for the evil powershell command line"
 author: "Tony Manso"
 author_github: "OddbeakerLLC"
 github_url: "https://github.com/OddbeakerLLC/powershell-ai"
+thumbnail: "/thumbnails/powershell-ai.gif"
 tags: ["cli", "windows"]
 language: "powershell"
 license: "GNU"

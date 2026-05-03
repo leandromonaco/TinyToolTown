@@ -12,6 +12,8 @@ license: "MIT"
 theme: "terminal"
 date_added: "2026-05-02"
 featured: false
+ai_summary: "Finally, bash commands that actually work on Windows without hacks, translating your favorite Linux-y tools into native PowerShell magic with typed objects and real flag support—your pipelines just got a serious glow-up!"
+ai_features: ["🔥 Real bash commands natively on Windows without WSL or Cygwin", "⚡ Commands return rich typed .NET objects for powerful scripting", "🎯 Full support for bash flags like rm -rf, ls -la, grep -r, sort -k3", "🛠️ Includes standalone shell binary and PowerShell module for flexible use"]
 ---
 
 Real bash commands on Windows. No WSL, Git Bash, or Cygwin required.

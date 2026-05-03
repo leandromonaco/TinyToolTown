@@ -11,6 +11,8 @@ license: "MIT"
 theme: "forest"
 date_added: "2026-05-02"
 featured: false
+ai_summary: "Why settle for one default browser when you can pick your favorite every time you click a link? This nifty Windows tool lets you choose your browsing adventure on the fly, making link-clicking way more fun and flexible!"
+ai_features: ["🔥 Choose browser on every link click", "⚡ Custom browser configurations with launch arguments", "🎯 Automatic browser rules to skip prompts", "🛠️ Modern UI with a settings app and experimental web extension"]
 ---
 
 Sometimes you might want to open a link in a browser of your choice, instead of the default one. Hurl lets you choose the browser each time you click a link (links outside of browsers). So naturally, it acts as default browser to do that.

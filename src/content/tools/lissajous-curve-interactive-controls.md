@@ -11,6 +11,8 @@ language: "JavaScript"
 license: "MIT"
 date_added: "2026-05-02"
 featured: false
+ai_summary: "Dive into the mesmerizing world of looping patterns where math meets music—tweak sine waves to see musical intervals come alive visually and sonically, even discovering what Meta’s logo might sound like!"
+ai_features: ["🎶 Hear musical intervals as you adjust sine wave ratios", "🔄 Interactive controls for real-time curve and sound exploration", "🎨 Visualize complex Lissajous patterns with ease", "🎵 Base frequency set to A3 for authentic audio experience"]
 ---
 
 Lissajous curves are looping patterns formed by plotting two sine waves at right angles.

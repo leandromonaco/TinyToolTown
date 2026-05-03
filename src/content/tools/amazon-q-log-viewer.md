@@ -10,6 +10,8 @@ language: "TypeScript"
 license: "MIT"
 date_added: "2026-05-02"
 featured: false
+ai_summary: "Dive into your Amazon Q chat session logs with a slick VS Code extension that turns messy files into a neat, searchable, and filterable playground for inspecting requests, responses, tool calls, and errors in style!"
+ai_features: ["🔥 Browse chat and log sessions in a card-based overview", "⚡ Filter entries by categories and free-text search", "🎯 View detailed request, response, and tool call info in popups", "🌙 Toggle between light and dark themes with virtual scrolling for huge logs"]
 ---
 
 A tiny debug logs viewer for Amazon Q inside Visual Studio Code.

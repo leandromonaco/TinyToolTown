@@ -11,6 +11,8 @@ language: "C#"
 license: "MIT License"
 date_added: "2026-05-03"
 featured: false
+ai_summary: "Write Markdown like a pro with this sleek, distraction-free editor that gives you live HTML previews and smart file management, perfect for devs and writers who want their docs to shine effortlessly!"
+ai_features: ["🔥 Real-time HTML preview with stylish formatting", "⚡ Smart file management with save prompts and templates", "🎯 Clean, customizable UI with adjustable transparency", "💾 Handy keyboard shortcuts for lightning-fast editing"]
 ---
 
 Overview Markdown Editor is a lightweight, fast, and distraction‑free editor built with Windows Forms. It allows users to write Markdown content with a live HTML preview powered by the Markdig library. The editor is designed for everyday notes, README edits, and quick documentation.

@@ -12,6 +12,8 @@ license: "MIT"
 theme: "terminal"
 date_added: "2026-04-30"
 featured: false
+ai_summary: "Capture and replay your PowerShell terminal sessions on Windows 11 with pixel-perfect timing and no fuss—it's like a DVR for your command line that keeps every keystroke and spinner intact!"
+ai_features: ["🔥 Native Windows 11 ConPTY support for true terminal emulation", "⚡ Records asciicast v3 files compatible with asciinema tools", "🎯 High-fidelity timing with millisecond precision and event coalescing", "🛠️ Easy playback, concatenation, and customizable stop keys for smooth control"]
 ---
 
 Native Windows terminal recorder and player for PowerShell 7+ on Windows 11. Record and replay your terminal sessions! Great for sharing Copilot CLI/Claude Code demos!

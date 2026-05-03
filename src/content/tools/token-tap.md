@@ -11,6 +11,8 @@ language: "csharp"
 license: "MIT"
 date_added: "2026-05-02"
 featured: false
+ai_summary: "Keep your AI coding tool spending in check with this nifty local meter that tracks token usage and costs while respecting your privacy—perfect for avoiding surprise bills and staying savvy with your AI budget!"
+ai_features: ["🔥 Supports multiple AI tools and log formats", "⚡ Tracks token use and estimated costs locally", "🎯 Exports detailed reports in CSV/XLSX", "🚀 Publishes live spend metrics to Windows Performance Counters for real-time monitoring"]
 ---
 
 Token-Tap keeps an eye on your AI coding tools before they quietly turn into a mortgage payment.

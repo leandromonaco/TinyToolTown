@@ -10,6 +10,8 @@ language: "C#"
 license: "MIT"
 date_added: "2026-05-02"
 featured: false
+ai_summary: "Get your Windows troubleshooting done with a friendly AI sidekick that listens to plain English and runs safe PowerShell checks—perfect for sysadmins who want quick answers without the command line chaos!"
+ai_features: ["🤖 Natural language troubleshooting without command line hassle", "🔒 Safe by default with read-only auto commands and approval for changes", "🌐 Local and remote support with multi-server sessions", "📊 Generate shareable HTML reports of your troubleshooting adventures"]
 ---
 
 TroubleScout is a AI‑powered troubleshooting CLI for Windows. I manage Windows servers at work and always wanted an AI assistant that could deal with logs so I wouldn’t have to open Event Viewer ever again. When the Copilot SDK came out, I finally built one.

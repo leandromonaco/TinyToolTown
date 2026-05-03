@@ -12,6 +12,8 @@ license: "MIT"
 theme: "neon"
 date_added: "2026-05-02"
 featured: false
+ai_summary: "Unlock the power of Windows Sysinternals safely with a tool that lets AI agents peek under the hood without risking your system—perfect for secure, read-only diagnostics that keep your data locked down and your tech curious pals happy!"
+ai_features: ["🛡️ Typed, read-only Sysinternals command wrappers", "🤖 Local MCP server for safe AI diagnostics", "🔒 No shell access with strict safety and audit logs", "⚡ Easy config and JSON-friendly output for dev workflows"]
 ---
 
 Safe Windows diagnostics for AI agents — Sysinternals power with a baby gate.

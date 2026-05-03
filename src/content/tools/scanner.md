@@ -10,6 +10,8 @@ license: "free"
 theme: "ocean"
 date_added: "2026-05-02"
 featured: false
+ai_summary: "Scan, auto-crop, and polish your documents with a sleek Windows app that turns your scanner into a smart, cloud-savvy companion—complete with OCR magic and modern export formats!"
+ai_features: ["🖨️ WIA scanner support for flatbed, ADF, duplex, and film", "✂️ Auto-crop and perspective correction with OpenCV", "🔍 Powerful multi-language OCR using Qwen2.5-VL and Tesseract fallback", "☁️ Cloud exports to OneDrive and Google Drive"]
 ---
 
 Scanner Integration -- WIA (Windows Image Acquisition) with support for Flatbed, ADF, Duplex, and Film sources

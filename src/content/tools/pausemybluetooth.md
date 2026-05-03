@@ -10,6 +10,8 @@ language: "C#"
 license: "MIT"
 date_added: "2026-05-02"
 featured: false
+ai_summary: "Say goodbye to Bluetooth devices that won’t take a hint—this nifty tool lets you easily pause auto-reconnect on Windows so your gadgets chill until you want them back. Effortless control over your Bluetooth vibe, anytime you need it!"
+ai_features: ["🎧 View and manage paired Bluetooth devices", "🛑 Temporarily disable auto-connect per device or adapter", "⚡ Simple, lightweight .NET 8 app with quick toggling UI"]
 ---
 
 It does help you keep bluetooth enabled, and temporarily disable auto-connect of certain bluetooth devices (i.e. Apple AirPods).

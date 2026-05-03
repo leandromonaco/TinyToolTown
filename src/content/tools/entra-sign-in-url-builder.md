@@ -11,6 +11,8 @@ language: "HTML"
 license: "MIT"
 date_added: "2026-05-02"
 featured: false
+ai_summary: "Tired of wrestling with confusing Microsoft Entra OAuth URLs? This nifty builder whips up perfectly formatted sign-in and admin consent URLs in a snap, making authentication setup both quick and painless!"
+ai_features: ["🔗 Intuitive form interface for quick URL generation", "📚 Helpful tooltips with links to official docs for learning", "⚡ Instant encoding and formatting of OAuth 2.0 parameters", "🎯 Supports both sign-in and admin consent URL creation"]
 ---
 
 Entra Sign-in URL Builder is a free, open source web tool for generating Microsoft Entra ID OAuth 2.0 authorization URLs and admin consent URLs. It provides a form-driven way to set parameters, encode values correctly, and learn what each parameter does through helpful guidance and links to official documentation. It is delightful because it replaces the tedious process of manually building and debugging authentication URLs with an instant, educational workflow.

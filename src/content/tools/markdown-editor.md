@@ -4,6 +4,7 @@ tagline: "his Markdown Editor provides a simple yet powerful environment for Mar
 author: "Ashish Jain"
 author_github: "arjain18"
 github_url: "https://github.com/arjain18/MarkdownEditor"
+thumbnail: "/thumbnails/markdown-editor.webp"
 website_url: "https://www.sqamanual.com/Home/MarkdownEditor"
 tags: ["markdown", "editor", "windows"]
 language: "C#"

@@ -1,6 +1,6 @@
 ---
 name: "BYO CLI"
-tagline: "Extensible developer productivity CLI"
+tagline: "BYO CLI helps developers save repeatable workflows, organize local secrets and settings, and turn messy terminal habits into reliable automation."
 author: "Leandro Monaco"
 author_github: "leandromonaco"
 github_url: "https://github.com/softwareworkercom/byo"

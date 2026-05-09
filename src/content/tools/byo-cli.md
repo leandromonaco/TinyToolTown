@@ -6,7 +6,7 @@ author_github: "leandromonaco"
 github_url: "https://github.com/softwareworkercom/byo"
 thumbnail: "/thumbnails/byo-cli.gif"
 website_url: "https://www.byocli.com"
-tags: ["cli", ".net", "devex"]
+tags: ["cli", "dotnet", "productivity", "devex", "developer-tools", "terminal", "automation"]
 language: "C#"
 license: "MIT"
 theme: "minimal"
